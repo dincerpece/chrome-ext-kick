@@ -8,11 +8,7 @@
   "history": [
     {
       "version": "1.0.1",
-      "message": [
-    "Favori kullanıcıları çerçeveli gösterme eklendi.",
-    "Satır arka planı vurgulama desteği getirildi.",
-    "Performans iyileştirmeleri yapıldı."
-  ]
+      "message": "Yeni özellikler eklendi: Favori kullanıcıları çerçeveli gösterme ve seçili kullanıcıların mesajlarını öne çıkarmak için satır arka planı vurgulama desteği geldi."
     },
     {
       "version": "1.0.2",
@@ -28,7 +24,11 @@
     },
      {
       "version": "1.0.5",
-      "message": "Yeni özellikler eklendi: Favori kullanıcıları çerçeveli gösterme ve seçili kullanıcıların mesajlarını öne çıkarmak için satır arka planı vurgulama desteği geldi."
+     "message": [
+    "Favori kullanıcıları çerçeveli gösterme eklendi.",
+    "Satır arka planı vurgulama desteği getirildi.",
+    "Performans iyileştirmeleri yapıldı."
+  ]
     }
   ]
 }
