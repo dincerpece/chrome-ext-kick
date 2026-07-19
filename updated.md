@@ -13,7 +13,7 @@
       "Eski güncelleme notlarına artık eklenti üzerinden erişilebiliyor.",
       "Favori kullanıcıları çerçeveli gösterme eklendi.",
       "Satır arka planı vurgulama desteği getirildi.",
-      "Performans iyileştirmeleri yapıldı."
+      "Performans iyileştirmeleri yapıldı.",
       "Modal içi scroll renkleri düzeltildi."
       ]
     }
