@@ -9,7 +9,7 @@
      {
       "version": "1.0.2",
       "message": [
-      "Mesajları öne çıkarmalardaki sayfa yenileme sonrası çalışmama sorunu düzeltildi.",
+      "Mesajları öne çıkarmalardaki sayfa yenileme sonrası çalışmama sorunu düzeltildi."
       ]
       },
      {
