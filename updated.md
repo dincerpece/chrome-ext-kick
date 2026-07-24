@@ -3,7 +3,7 @@
 ```json
 
 {
-  "currentVersion": "1.0.2",
+  "currentVersion": "1.0.3",
   "forceUpdate": false,
   "history": [
   {
