@@ -3,9 +3,16 @@
 ```json
 
 {
-  "currentVersion": "1.0.3",
+  "currentVersion": "1.0.4",
   "forceUpdate": false,
   "history": [
+   {
+      "version": "1.0.4",
+      "message": [
+      "Yayın Ön İzleme artık aktif! Takip ettiğiniz veya önerilen kanalların üzerine geldiğinizde yayını canlı olarak ön izleyebilirsiniz.",
+      "Local storage üzerinde ki anahtar isimleri düzenlendi."
+      ]
+      },
   {
       "version": "1.0.3",
       "message": [
