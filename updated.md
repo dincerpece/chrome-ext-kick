@@ -18,8 +18,7 @@
       "Kullanıcı üzerindeki moderatör işlemlerinde font hatası düzeltildi.",
       "Etiketlenme ve cevaplanmalarda kanal değişiminde çalışmama sorunu düzeltildi.",
       "Kickin sayfa hızlandırmak için bazı DOM öğelerini silmeme doğrultusunda Moderasyon Günlükleri aracının sayfa geçişlerinde kaybolma sorunu düzeltildi.",
-      "Gelişmiş Moderasyon Modu artık aktif! Bu mod ile Kick'in varsayılan paneli yerine; çapraz ban, özel susturma süreleri ve detaylı sohbet geçmişi sunan gelişmiş moderasyon paneline 
-      erişebilirsiniz.",
+      "Gelişmiş Moderasyon Modu artık aktif! Bu mod ile Kick'in varsayılan paneli yerine; çapraz ban, özel susturma süreleri ve detaylı sohbet geçmişi sunan gelişmiş moderasyon paneline erişebilirsiniz.",
       "Bazı paketlerin sürümleri güvenlik nedeniyle güncellendi."
       ]
       },
