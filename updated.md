@@ -11,7 +11,7 @@
       "message": [
       "Canlı izleyici sayacının, Kick'in kendi sayacının yüklenme süresiyle çakışarak ekranda titreme (flicker) yapması engellendi.",
       "Kullanıcı detay kartındaki rozetlerin, kanalın özel abonelik rozetleri yerine sabit varsayılan ikonlarla görünmesi hatası giderildi.",
-      "Chrome eklenti altyapısıyla çakışan gereksiz "preload" (önceden yükleme) konsol uyarısı giderildi.",
+      "Chrome eklenti altyapısıyla çakışan gereksiz 'preload' (önceden yükleme) konsol uyarısı giderildi.",
       "Emote ön izleme de sayfa dışına taşma sorunu düzeltildi.",
       "Moderasyon günlüklerindeki kullanıcı için açılan pencerenin ve kullanıcı için eklenen Notlar penceresinin sayfa dışına taşma sorunu düzeltildi."
       ]
