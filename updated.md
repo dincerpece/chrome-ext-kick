@@ -3,13 +3,23 @@
 ```json
 
 {
-  "currentVersion": "1.0.5",
+  "currentVersion": "1.0.6",
   "forceUpdate": false,
   "history": [
   {
+      "version": "1.0.6",
+      "message": [
+      "Canlı izleyici sayacının, Kick'in kendi sayacının yüklenme süresiyle çakışarak ekranda titreme (flicker) yapması engellendi.",
+      "Kullanıcı detay kartındaki rozetlerin, kanalın özel abonelik rozetleri yerine sabit varsayılan ikonlarla görünmesi hatası giderildi.",
+      "Chrome eklenti altyapısıyla çakışan gereksiz "preload" (önceden yükleme) konsol uyarısı giderildi.",
+      "Emote ön izleme de sayfa dışına taşma sorunu düzeltildi.",
+      "Moderasyon günlüklerindeki kullanıcı için açılan pencerenin ve kullanıcı için eklenen Notlar penceresinin sayfa dışına taşma sorunu düzeltildi."
+      ]
+      },
+  {
       "version": "1.0.5",
       "message": [
-       "Yayıncı modu artık aktif! Yayıncı modu ile kendi kanalınız için çeşitli aksiyonlara erişebilirsiniz.",
+      "Yayıncı modu artık aktif! Yayıncı modu ile kendi kanalınız için çeşitli aksiyonlara erişebilirsiniz.",
       "Raid iptali artık aktif! Gidilmesini istemediğiniz kanallara raid yoluyla gitmeyin.",
       "Moderasyon günlükleri artık aktif! Chat'in üst tarafında bulunan moderasyon günlükleri ile artık yasaklamalar, zaman aşımları, silinen mesajlar ve chat temizliği gibi aksiyonları görebilirsiniz.",
       "Cevaplanma bildirimleri artık aktif! Etiketlenme bildirimlerindeki gibi artık mesajlarınıza cevap verildiğinde sesli veya görsel olarak bildirim alabiliyorsunuz.",
