@@ -3,9 +3,15 @@
 ```json
 
 {
-  "currentVersion": "1.0.7",
+  "currentVersion": "1.0.8",
   "forceUpdate": false,
   "history": [
+   {
+      "version": "1.0.8",
+      "message": [
+      "Kick'in yanıt vermemesi durumunda canlı izleyici sayacının hatalı gösterimi düzeltildi."
+      ]
+      },
   {
       "version": "1.0.7",
       "message": [
