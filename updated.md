@@ -3,9 +3,16 @@
 ```json
 
 {
-  "currentVersion": "1.0.6",
+  "currentVersion": "1.0.7",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.7",
+      "message": [
+      "Moderasyon günlüklerindeki tooltip gölge rengi düzeltildi.",
+      "Kick güncellemesinden kaynaklanan kullanıcı moderasyon işlemleri sınıf (class) değişimi hatası giderildi."
+      ]
+      },
   {
       "version": "1.0.6",
       "message": [
