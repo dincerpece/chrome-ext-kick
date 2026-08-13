@@ -3,9 +3,15 @@
 ```json
 
 {
-  "currentVersion": "1.0.8",
+  "currentVersion": "1.0.9",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.9",
+      "message": [
+      "Moderasyon günlüklerinin sayfa geçişlerinde DOM dan kaybolma sorunu giderildi."
+      ]
+      },
    {
       "version": "1.0.8",
       "message": [
