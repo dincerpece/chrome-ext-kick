@@ -3,9 +3,15 @@
 ```json
 
 {
-  "currentVersion": "1.0.9",
+  "currentVersion": "1.0.10",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.10",
+      "message": [
+      "Raid iptalindeki bir bug giderildi."
+      ]
+      },
   {
       "version": "1.0.9",
       "message": [
