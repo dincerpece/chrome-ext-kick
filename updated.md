@@ -3,9 +3,17 @@
 ```json
 
 {
-  "currentVersion": "1.0.10",
+  "currentVersion": "1.0.11",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.11",
+      "message": [
+      "Kanal gizleme artık aktif! Ana sayfadaki önerilen kanalları tek tuş ile gizleyebilir, önerilenlerde karşınıza çıkmalarını engelleyebilirsiniz.",
+      "Kullanıcı detay kartındaki takip etme kısmındaki bir hata giderildi.",
+      "Tüm özellikler, kodun yönetilebilirliğini artırmak için kendi bağımsız bileşenlerine (components) taşındı."
+      ]
+      },
   {
       "version": "1.0.10",
       "message": [
