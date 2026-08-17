@@ -3,9 +3,21 @@
 ```json
 
 {
-  "currentVersion": "1.0.11",
+  "currentVersion": "1.0.12",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.12",
+      "message": [
+      "Kick Tools ayarları artık tamamen sayfanın içine entegre edildi! Sağ üst köşede, profil resminizin solunda yer alan yeşil eklenti butonuna tıklayarak tüm ayarlarınızı tek bir pencereden yönetebilirsiniz.",
+      "İçerik görüntüleyici artık aktif! Chat'te atılan linkler ayrı bir pencerede açılabilir. Şu an için desteklenen platformlar (x, youTube, kick).",
+      "Rol vurguları artık aktif! Moderatör, vip ve og gibi roller chat'te artık vurgulanıyor.",
+      "Raid iptali iyileştirildi.",
+      "Kanal gizlemede ki bir bug giderildi.",
+      "Eklentinin açıklaması düzenlendi.",
+      "Kullanıcı detay kartındaki overlay köşeleri yumuşatıldı."
+      ]
+      },
   {
       "version": "1.0.11",
       "message": [
