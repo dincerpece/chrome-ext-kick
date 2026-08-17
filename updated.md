@@ -15,7 +15,7 @@
       "Raid iptali iyileştirildi.",
       "Kanal gizlemede ki bir bug giderildi.",
       "Eklentinin açıklaması düzenlendi.",
-      "GitHub'da farklı bir altyapıya geçiş yapılarak kararlılık artırıldı ve bağlantı sorunları giderildi.",
+      "GitHub'da farklı bir altyapıya geçiş yapılarak kararlılık arttırıldı ve bağlantı sorunları giderildi.",
       "Kullanıcı detay kartındaki overlay köşeleri yumuşatıldı."
       ]
       },
