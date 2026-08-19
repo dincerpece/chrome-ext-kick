@@ -10,7 +10,7 @@
       "version": "1.0.12",
       "message": [
       "Kick Tools ayarları artık tamamen sayfanın içine entegre edildi! Sağ üst köşede, profil resminizin solunda yer alan yeşil eklenti butonuna tıklayarak tüm ayarlarınızı tek bir pencereden yönetebilirsiniz.",
-      "İçerik görüntüleyici artık aktif! Chat'te atılan linkler ayrı bir pencerede açılabilir. Şu an için desteklenen platformlar (x, youTube, kick).",
+      "İçerik görüntüleyici artık aktif! Chat'te atılan linkler ayrı bir pencerede açılabilir. Şu an için desteklenen platformlar (x, youtube, kick).",
       "Rol vurguları artık aktif! Moderatör, vip ve og gibi roller chat'te artık vurgulanıyor.",
       "Raid iptali iyileştirildi.",
       "Kanal gizlemede ki bir bug giderildi.",
