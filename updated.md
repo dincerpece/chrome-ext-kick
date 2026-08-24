@@ -3,9 +3,22 @@
 ```json
 
 {
-  "currentVersion": "1.0.12",
+  "currentVersion": "1.0.13",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.13",
+      "message": [
+      "Yayın bildirimleri artık aktif! Varsayılan olarak aktiftir. Takip ettiğiniz kanallar canlı yayına geçtiğinde anında haberdar olursunuz; üstelik kick hesabınıza giriş yaptığınız sürece masaüstü görsel veya sesli bildirim seçeneklerini dilediğiniz gibi açıp kapatarak bu deneyimi tamamen kişiselleştirebilirsiniz.",
+      "İçerik görüntüleyicide artık youtube shorts videoları desteklenmekte olup genel tanımlamalar ve kararlılık iyileştirildi.",
+      "İçerik görüntüleyici, varsayılan 'sm' boyutu dahil olmak üzere 3 farklı boyutta açılabilir ve dilediğiniz gibi yeniden boyutlandırılabilir.",
+      "Sistem bilgisi eklendi! Artık kaç adet modülün çalıştığını görebiliyorsunuz.",
+      "İzleyici sayısı gösteriminde artık katılım oranını ve sohbete katılanların ortalamasını görebiliyorsunuz.",
+      "Yayın ön izlemesinde, soldaki kenar çubuğu (sidebar) daraltıldığında ön izlemenin çalışmama sorunu düzeltildi.",
+      "Kullanıcı detay kartındaki rozetler fazla olduğunda ortaya çıkan sıkışma sorunu, scroll (kaydırma) özelliği eklenerek giderildi.".
+      "Raid iptali yeniden kurulumlarda artık varsayılan olarak kapalı geliyor."
+      ]
+      },
   {
       "version": "1.0.12",
       "message": [
