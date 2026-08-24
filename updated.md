@@ -15,7 +15,7 @@
       "Sistem bilgisi eklendi! Artık kaç adet modülün çalıştığını görebiliyorsunuz.",
       "İzleyici sayısı gösteriminde artık katılım oranını ve sohbete katılanların ortalamasını görebiliyorsunuz.",
       "Yayın ön izlemesinde, soldaki kenar çubuğu (sidebar) daraltıldığında ön izlemenin çalışmama sorunu düzeltildi.",
-      "Kullanıcı detay kartındaki rozetler fazla olduğunda ortaya çıkan sıkışma sorunu, scroll (kaydırma) özelliği eklenerek giderildi.".
+      "Kullanıcı detay kartındaki rozetler fazla olduğunda ortaya çıkan sıkışma sorunu, scroll (kaydırma) özelliği eklenerek giderildi.",
       "Raid iptali yeniden kurulumlarda artık varsayılan olarak kapalı geliyor."
       ]
       },
