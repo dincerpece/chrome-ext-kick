@@ -3,15 +3,21 @@
 ```json
 
 {
-  "currentVersion": "1.0.14",
+  "currentVersion": "1.0.15",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.15",
+      "message": [
+      "İzleyici sayısı gösteriminde ki gereksiz DOM öğeleri kaldırıldı."
+      ]
+      },
   {
       "version": "1.0.14",
       "message": [
       "Kelime dedektörü artık aktif! Belirlediğiniz anahtar kelimeler sohbette yazıldığında mesajı vurgular, size sesli ve görsel anlık bildirim gönderir. Sohbetteki vurgulama rengini renk seçici ile dilediğiniz gibi değiştirebilir veya varsayılan rengi tercih edebilirsiniz.",
       "Eklenti ayarlarındaki modülleri artık sağ üst köşelerinde bulunan tutamaç (tutma noktaları) aracılığıyla dilediğiniz gibi sürükleyip sıralayabilirsiniz. Yaptığınız sıralama değişiklikleri anlık olarak kaydedilir ve hem ana ekranda hem de ayarlar modal penceresinde eş zamanlı olarak senkronize edilir.",
-      "Favorilere eklenen kullanıcılarda ki bir bug giderildi.",
+      "Favorilere eklenen kullanıcılardaki bir bug giderildi.",
       "Güncelleme notlarında modal kapama butonundaki bir bug giderildi.",
       "Kullanıcı detay kartındaki ai ile silinen mesajların, silinme nedenlerinin anahtar seti güncellendi.",
       "İzleyici sayacının yanındaki istatistikler, artık yayıncının izleyici sayısını gizleyip gizlemediğinden bağımsız olarak; 'İzleyici Sayısı' ayarınız açık olduğu sürece gösterilecek şekilde düzenlendi."
