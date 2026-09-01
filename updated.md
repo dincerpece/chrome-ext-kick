@@ -9,7 +9,21 @@
   {
       "version": "1.0.15",
       "message": [
-      "İzleyici sayısı gösteriminde ki gereksiz DOM öğeleri kaldırıldı."
+      "Otomatik yayın açıcı artık aktif! Takip ettiğiniz bir yayıncı canlı yayına başladığında bildirimleriniz açıksa yayınları kaçırmayacaksınız!",
+      "Sistem bilgisi altında, modül bilgisinde modül sıralaması sıfırlaması eklendi. Artık tek tuşla varsayılan sıralamalara dönebilirsiniz.",
+      "Modüller artık çok daha derli toplu ve sıralarını dilediğiniz gibi düzenleyebiliyorsunuz! Bu sayede istediğiniz modüle daha hızlı ulaşabilir ve arayüzü kendi kullanımınıza göre sıralamasını değiştirebilirsiniz.",
+      "Yayın bildirim ayarları için olan bildirim sesi değiştirildi.",
+      "Artık Kick üzerindeki tüm kanallardan ve sayfalardan bağımsız olarak genel bir tema belirleyebilirsiniz. İstediğiniz temayı seçip 'Genel Tema Uygula' seçeneğini aktif ettiğinizde, veya bu ayar açıkken temayı değiştirip kaydettiğinizde özel bir tema atanmamış olan tüm sayfalarda bu genel tema geçerli olacaktır.",
+      "Emote izleme penceresi artık varsayılan 'sm' boyutu dahil olmak üzere 3 farklı boyutta açılabilir.",
+      "Sesli bildirim destekleyen tüm modüllere ses seviyesi özelliği entegre edildi. Artık dilediğiniz modülün bildirim sesini ayarlayabilirsiniz.",
+      "Yeni eklenen modüllerin sağ üst köşesinde artık 'Yeni' etiketi yer almaktadır. Bu güncelleme sonrasında, daha önce hiç kullanılmamış olan modüller yeniden yükleme ardından vurgulanacaktır.",
+      "İzleyici sayısı gösteriminde ki gereksiz DOM öğeleri kaldırıldı.",
+      "Kullanıcı detay kartında artık kullanıcının seri(streak) seviyesi gösteriliyor.",
+      "Kullanıcı detay kartındaki takip etme, favorilere ekleme, mesajları öne çıkarma butonları yeniden düzenlendi.",
+      "Paylaşılan bağlantılara özel oynatıcılarımız artık aktif! İçerik gösteriminde kick klip, yayın videosu linki paylaştığınız zaman modern bir arayüze sahip oynatıcı ile anında izleyebilirsiniz.",
+      "İçerik gösteriminde youtube, kick, kick klipler, kick videolar artık yatay youtube shorts gibi içerikler dikey gösteriliyor. İnstagram, x(twitter) ise dikeye yakın bir ölçeklendirme ile sunuluyor.",
+      "İçerik gösteriminde artık instagram ve x (twitter), sisteminizin koyu veya açık mod tercihiyle tam uyumlu çalışarak anında yanıt veriyor.",
+      "İçerik gösteriminde youtube shorts, kick klip, kick video paylaşımları için ikonlar yenilendi. Buton boyutu ve aralıkları iyileştirildi."
       ]
       },
   {
