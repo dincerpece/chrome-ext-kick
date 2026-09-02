@@ -3,9 +3,15 @@
 ```json
 
 {
-  "currentVersion": "1.0.15",
+  "currentVersion": "1.0.16",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.16",
+      "message": [
+      "Bazı modüllerdeki açıklama ve yazı hataları düzeltildi."
+      ]
+      },
   {
       "version": "1.0.15",
       "message": [
