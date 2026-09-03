@@ -9,7 +9,7 @@
   {
       "version": "1.0.16",
       "message": [
-      "Otomatik Yayın Açıcı'da, arka planda aniden ses çıkmasını önlemek amacıyla yayınlar 'Yayın Sesi' ayarına bağlı olarak artık sessiz başlatılır. Bu ayarı dilediğiniz gibi kapatıp açabilir; sesi doğrudan Kick oynatıcısının üst sağ köşesinden açabilirsiniz.",
+      "Otomatik Yayın Açıcı'da, arka planda aniden ses çıkmasını önlemek amacıyla yayınlar 'Yayın Sesi' ayarına bağlı olarak artık sessiz başlatılır. Bu ayarı dilediğiniz gibi kapatıp açabilir; sesi doğrudan kick oynatıcısının sağ üst köşesinden açabilirsiniz.",
       "Kick'in DOM öğelerindeki sınıf (class) değişimi sonrasında gelişmiş moderasyon modunun bozulması düzeltildi.",
       "Güvenlik için 2 paketin sürümü yükseltildi.",
       "Bazı modüllerdeki açıklama ve yazı hataları düzeltildi."
