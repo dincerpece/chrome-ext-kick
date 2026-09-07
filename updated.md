@@ -12,7 +12,10 @@
       "Otomatik Yayın Açıcı'da, arka planda aniden ses çıkmasını önlemek amacıyla yayınlar 'Yayın Sesi' ayarına bağlı olarak artık sessiz başlatılır. Bu ayarı dilediğiniz gibi kapatıp açabilir; sesi doğrudan kick oynatıcısının sağ üst köşesinden açabilirsiniz.",
       "Kick'in DOM öğelerindeki sınıf (class) değişimi sonrasında gelişmiş moderasyon modunun bozulması düzeltildi.",
       "Güvenlik için 2 paketin sürümü yükseltildi.",
-      "Bazı modüllerdeki açıklama ve yazı hataları düzeltildi."
+      "Bazı modüllerdeki açıklama ve yazı hataları düzeltildi.",
+      "Tema arayüzüne bir adet arka plan ve iki adet yazı rengi eklendi.",
+      "Kick'in son arayüz güncellemesiyle değişen CSS sınıflarına uyum sağlandı.",
+      "Tema renklerinin ezilmesini önlemek için CSS özgüllük (specificity) kuralları güçlendirildi."
       ]
       },
   {
