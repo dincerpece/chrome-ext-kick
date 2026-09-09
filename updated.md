@@ -3,9 +3,17 @@
 ```json
 
 {
-  "currentVersion": "1.0.16",
+  "currentVersion": "1.0.17",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.17",
+      "message": [
+      "Kenar Çubuğu Kanal Arka Planı artık aktif! Varsayılan olarak kapalı olan bu ayarı 'Kenar Çubuğu Kanal Arka Planı' başlığı altında bulup açabilirsiniz. Sol menüdeki takip edilen veya önerilen kanallara profil fotoğraflarının arka plan olarak blur efekti ile ekler.",
+      "Kick sınıf değişiklikleri doğrultusunda, ekranın farklı boyutlardaki görünümleri için uygulama butonunun ilgili alanlara doğru şekilde yerleştirilmesi sağlandı.",
+      "Ayarlardaki header boşlukları yeniden düzenlendi."
+      ]
+      },
   {
       "version": "1.0.16",
       "message": [
