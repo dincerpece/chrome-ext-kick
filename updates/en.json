@@ -1,0 +1,172 @@
+{
+  "currentVersion": "1.0.17",
+  "forceUpdate": false,
+  "history": [
+    {
+      "version": "1.0.17",
+      "message": [
+        "Sidebar Channel Background is now active! You can find and enable this setting, which is disabled by default, under the 'Sidebar Channel Background' section. It adds blurred profile pictures as background to followed or recommended channels in the left menu.",
+        "Fixed the application button placement for various screen sizes according to Kick class updates.",
+        "Header spacing in the settings has been readjusted."
+      ]
+    },
+    {
+      "version": "1.0.16",
+      "message": [
+        "In the Auto Stream Opener, streams now start muted depending on the 'Stream Sound' setting to prevent sudden audio output in the background. You can toggle this setting as you wish and turn on the sound directly from the top-right corner of the Kick player.",
+        "Fixed an issue where the advanced moderation mode broke after class changes in Kick's DOM elements.",
+        "Upgraded 2 packages for security.",
+        "Fixed description and typo errors in some modules.",
+        "Added one background and two text colors to the theme interface.",
+        "Adapted to CSS classes changed by Kick's latest interface update.",
+        "Strengthened CSS specificity rules to prevent theme colors from being overridden."
+      ]
+    },
+    {
+      "version": "1.0.15",
+      "message": [
+        "Auto Stream Opener is now active! If your notifications are enabled, you won't miss streams when a streamer you follow goes live!",
+        "Added module order reset under system info. You can now return to default orders with a single click.",
+        "Modules are now much more compact, and you can organize their order however you like! This allows you to reach desired modules faster and customize the interface layout to your workflow.",
+        "Changed the notification sound for broadcast notification settings.",
+        "You can now set a global theme independent of all channels and pages on Kick. When you select a desired theme and enable 'Apply Global Theme', or change and save the theme while this option is active, this global theme will apply to all pages that do not have a custom theme assigned.",
+        "The emote preview window can now be opened in 3 different sizes, including the default 'sm' size.",
+        "Volume control feature has been integrated into all modules supporting sound notifications. You can now adjust the notification volume of any module.",
+        "A 'New' badge now appears in the top-right corner of newly added modules. Following this update, previously unused modules will be highlighted upon reload.",
+        "Removed unnecessary DOM elements in the viewer count display.",
+        "The user detail card now displays the user's streak level.",
+        "Redesigned the follow, add to favorites, and highlight message buttons in the user detail card.",
+        "Our dedicated players for shared links are now active! When you share a Kick clip or broadcast video link, you can watch it instantly with a modern interface player.",
+        "In content display, YouTube shorts-like vertical content for YouTube, Kick clips, and Kick videos are now displayed vertically. Instagram and X (Twitter) are presented with near-vertical scaling.",
+        "Instagram and X (Twitter) links in content display now fully respond and adapt to your system's dark or mode preference instantly.",
+        "Icons have been renewed for YouTube shorts, Kick clips, and Kick video shares in content display. Button size and spacing have been optimized."
+      ]
+    },
+    {
+      "version": "1.0.14",
+      "message": [
+        "Keyword Detector is now active! When your specified keywords are typed in chat, it highlights the message and sends you an instant audio and visual notification. You can change the highlight color in chat as you prefer using the color picker or choose the default color.",
+        "You can now drag and reorder modules in the extension settings using the grip handles in their top-right corners. Your sorting changes are saved instantly and synchronized in real-time between the main screen and settings modal.",
+        "Fixed a bug regarding users added to favorites.",
+        "Fixed a bug in the modal close button within update notes.",
+        "Updated the key set for AI-deleted message reasons in the user detail card.",
+        "Statistics next to the viewer counter are now designed to be shown as long as your 'Viewer Count' setting is enabled, regardless of whether the streamer has hidden their viewer count."
+      ]
+    },
+    {
+      "version": "1.0.13",
+      "message": [
+        "Broadcast notifications are now active! Enabled by default. You are instantly notified when channels you follow go live; furthermore, as long as you are logged into your Kick account, you can fully personalize this experience by toggling desktop visual or sound notification options.",
+        "YouTube shorts videos are now supported in the embed viewer, and general definitions and stability have been improved.",
+        "The embed viewer can be opened in 3 different sizes, including the default 'sm' size, and can be resized as desired.",
+        "System info added! You can now see how many modules are actively running.",
+        "In the viewer count display, you can now see the participation rate and chat participants average.",
+        "Fixed an issue where previewing failed when the left sidebar was collapsed.",
+        "Fixed a crowding issue when there were too many badges in the user detail card by adding a scroll feature.",
+        "Raid blocking now comes disabled by default on fresh installations."
+      ]
+    },
+    {
+      "version": "1.0.12",
+      "message": [
+        "Kick Tools settings are now fully integrated into the page! You can manage all your settings from a single window by clicking the green extension button located in the top-right corner, to the left of your profile picture.",
+        "Embed viewer is now active! Links sent in chat can be opened in a separate window. Currently supported platforms (X, YouTube, Kick).",
+        "Role highlights are now active! Roles like Moderator, VIP, and OG are now highlighted in chat.",
+        "Raid blocking improved.",
+        "Fixed a bug in channel hider.",
+        "Extension description updated.",
+        "Stability increased and connection issues resolved by migrating to a different infrastructure on GitHub.",
+        "Rounded overlay corners in the user detail card."
+      ]
+    },
+    {
+      "version": "1.0.11",
+      "message": [
+        "Channel hider is now active! You can hide recommended channels on the home page with a single click and prevent them from appearing in recommendations.",
+        "Fixed an error in the follow section of the user detail card.",
+        "All features have been moved to their own independent components to improve code maintainability."
+      ]
+    },
+    {
+      "version": "1.0.10",
+      "message": [
+        "Fixed a bug in raid blocking."
+      ]
+    },
+    {
+      "version": "1.0.9",
+      "message": [
+        "Fixed an issue where moderation logs disappeared from the DOM during page transitions."
+      ]
+    },
+    {
+      "version": "1.0.8",
+      "message": [
+        "Fixed inaccurate live viewer counter display when Kick fails to respond."
+      ]
+    },
+    {
+      "version": "1.0.7",
+      "message": [
+        "Fixed tooltip shadow color in moderation logs.",
+        "Fixed user moderation actions class change error caused by Kick updates."
+      ]
+    },
+    {
+      "version": "1.0.6",
+      "message": [
+        "Prevented the live viewer counter from flickering on screen by conflicting with Kick's own counter load time.",
+        "Fixed an issue where badges in the user detail card appeared with static default icons instead of channel custom subscription badges.",
+        "Fixed an unnecessary 'preload' console warning conflicting with the Chrome extension architecture.",
+        "Fixed emote preview overflowing outside the page.",
+        "Fixed the pop-up window and Notes window for users in moderation logs overflowing outside the page."
+      ]
+    },
+    {
+      "version": "1.0.5",
+      "message": [
+        "Streamer Mode is now active! Access various actions for your own channel with Streamer Mode.",
+        "Raid Blocking is now active! Avoid unwanted raids to channels you don't want to visit.",
+        "Moderation Logs are now active! View actions like bans, timeouts, deleted messages, and chat clear via moderation logs at the top of the chat.",
+        "Reply Notifications are now active! Just like mention notifications, you can now receive audio or visual notifications when your messages are replied to.",
+        "Emote Preview is now active! Hover over an emote to view it larger in a separate window.",
+        "Fixed a bug and an issue where the stream preview window did not initialize with saved settings after page refresh.",
+        "Fixed a font error in moderator actions on users.",
+        "Fixed an issue where mentions and replies did not work upon channel changes.",
+        "Fixed an issue where the Moderation Logs tool disappeared during page transitions due to Kick retaining some DOM elements for page speed.",
+        "Advanced Moderation Mode is now active! Access an advanced moderation panel providing cross-bans, custom timeout durations, and detailed chat history instead of Kick's default panel.",
+        "Updated versions of some packages for security reasons."
+      ]
+    },
+    {
+      "version": "1.0.4",
+      "message": [
+        "Stream Preview is now active! Hover over followed or recommended channels to preview streams live.",
+        "Key names in local storage have been organized."
+      ]
+    },
+    {
+      "version": "1.0.3",
+      "message": [
+        "Update notes improved."
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "message": [
+        "Fixed an issue where highlighting messages did not work after page refresh."
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "message": [
+        "Update notes are now active.",
+        "Older update notes can now be accessed via the extension.",
+        "Added boxed display for favorite users.",
+        "Brought row background highlighting support.",
+        "Performance improvements made.",
+        "Modal scroll colors corrected."
+      ]
+    }
+  ]
+}
