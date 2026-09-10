@@ -4,6 +4,10 @@
     "UpdateHistory": "Güncelleme geçmişi",
     "CurrentVersion": "Güncel versiyon :"
   },
+  "Footer": {
+    "Developer": "Developer:",
+    "Version": "version"
+  },
   "ModulInfo": {
     "Title": "Sistem Bilgisi",
     "Desc": "Modül Bilgisi",
@@ -54,5 +58,143 @@
     "Item1": "Sohbette mesajınıza yanıt verildiğinde bildirim alırsınız.",
     "Item2": "İster sesli, ister görsel bildirim alabilirsiniz.",
     "Item3": "Görsel bildirim de mesaj içeriği gözükse de daha sonra kısmen okunabilir, (OS) ne kadarına izin veriyor ise."
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "Otomatik Yayın Sekmesi",
+    "Opener": "Otomatik Yayın Açıcı",
+    "Sound": "Yayın Sesi",
+    "Item1": "Yayın sesi ayarı kapalı ise her sekme odaklanması veya yeniden sekme açılımlarında yeniden uygulanır.",
+    "Item2": "Yayın sesi ayarı ile arka planda aniden ses çıkmasını önlemek için yayınlar sessiz başlatılır. Sesi doğrudan Kick oynatıcısının sağ üst köşesinden açabilirsiniz.",
+    "Item3": "Takip ettiğiniz yayıncının bildirimlerinin açık olması gerekmektedir.",
+    "Item4": "Yayın eğer sekmelerinizin herhangi birinde açık ise ona odaklanır, yoksa yeni sekmede açılır.",
+    "Item5": "Takip ettiğiniz bir yayıncı canlı yayına başladığında, yayın otomatik olarak yeni bir sekmede açılır."
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "Kenar Çubuğu Kanal Arka Planı",
+    "Status": "Kanal Arka Plan Durumu",
+    "Item1": "Sol menüdeki takip edilen veya önerilen kanalların, profil fotoğrafını arka plan olarak ekler.",
+    "Item2": "Arka plan görseline bulanıklık (blur) efekti uygulayarak daha estetik bir görünüm sağlar."
+  },
+  "AdBlockerSettings": {
+    "Title": "Reklam Engelleyici",
+    "BlockAds": "Reklamları Engelle",
+    "Item1": "Kick üzerindeki canlı yayın ve yayın geçmişi (VOD) reklamlarını otomatik olarak engeller.",
+    "Item2": "Video akışını kesmeden, reklam parçalarını ağ seviyesinde atlayarak kesintisiz bir izleme deneyimi sunar.",
+    "Item3": "Ayarı değiştirdikten sonra ayarın tam olarak devreye girebilmesi veya devreden çıkması için bulunduğunuz yayın sayfası otomatik olarak yenilenir."
+  },
+  "StreamPreviewSettings": {
+    "Title": "Yayın Ön İzleme",
+    "PreviewWindow": "Ön İzleme Penceresi",
+    "PlayerSize": "Oynatıcı Boyutu",
+    "Item1": "Yayın ön izleme için 3 farklı video oynatıcı boyutundan dilediğinizi seçin.",
+    "Item2": "Oynatıcı boyutu varsayılan olarak sm ayarlıdır.",
+    "Item3": "Kanalların üzerine geldiğinizde açılır mini bir pencerede yayını ön izlemenizi sağlar."
+  },
+  "KeywordDetectorSettings": {
+    "Title": "Kelime Dedektörü",
+    "Status": "Kelime Dedektörü Durumu",
+    "SoundNotification": "Sesli Bildirim",
+    "VisualNotification": "Görsel Bildirim",
+    "HighlightColor": "Vurgulama Rengi",
+    "ResetColorTitle": "Varsayılan Renge Dön",
+    "Keywords": "Anahtar Kelimeler",
+    "InputPlaceholder": "Kelime ekle (örn: çekiliş)",
+    "AddButton": "Ekle",
+    "EmptyList": "Listede anahtar kelime bulunmuyor",
+    "Item1": "Bütün işlevlerin çalışabilmesi için kelime dedektörü durumunun açık olması gerekir.",
+    "Item2": "Eklediğiniz kelimelerden herhangi biri sohbetteki bir mesajda geçerse, o mesaj özel bir animasyonla vurgulanır.",
+    "Item3": "Kelime vurgulama rengini dilediğiniz gibi özelleştirebilir, çöp kutusu butonunu kullanarak varsayılan renge geri dönebilirsiniz.",
+    "Item4": "Mesajlar yanıp sönen bir çerçeve ile işaretlenerek kolayca fark etmenizi sağlar.",
+    "Item5": "Kelime aramalarında büyük/küçük harf duyarlılığı vardır. Kelimeyi nasıl eklediyseniz o şekilde eşleşir.",
+    "Item6": "Sistem (masaüstü) bildirimleri ve sesli uyarıları ilgili ayarlardan aktif veya pasif duruma getirebilirsiniz."
+  },
+  "ModLogsSettings": {
+    "Title": "Moderasyon Günlükleri",
+    "BarStatus": "Moderasyon Günlükleri Çubuğu",
+    "Item1": "Sohbetin üst kısmında denetim günlüğü, mesaj geçmişi ve sohbet temizliği, zaman aşımları gibi hızlı erişim butonlarını gösterir."
+  },
+  "RaidBlockerSettings": {
+    "Title": "Raid İptali",
+    "Status": "Raid İptali Durumu",
+    "FollowOnly": "Takip Etmediğim Kanallara Gitme",
+    "BlacklistTitle": "Kara Liste (Gidilmeyecek Kanallar)",
+    "InputPlaceholder": "Kanal adı ekle (örn: hype)",
+    "AddButton": "Ekle",
+    "EmptyList": "Kara listede kanal bulunmuyor",
+    "Item1": "Bütün işlevlerin etkili olabilmesi için Raid İptali Durumunun açık olması gerekir.",
+    "Item2": "Bir kanal raid atarken gidilmesini istemediğiniz kanalları listeye ekleyin.",
+    "Item3": "Giriş yaptıysanız, takip etmediğiniz kanallara raid iptal edilir. Varsayılan olarak bu ayar açıktır.",
+    "Item4": "Sistem raidleri otomatik olarak 3 saniye içinde iptal eder."
+  },
+  "EmbedPreviewSettings": {
+    "Title": "İçerik Görüntüleyici",
+    "Status": "İçerik Görüntüleyici Durumu",
+    "WindowSize": "Pencere Boyutu",
+    "Item1": "Sohbette paylaşılan X (twitter), youtube, kick ve instagram linklerinin sayfa içi görüntüleyin.",
+    "Item2": "Butona tıklandığında, sol üst köşede sürüklenebilir bağımsız bir pencere açarak içeriği gösterir.",
+    "Item3": "İçerik ön izleme için 3 farklı pencere boyutundan dilediğinizi seçin.",
+    "Item4": "Pencere boyutu varsayılan olarak sm ayarlıdır.",
+    "Item5": "Sağ alt köşeden açılan pencere boyutunu, sayfanın %80 kadar genişletebilirsiniz."
+  },
+  "RoleHighlightsSettings": {
+    "Title": "Rol Vurguları",
+    "Status": "Rol Vurguları Durumu",
+    "Item1": "Sohbetteki moderatör, vip ve og kullanıcılarının mesajlarını belirginleştirir.",
+    "Item2": "Moderatörler için açık mavi, og'ler için turkuaz, vip kullanıcılar için ise sarı renkli bir vurgu uygulanır.",
+    "Item3": "Bir kullanıcının birden fazla rolü varsa öncelik sırası: Moderatör > og > vip şeklinde belirlenir."
+  },
+  "ChannelHiderSettings": {
+    "Title": "Kanal Gizleme",
+    "Status": "Kanal Gizleme Durumu",
+    "BlacklistTitle": "Kara Liste (Gizlenecek Kanallar)",
+    "InputPlaceholder": "Kanal adı ekle (örn: hype)",
+    "AddButton": "Ekle",
+    "EmptyList": "Kara listede kanal bulunmuyor",
+    "Item1": "Bütün işlevlerin çalışabilmesi için kanal gizleme durumunun açık olması gerekir.",
+    "Item2": "Kanalı gizlemek için önerilen kanallarda veya ana sayfada oynatılan yayın içinde bulunan ⊘ blocked butonuna basmanız yeterli.",
+    "Item3": "Gizlediğiniz kanalları, eklenti penceresindeki Kanal Gizleme menüsü altından bulup kaldırabilirsiniz.",
+    "Item4": "Sol taraftaki önerilen kanallar listesinde ve ana sayfada otomatik oynatılan önerilen kanallarda görmek istemediğiniz kanalları listeye ekleyin.",
+    "Item5": "Eklediğiniz kanallar ana sayfadaki önerilen yayınlar bölümünde gösterilmeyecektir."
+  },
+  "ViewerCountSettings": {
+    "Title": "İzleyici Sayısı",
+    "Status": "Gizli İzleyici Sayısı Gösterimi",
+    "Item1": "Yayında olan bir kanalın gizlediği izleyici sayısını kanalında izlerken görmenizi sağlar."
+  },
+  "EmotePreviewSettings": {
+    "Title": "Emote İzleme",
+    "PreviewWindow": "Emote İzleme Penceresi",
+    "WindowSize": "Pencere Boyutu",
+    "Item1": "Emote ön izleme için 3 farklı pencere boyutundan dilediğinizi seçin.",
+    "Item2": "Pencere boyutu varsayılan olarak sm ayarlıdır.",
+    "Item3": "Sohbetteki emote'ların üzerine geldiğinizde açılır mini bir pencerede emote'un büyük halini ve detaylarını görmenizi sağlar."
+  },
+  "ChannelThemeSettings": {
+    "Title": "Kanal Teması Ayarla",
+    "GlobalTheme": "Genel Tema Uygula",
+    "ChannelPlaceholder": "Kanal Adı (örn: hype)",
+    "GlobalChannelLabel": "Tüm Kanallar (Genel Tema)",
+    "SuggestedThemesTitle": "Hazır arka planları uygula",
+    "Bg1": "Arka Plan 1",
+    "Bg2": "Arka Plan 2",
+    "Bg3": "Arka Plan 3",
+    "Bg4": "Arka Plan 4",
+    "Bg5": "Arka Plan 5",
+    "Color1": "Renk 1",
+    "Color2": "Renk 2",
+    "Color3": "Renk 3",
+    "Color4": "Renk 4",
+    "Color5": "Renk 5",
+    "Color6": "Renk 6",
+    "Color7": "Renk 7",
+    "Color8": "Renk 8",
+    "SaveButton": "Kaydet",
+    "SavedThemesTitle": "Kayıtlı Temalar",
+    "EmptyThemes": "Teması kayıtlı kanal yok",
+    "Item1": "Herhangi bir kanalın arkaplanlarını veya yazı renklerini değiştirin. Bu renk seçiciler arttırılacaktır.",
+    "Item2": "Renk seçici paletin sağında duran renk seçici ile dilediğiniz renk tonlarını her yerden seçebilirisiniz.",
+    "Item3": "Girilen kanalların kanal ismi otomatik getirilse de elle de farklı kanallar yazıp ekleyebilirsiniz.",
+    "Item4": "Kayıtlı temalar kısmından kanalı seçip, renk paletini değiştirebilir veya silebilirsiniz.",
+    "Item5": "Genel tema uygula ayarı açıkken Kanallardan ve sayfalardan bağımsız ortak bir tema belirleyerek, özel tema atanmamış tüm sayfalarda geçerli olmasını sağlayabilirsiniz."
   }
 }
