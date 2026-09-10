@@ -308,7 +308,20 @@
     "TooltipAudit": "Moderasyon Günlüğü",
     "TooltipTimeouts": "Uzaklaştırmalar",
     "TooltipMessages": "Mesaj Günlüğü",
-    "TooltipClear": "Temizlik"
+    "TooltipClear": "Temizlik",
+    "ChatCleared": "Sohbet temizlendi.",
+    "TimedOutWithDuration": "Uzaklaştırıldı ({{duration}})",
+    "ExpiresAt": "Bitiyor: {{date}}",
+    "DurationWeek": "1 hafta",
+    "DurationDays": "{{d}} gün",
+    "DurationHours": "{{h}} saat",
+    "DurationMinutes": "{{m}} dakika",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısını yasakladı",
+      "Timeout": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısını {{duration}} süreyle uzaklaştırdı",
+      "Unban": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısının yasağını kaldırdı",
+      "Untimeout": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısının uzaklaştırmasını kaldırdı"
+    }
   },
   "RaidBlocker": {
     "RaidCancelActive": "KT with dp | Raid İptal Aktif"

@@ -308,7 +308,20 @@
     "TooltipAudit": "Moderation Log",
     "TooltipTimeouts": "Timeouts",
     "TooltipMessages": "Message Log",
-    "TooltipClear": "Clear"
+    "TooltipClear": "Clear",
+    "ChatCleared": "Chat cleared.",
+    "TimedOutWithDuration": "Timed out ({{duration}})",
+    "ExpiresAt": "Expires: {{date}}",
+    "DurationWeek": "1 week",
+    "DurationDays": "{{d}} days",
+    "DurationHours": "{{h}} hours",
+    "DurationMinutes": "{{m}} minutes",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1> banned <3>{{target}}</3>",
+      "Timeout": "<1>{{mod}}</1> timed out <3>{{target}}</3> for {{duration}}",
+      "Unban": "<1>{{mod}}</1> unbanned <3>{{target}}</3>",
+      "Untimeout": "<1>{{mod}}</1> removed timeout for <3>{{target}}</3>"
+    }
   },
   "RaidBlocker": {
     "RaidCancelActive": "KT with dp | Raid Cancel Active"
