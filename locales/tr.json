@@ -24,5 +24,11 @@
     "Item3": "Cross atarken mod olduğunuz kanalları mutlaka takip etmelisiniz.",
     "Item4": "Kendi kanalınızda mod olan kullanıcılara yasaklama uzaklaştırma atamazken, cross banı takip ettiğiniz ve mod olduğunuz diğer kanallarda o kullanıcı mod değil ise uygulayabilirsiniz.",
     "Item5": "Uzaklaştırma süresi 1 haftayı aşamaz."
+  },
+  "StreamerModeSettings": {
+    "Title": "Yayıncı Modu",
+    "AdvancedMode": "Gelişmiş Moderasyon Modu",
+    "Item1": "Yayıncı modu aktif ise kendi kanalınız için bazı pencerelerde kendi sohbet mesajlarınızı görebilir veya işlem yapabilirsiniz.",
+    "Item2": "Gelişmiş Moderasyon Modu, kullanıcı profillerinde Kick'in varsayılan paneli yerine; çapraz ban, özel susturma süreleri ve detaylı sohbet geçmişi sunan gelişmiş moderasyon panelini aktif eder."
   }
 }
