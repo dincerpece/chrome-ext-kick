@@ -18,11 +18,11 @@
     "Export": "Dışa Aktar"
   },
   "ModerationInfo": {
-    "Title": "Moderation",
-    "Item1": "Moderation tools work in channels where you are a moderator or in your own channel.",
-    "Item2": "While ban, timeout, and cross-ban settings are active in other channels, only the cross-ban setting is active in your own channel.",
-    "Item3": "You must follow the channels where you are a moderator when applying a cross-ban.",
-    "Item4": "While you cannot ban or timeout users who are moderators in your own channel, you can apply a cross-ban in other channels you follow and moderate, provided the user is not a moderator there.",
-    "Item5": "The timeout duration cannot exceed 1 week."
+    "Title": "Moderasyon",
+    "Item1": "Moderasyon araçları mod olduğunuz kanallarda veya kendi kanalınızda çalışmaktadır.",
+    "Item2": "Başka kanallarda yasaklama uzaklaştırma ve cross ayarları açıkken, kendi kanalınızda sadece cross ayarı açıktır.",
+    "Item3": "Cross atarken mod olduğunuz kanalları mutlaka takip etmelisiniz.",
+    "Item4": "Kendi kanalınızda mod olan kullanıcılara yasaklama uzaklaştırma atamazken, cross banı takip ettiğiniz ve mod olduğunuz diğer kanallarda o kullanıcı mod değil ise uygulayabilirsiniz.",
+    "Item5": "Uzaklaştırma süresi 1 haftayı aşamaz."
   }
 }
