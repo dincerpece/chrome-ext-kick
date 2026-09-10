@@ -38,5 +38,21 @@
     "Item1": "Takip ettiğiniz kanalların yayın bildirimlerini alırsınız.",
     "Item2": "İster sesli, ister görsel bildirim alabilirsiniz.",
     "Item3": "Bu özelliği kullanabilmek için giriş yapmış olmanız gerekmektedir."
+  },
+  "TagNotificationSettings": {
+    "Title": "Etiketlenme Bildirim Ayarları",
+    "SoundNotification": "Sesli Bildirim",
+    "VisualNotification": "Görsel Bildirim",
+    "Item1": "Etiketlendiğiniz bütün istemcilerden bildirim gelir.",
+    "Item2": "İster sesli, ister görsel bildirim alabilirsiniz.",
+    "Item3": "Görsel bildirimde mesaj içeriği gözükse de daha sonra kısmen okunabilir (İşletim Sisteminiz ne kadarına izin veriyor ise)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "Cevaplanma Bildirim Ayarları",
+    "SoundNotification": "Sesli Bildirim",
+    "VisualNotification": "Görsel Bildirim",
+    "Item1": "Sohbette mesajınıza yanıt verildiğinde bildirim alırsınız.",
+    "Item2": "İster sesli, ister görsel bildirim alabilirsiniz.",
+    "Item3": "Görsel bildirim de mesaj içeriği gözükse de daha sonra kısmen okunabilir, (OS) ne kadarına izin veriyor ise."
   }
 }

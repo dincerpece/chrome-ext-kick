@@ -38,5 +38,21 @@
     "Item1": "You receive live broadcast notifications for the channels you follow.",
     "Item2": "You can choose to receive either sound or visual notifications.",
     "Item3": "You must be logged in to use this feature."
+  },
+  "TagNotificationSettings": {
+    "Title": "Tag Notification Settings",
+    "SoundNotification": "Sound Notification",
+    "VisualNotification": "Visual Notification",
+    "Item1": "You receive notifications from all clients where you are tagged.",
+    "Item2": "You can choose to receive either sound or visual notifications.",
+    "Item3": "Although message content is visible in visual notifications, it may be partially readable later (depending on what your Operating System allows)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "Reply Notification Settings",
+    "SoundNotification": "Sound Notification",
+    "VisualNotification": "Visual Notification",
+    "Item1": "You receive notifications when someone replies to your message in chat.",
+    "Item2": "You can choose to receive either sound or visual notifications.",
+    "Item3": "Although message content is visible in visual notifications, it may be partially readable later depending on what your OS allows."
   }
 }
