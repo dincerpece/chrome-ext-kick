@@ -4,6 +4,9 @@
     "UpdateHistory": "Update history",
     "CurrentVersion": "Current version :"
   },
+  "Main": {
+    "NewBadge": "New"
+  },
   "Footer": {
     "Developer": "Developer:",
     "Version": "version:"
@@ -16,10 +19,6 @@
     "Reset": "Reset Order",
     "SettingsTitle": "Settings",
     "SettingsDesc": "Backup or restore your extension data to your computer."
-  },
-  "StorageManager": {
-    "Import": "Import",
-    "Export": "Export"
   },
   "ModerationInfo": {
     "Title": "Moderation",
@@ -196,5 +195,215 @@
     "Item3": "Although the channel name is fetched automatically, you can also type and add different channels manually.",
     "Item4": "You can select a channel from the saved themes section to change its color palette or delete it.",
     "Item5": "When the apply global theme setting is enabled, you can define a common theme independent of channels and pages, ensuring it applies to all pages without a custom theme."
+  },
+  "ChannelHider": {
+    "HideChannel": "Hide Channel",
+    "HiddenChannelPrefix": "Hidden Channel: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | Stream preview"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "Unhighlight messages",
+    "Highlight": "Highlight messages"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "Show in Embed Viewer"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | Emote preview"
+  },
+  "FavoriteUser": {
+    "Remove": "Remove from Favorites",
+    "Add": "Add to Favorites"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | Embed Viewer",
+    "GoToLink": "Go to link",
+    "Resize": "Resize"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "Failed to load clip",
+    "VideoLoadError": "Failed to load video",
+    "Publisher": "Channel:",
+    "Creator": "Clipped by:",
+    "Views": "Views",
+    "TimeAgo": {
+      "Seconds": "{{count}} seconds ago",
+      "Minutes": "{{count}} minutes ago",
+      "Hours": "{{count}} hours ago",
+      "Days": "{{count}} days ago",
+      "Months": "{{count}} months ago",
+      "Years": "{{count}} years ago"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "Failed to load video",
+    "DefaultTitle": "Stream Replay",
+    "Publisher": "Channel:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "watching",
+    "Participation": "% Participation",
+    "ActiveChatters": "Active Chatters",
+    "TooltipLine1": "These values are calculated mathematically based on the live viewer count.",
+    "TooltipLine2": "Statistics are re-evaluated from that moment on every channel switch."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | Moderation",
+    "Cross": "Cross",
+    "ReasonPlaceholder": "Enter ban reason. (Optional)",
+    "CrossReasonNote": "Cross Ban info will be automatically added to the ban reason.",
+    "RemoveBan": "Unban",
+    "Ban": "Ban",
+    "Timeout": "Timeout",
+    "StatusReady": "Ready",
+    "Scanning": "Scanning: {{channel}}",
+    "Applying": "Applying: {{channel}}",
+    "Complete": "✓ Completed in {{success}} channels",
+    "DurationWeek": "1 week",
+    "DurationDays": "{{d}} days",
+    "DurationHours": "{{h}} hours",
+    "DurationMinutes": "{{m}} minutes",
+    "TimeoutFormat": "Timed out ({{duration}})",
+    "ExpiresAt": "Expires at: {{date}} {{time}}",
+    "Quick5M": "5 minutes",
+    "Quick1H": "1 hour",
+    "Quick1D": "1 day",
+    "Quick1W": "1 week",
+    "MaxDuration": "Max. Duration",
+    "UnitMinute": "Minute",
+    "UnitHour": "Hour",
+    "UnitDay": "Day",
+    "UnitWeek": "Week",
+    "Set": "Set",
+    "PermanentBanned": "Permanently Banned",
+    "TimedOut": "Timed out",
+    "By": "by",
+    "Indefinite": "Indefinite",
+    "Expires": "Expires:",
+    "NoReason": "No Reason Provided.",
+    "ThisChannel": "This Channel",
+    "YourChannel": "Your Channel",
+    "SwitchToOriginal": "Switch to Original Moderation",
+    "SwitchToAdvanced": "Switch to Advanced Moderation",
+    "Tooltips": {
+      "TargetMod": "Target user is a moderator/broadcaster in this channel, so no action will be applied here. You can only use cross-ban.",
+      "StreamerModeMod": "Streamer mode is active. Target user is a moderator in this channel, so no action will be applied here. Action will only be applied in your own channel (and others if cross-ban is enabled).",
+      "StreamerModeActive": "Streamer mode is active.",
+      "StreamerModeBoth": "Streamer mode is active. Action will be applied both in this channel and your own channel.",
+      "StreamerModeOnlyYours": "Streamer mode is active. Since you are not a moderator in this channel, action will be applied based on your own channel."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | Moderation Logs",
+    "EmptyAudit": "No moderator actions found.",
+    "EmptyMessages": "No deleted messages found.",
+    "EmptyClear": "No chat clear logs found.",
+    "EmptyTimeouts": "No active timeouts found.",
+    "AuditLogTitle": "Moderation Log",
+    "MessageLogTitle": "Message Log",
+    "ClearLogTitle": "Chat Clears",
+    "TimeoutsTitle": "Timeouts",
+    "TooltipAudit": "Moderation Log",
+    "TooltipTimeouts": "Timeouts",
+    "TooltipMessages": "Message Log",
+    "TooltipClear": "Clear"
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | Raid Cancel Active"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp Settings"
+  },
+  "SettingsModal": {
+    "New": "New"
+  },
+  "StorageManager": {
+    "Import": "Import",
+    "Export": "Export"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp Update Notes",
+    "Version": "Version: {{version}}",
+    "GotIt": "Got it"
+  },
+  "UserDetailCard": {
+    "Copy": "Copy",
+    "Copied": "Copied",
+    "Notes": "Notes",
+    "TechDetails": "Technical Details",
+    "Socials": "Social Medias",
+    "Messages": "Messages",
+    "Moderation": "Moderation",
+    "Followers": "Followers",
+    "Badges": "Badges",
+    "NoSocials": "No Social Medias.",
+    "ToggleBio": "Toggle Biography",
+    "Following": "Following",
+    "Joined": "Joined Date",
+    "Streak": "Streak",
+    "Unfollow": "Unfollow",
+    "Follow": "Follow",
+    "RemoveFromFavorites": "Remove from Favorites",
+    "AddToFavorites": "Add to Favorites",
+    "Unhighlight": "Unhighlight messages",
+    "Highlight": "Highlight messages",
+    "ChannelId": "Channel ID",
+    "UserId": "User ID",
+    "ChatId": "Chat ID",
+    "Replies": "Replies",
+    "NoReplies": "No Reply Data.",
+    "ModerationLogs": "Moderation Logs",
+    "NoModerationData": "No Moderation Data.",
+    "ModerationActions": "Moderation Actions",
+    "Timeout": "Timeout",
+    "MaxDuration": "Max. Duration",
+    "UnitMinute": "Minute",
+    "UnitHour": "Hour",
+    "UnitDay": "Day",
+    "UnitWeek": "Week",
+    "Set": "Set",
+    "Ban": "Ban",
+    "CrossBan": "Cross (All Moderated Channels)",
+    "Quick5M": "5 minutes",
+    "Quick1H": "1 hour",
+    "Quick1D": "1 day",
+    "Quick1W": "1 week",
+    "DurationWeek": "1 week",
+    "DurationDays": "{{d}} days",
+    "DurationHours": "{{h}} hours",
+    "DurationMinutes": "{{m}} minutes",
+    "TimedOutFormat": "Timed out ({{duration}})",
+    "ExpiresAt": "Expires: {{date}}",
+    "PermanentBanned": "Permanently Banned",
+    "Deleted": "Deleted",
+    "ProgressScanning": "Scanning...",
+    "ProgressApplying": "Processing channel {{channel}}...",
+    "ProgressDone": "{{success}} of {{total}} channels successfully {{action}}."
+  },
+  "UserNoteCard": {
+    "Title": "Notes about {{username}}",
+    "Placeholder": "Write your notes here",
+    "Save": "Save Notes",
+    "Delete": "Delete Note"
+  },
+  "Api": {
+    "Starting": "starting...",
+    "ChannelInfoError": "Could not retrieve channel info.",
+    "NoMessageHistory": "This user has no message history.",
+    "HistoryFetchError": "Could not fetch history."
+  },
+  "Background": {
+    "MentionTitle": "You were mentioned on Kick!",
+    "MentionMessage": "{{sender}} mentioned you in {{channel}}: \"{{content}}\"",
+    "ReplyTitle": "Your message was replied to on Kick!",
+    "ReplyMessage": "{{sender}} replied to you in {{channel}}: \"{{content}}\"",
+    "LiveTitle": "{{channel}} is Live!",
+    "KeywordTitle": "Keyword detector match",
+    "KeywordMessage": "{{sender}} in {{channel}}: {{content}}",
+    "BadgeTitle": "KT with dp | Stream Audio",
+    "BadgeSubtitle": "Stream audio muted",
+    "BadgeButton": "Unmute"
   }
 }

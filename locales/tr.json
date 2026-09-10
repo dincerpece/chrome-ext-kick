@@ -4,6 +4,9 @@
     "UpdateHistory": "Güncelleme geçmişi",
     "CurrentVersion": "Güncel versiyon :"
   },
+  "Main": {
+    "NewBadge": "Yeni"
+  },
   "Footer": {
     "Developer": "Geliştirici:",
     "Version": "sürüm:"
@@ -16,10 +19,6 @@
     "Reset": "Sıralamayı Sıfırla",
     "SettingsTitle": "Ayarlar",
     "SettingsDesc": "Uzantı verilerini bilgisayarınıza yedekleyin veya geri yükleyin."
-  },
-  "StorageManager": {
-    "Import": "İçe Aktar",
-    "Export": "Dışa Aktar"
   },
   "ModerationInfo": {
     "Title": "Moderasyon",
@@ -196,5 +195,215 @@
     "Item3": "Girilen kanalların kanal ismi otomatik getirilse de elle de farklı kanallar yazıp ekleyebilirsiniz.",
     "Item4": "Kayıtlı temalar kısmından kanalı seçip, renk paletini değiştirebilir veya silebilirsiniz.",
     "Item5": "Genel tema uygula ayarı açıkken Kanallardan ve sayfalardan bağımsız ortak bir tema belirleyerek, özel tema atanmamış tüm sayfalarda geçerli olmasını sağlayabilirsiniz."
+  },
+  "ChannelHider": {
+    "HideChannel": "Kanalı Gizle",
+    "HiddenChannelPrefix": "Gizlenmiş Kanal: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | Yayın ön izleme"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "Mesajları öne çıkarma",
+    "Highlight": "Mesajları öne çıkar"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "İçerik Görüntüleyicide Göster"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | Emote izleme"
+  },
+  "FavoriteUser": {
+    "Remove": "Favorilerden Çıkar",
+    "Add": "Favorilere Ekle"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | İçerik Görüntüleyici",
+    "GoToLink": "Linke git",
+    "Resize": "Boyutu Değiştir"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "Klip yüklenemedi",
+    "VideoLoadError": "Video yüklenemedi",
+    "Publisher": "Yayıncı:",
+    "Creator": "Oluşturan:",
+    "Views": "Görüntüleme",
+    "TimeAgo": {
+      "Seconds": "{{count}} saniye önce",
+      "Minutes": "{{count}} dakika önce",
+      "Hours": "{{count}} saat önce",
+      "Days": "{{count}} gün önce",
+      "Months": "{{count}} ay önce",
+      "Years": "{{count}} yıl önce"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "Video yüklenemedi",
+    "DefaultTitle": "Yayın Tekrarı",
+    "Publisher": "Yayıncı:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "watching",
+    "Participation": "% Participation",
+    "ActiveChatters": "Active Chatters",
+    "TooltipLine1": "These values are calculated mathematically based on the live viewer count.",
+    "TooltipLine2": "Statistics are re-evaluated from that moment on every channel switch."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | Moderasyon",
+    "Cross": "Çapraz",
+    "ReasonPlaceholder": "Ban sebebini girin. (Opsiyonel)",
+    "CrossReasonNote": "Çapraz Ban bilgisi otomatik olarak ban sebebine eklenecektir.",
+    "RemoveBan": "Yasağı Kaldır",
+    "Ban": "Yasakla",
+    "Timeout": "Sustur",
+    "StatusReady": "Hazır",
+    "Scanning": "Taranıyor: {{channel}}",
+    "Applying": "Uygulanıyor: {{channel}}",
+    "Complete": "✓ {{success}} kanalda işlem tamamlandı",
+    "DurationWeek": "1 hafta",
+    "DurationDays": "{{d}} gün",
+    "DurationHours": "{{h}} saat",
+    "DurationMinutes": "{{m}} dakika",
+    "TimeoutFormat": "Uzaklaştırıldı ({{duration}})",
+    "ExpiresAt": "Bitiş tarihi: {{date}} {{time}}",
+    "Quick5M": "5 dakika",
+    "Quick1H": "1 saat",
+    "Quick1D": "1 gün",
+    "Quick1W": "1 hafta",
+    "MaxDuration": "Maks. Süre",
+    "UnitMinute": "Dakika",
+    "UnitHour": "Saat",
+    "UnitDay": "Gün",
+    "UnitWeek": "Hafta",
+    "Set": "Ayarla",
+    "PermanentBanned": "Kalıcı Olarak Yasaklandı",
+    "TimedOut": "Zaman aşımına uğradı",
+    "By": "tarafından",
+    "Indefinite": "Süresiz",
+    "Expires": "Bitiyor:",
+    "NoReason": "No Reason Provided.",
+    "ThisChannel": "Bu Kanal",
+    "YourChannel": "Kendi Kanalın",
+    "SwitchToOriginal": "Orijinal Moderasyona Geç",
+    "SwitchToAdvanced": "Gelişmiş Moderasyona Geç",
+    "Tooltips": {
+      "TargetMod": "Hedef kullanıcı bu kanalda yetkili olduğu için işlem uygulanmayacaktır. Sadece çapraz ban kullanabilirsiniz.",
+      "StreamerModeMod": "Yayıncı modu aktif. Hedef kullanıcı bu kanalda yetkili olduğu için bu kanalda işlem uygulanmayacaktır. İşlem sadece kendi kanalınızda (veya çapraz ban açıksa diğerlerinde) uygulanacaktır.",
+      "StreamerModeActive": "Yayıncı modu aktif.",
+      "StreamerModeBoth": "Yayıncı modu aktif. İşlem hem bu kanalda hem de kendi kanalınızda uygulanacaktır.",
+      "StreamerModeOnlyYours": "Yayıncı modu aktif. Bu kanalda yetkili olmadığınız için işlem kendi kanalınız baz alınarak uygulanacaktır."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | Moderasyon Günlükleri",
+    "EmptyAudit": "Moderatör eylemi bulunamadı.",
+    "EmptyMessages": "Silinmiş mesaj bulunamadı.",
+    "EmptyClear": "Sohbet temizliği bulunamadı.",
+    "EmptyTimeouts": "Aktif uzaklaştırma bulunamadı.",
+    "AuditLogTitle": "Moderasyon Günlüğü",
+    "MessageLogTitle": "Mesaj Günlüğü",
+    "ClearLogTitle": "Sohbet Temizlikleri",
+    "TimeoutsTitle": "Uzaklaştırmalar",
+    "TooltipAudit": "Moderasyon Günlüğü",
+    "TooltipTimeouts": "Uzaklaştırmalar",
+    "TooltipMessages": "Mesaj Günlüğü",
+    "TooltipClear": "Temizlik"
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | Raid İptal Aktif"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp Ayarlar"
+  },
+  "SettingsModal": {
+    "New": "Yeni"
+  },
+  "StorageManager": {
+    "Import": "İçe Aktar",
+    "Export": "Dışa Aktar"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp Güncelleme Notları",
+    "Version": "Versiyon: {{version}}",
+    "GotIt": "Anladım"
+  },
+  "UserDetailCard": {
+    "Copy": "Kopyala",
+    "Copied": "Kopyalandı",
+    "Notes": "Notlar",
+    "TechDetails": "Teknik Detaylar",
+    "Socials": "Sosyal Medyalar",
+    "Messages": "Mesajlar",
+    "Moderation": "Moderasyon",
+    "Followers": "Takipçi",
+    "Badges": "Rozetler",
+    "NoSocials": "Sosyal Medya Yok.",
+    "ToggleBio": "Biyografiyi Aç/Kapat",
+    "Following": "Takip Ediyor",
+    "Joined": "Katılma Tarihi",
+    "Streak": "Seri",
+    "Unfollow": "Takibi Bırak",
+    "Follow": "Takip Et",
+    "RemoveFromFavorites": "Favorilerden Çıkar",
+    "AddToFavorites": "Favorilere Ekle",
+    "Unhighlight": "Mesajları öne çıkarma",
+    "Highlight": "Mesajları öne çıkar",
+    "ChannelId": "Kanal Kimliği",
+    "UserId": "Kullanıcı Kimliği",
+    "ChatId": "Sohbet Kimliği",
+    "Replies": "Yanıtlar",
+    "NoReplies": "Yanıt Verisi Yok.",
+    "ModerationLogs": "Moderasyon Günlükleri",
+    "NoModerationData": "Moderasyon Verisi Yok.",
+    "ModerationActions": "Moderasyon Eylemleri",
+    "Timeout": "Uzaklaştırma",
+    "MaxDuration": "Maks. Süre",
+    "UnitMinute": "Dakika",
+    "UnitHour": "Saat",
+    "UnitDay": "Gün",
+    "UnitWeek": "Hafta",
+    "Set": "Ayarla",
+    "Ban": "Yasakla",
+    "CrossBan": "Cross (Mod Olunan Her Yer)",
+    "Quick5M": "5 dakika",
+    "Quick1H": "1 saat",
+    "Quick1D": "1 gün",
+    "Quick1W": "1 hafta",
+    "DurationWeek": "1 hafta",
+    "DurationDays": "{{d}} gün",
+    "DurationHours": "{{h}} saat",
+    "DurationMinutes": "{{m}} dakika",
+    "TimedOutFormat": "Uzaklaştırıldı ({{duration}})",
+    "ExpiresAt": "Bitiyor: {{date}}",
+    "PermanentBanned": "Kalıcı Olarak Yasaklandı",
+    "Deleted": "Silindi",
+    "ProgressScanning": "Taranıyor...",
+    "ProgressApplying": "{{channel}} kanalı için işleniyor...",
+    "ProgressDone": "{{total}} kanaldan {{success}} başarıyla {{action}}."
+  },
+  "UserNoteCard": {
+    "Title": "{{username}} Hakkında Notların",
+    "Placeholder": "Notlarınızı Buraya Yazın",
+    "Save": "Notları Kaydet",
+    "Delete": "Notu Sil"
+  },
+  "Api": {
+    "Starting": "başlatılıyor...",
+    "ChannelInfoError": "Kanal bilgisi alınamadı.",
+    "NoMessageHistory": "Bu kullanıcının mesaj geçmişi yok.",
+    "HistoryFetchError": "Geçmiş çekilemedi."
+  },
+  "Background": {
+    "MentionTitle": "Kick'te Etiketlendiniz!",
+    "MentionMessage": "{{channel}} kanalında {{sender}} sizi etiketledi: \"{{content}}\"",
+    "ReplyTitle": "Kick'te Mesajınıza Yanıt Verildi!",
+    "ReplyMessage": "{{channel}} kanalında {{sender}} size yanıt verdi: \"{{content}}\"",
+    "LiveTitle": "{{channel}} Yayında!",
+    "KeywordTitle": "Kelime dedektörü eşleşmesi",
+    "KeywordMessage": "{{channel}} kanalında {{sender}} {{content}}",
+    "BadgeTitle": "KT with dp | Yayın Sesi",
+    "BadgeSubtitle": "Yayın sesi susturuldu",
+    "BadgeButton": "Sesi aç"
   }
 }
