@@ -30,5 +30,13 @@
     "AdvancedMode": "Advanced Moderation Mode",
     "Item1": "If streamer mode is active, you can view your own chat messages or take actions in certain windows for your own channel.",
     "Item2": "Advanced Moderation Mode activates the advanced moderation panel, which offers cross-bans, custom timeout durations, and detailed chat history, replacing Kick's default panel on user profiles."
+  },
+  "LiveNotificationSettings": {
+    "Title": "Live Notification Settings",
+    "SoundNotification": "Sound Notification",
+    "VisualNotification": "Visual Notification",
+    "Item1": "You receive live broadcast notifications for the channels you follow.",
+    "Item2": "You can choose to receive either sound or visual notifications.",
+    "Item3": "You must be logged in to use this feature."
   }
 }

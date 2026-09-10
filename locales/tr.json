@@ -30,5 +30,13 @@
     "AdvancedMode": "Gelişmiş Moderasyon Modu",
     "Item1": "Yayıncı modu aktif ise kendi kanalınız için bazı pencerelerde kendi sohbet mesajlarınızı görebilir veya işlem yapabilirsiniz.",
     "Item2": "Gelişmiş Moderasyon Modu, kullanıcı profillerinde Kick'in varsayılan paneli yerine; çapraz ban, özel susturma süreleri ve detaylı sohbet geçmişi sunan gelişmiş moderasyon panelini aktif eder."
+  },
+  "LiveNotificationSettings": {
+    "Title": "Yayın Bildirim Ayarları",
+    "SoundNotification": "Sesli Bildirim",
+    "VisualNotification": "Görsel Bildirim",
+    "Item1": "Takip ettiğiniz kanalların yayın bildirimlerini alırsınız.",
+    "Item2": "İster sesli, ister görsel bildirim alabilirsiniz.",
+    "Item3": "Bu özelliği kullanabilmek için giriş yapmış olmanız gerekmektedir."
   }
 }
