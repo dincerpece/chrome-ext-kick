@@ -1,0 +1,15 @@
+{
+  "ModulInfo": {
+    "Title": "System Information",
+    "Desc": "Module Information",
+    "CountPrefix": "Currently, a total of ",
+    "CountSuffix": " modules are actively running.",
+    "Reset": "Reset Order",
+    "SettingsTitle": "Settings",
+    "SettingsDesc": "Backup or restore your extension data to your computer."
+  },
+  "StorageManager": {
+    "Import": "Import",
+    "Export": "Export"
+  }
+}

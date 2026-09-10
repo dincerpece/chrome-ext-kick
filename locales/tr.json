@@ -1,0 +1,15 @@
+{
+  "ModulInfo": {
+    "Title": "Sistem Bilgisi",
+    "Desc": "Modül Bilgisi",
+    "CountPrefix": "Şu anda toplam ",
+    "CountSuffix": " adet modül aktif olarak çalışmaktadır.",
+    "Reset": "Sıralamayı Sıfırla",
+    "SettingsTitle": "Ayarlar",
+    "SettingsDesc": "Uzantı verilerini bilgisayarınıza yedekleyin veya geri yükleyin."
+  },
+  "StorageManager": {
+    "Import": "İçe Aktar",
+    "Export": "Dışa Aktar"
+  }
+}
