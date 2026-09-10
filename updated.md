@@ -3,9 +3,16 @@
 ```json
 
 {
-  "currentVersion": "1.0.17",
+  "currentVersion": "1.0.18",
   "forceUpdate": false,
   "history": [
+  {
+      "version": "1.0.18",
+      "message": [
+      "Reklam Engelleyici artık aktif! Canlı yayın ve VOD reklamlarını kesintisiz bir şekilde engelleyen bu akıllı sistem, ayar değişikliklerinin kusursuz bir şekilde geçerli olması için yayın sayfasını otomatik olarak yeniler. Ve varsayılan olarak aktifdir.",
+      "Uzantı ayarlarınızı artık yedekleyebilir veya geri yükleyebilirsiniz. Sistem bilgisi altındaki Ayarlar başlığından bunlara ulaşabilirsiniz."
+      ]
+      },
   {
       "version": "1.0.17",
       "message": [

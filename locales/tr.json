@@ -1,4 +1,9 @@
 {
+  "Header": {
+    "UpdateNotes": "Güncelleme notları",
+    "UpdateHistory": "Güncelleme geçmişi",
+    "CurrentVersion": "Güncel versiyon :"
+  },
   "ModulInfo": {
     "Title": "Sistem Bilgisi",
     "Desc": "Modül Bilgisi",

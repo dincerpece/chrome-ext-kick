@@ -1,4 +1,9 @@
 {
+  "Header": {
+    "UpdateNotes": "Update notes",
+    "UpdateHistory": "Update history",
+    "CurrentVersion": "Current version :"
+  },
   "ModulInfo": {
     "Title": "System Information",
     "Desc": "Module Information",
