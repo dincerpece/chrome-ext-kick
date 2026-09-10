@@ -16,5 +16,13 @@
   "StorageManager": {
     "Import": "Import",
     "Export": "Export"
+  },
+  "ModerationInfo": {
+    "Title": "Moderasyon",
+    "Item1": "Moderasyon araçları mod olduğunuz kanallarda veya kendi kanalınızda çalışmaktadır.",
+    "Item2": "Başka kanallarda yasaklama uzaklaştırma ve cross ayarları açıkken, kendi kanalınızda sadece cross ayarı açıktır.",
+    "Item3": "Cross atarken mod olduğunuz kanalları mutlaka takip etmelisiniz.",
+    "Item4": "Kendi kanalınızda mod olan kullanıcılara yasaklama uzaklaştırma atamazken, cross banı takip ettiğiniz ve mod olduğunuz diğer kanallarda o kullanıcı mod değil ise uygulayabilirsiniz.",
+    "Item5": "Uzaklaştırma süresi 1 haftayı aşamaz."
   }
 }
