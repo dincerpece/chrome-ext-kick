@@ -443,14 +443,14 @@
     "Delete": "Notu Sil"
   },
   "Background": {
-    "MentionTitle": "Kick'te Etiketlendiniz!",
+    "MentionTitle": "Kick'te etiketlendiniz!",
     "MentionMessage": "{{channel}} kanalında {{sender}} sizi etiketledi: \"{{content}}\"",
-    "ReplyTitle": "Kick'te Mesajınıza Yanıt Verildi!",
+    "ReplyTitle": "Kick'te mesajınıza yanıt verildi!",
     "ReplyMessage": "{{channel}} kanalında {{sender}} size yanıt verdi: \"{{content}}\"",
-    "LiveTitle": "{{channel}} Yayında!",
+    "LiveTitle": "{{channel}} yayında!",
     "KeywordTitle": "Kelime dedektörü eşleşmesi",
     "KeywordMessage": "{{channel}} kanalında {{sender}} {{content}}",
-    "BadgeTitle": "KT with dp | Yayın Sesi",
+    "BadgeTitle": "KT with dp | Yayın sesi",
     "BadgeSubtitle": "Yayın sesi susturuldu",
     "BadgeButton": "Sesi aç"
   }
