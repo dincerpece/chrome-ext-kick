@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "Poznámky k aktualizácii",
+    "UpdateHistory": "História aktualizácií",
+    "CurrentVersion": "Aktuálna verzia :"
+  },
+  "Main": {
+    "NewBadge": "Nové"
+  },
+  "Footer": {
+    "Developer": "Vývojár:",
+    "Version": "verzia:"
+  },
+  "ModulInfo": {
+    "Title": "Systémové informácie",
+    "Desc": "Informácie o module",
+    "CountPrefix": "Momentálne beží celkovo ",
+    "CountSuffix": " modulov.",
+    "Reset": "Obnoviť poradie",
+    "SettingsTitle": "Nastavenia",
+    "SettingsDesc": "Zálohujte alebo obnovte údaje rozšírenia vo svojom počítači."
+  },
+  "ModerationInfo": {
+    "Title": "Moderovanie",
+    "Item1": "Nástroje na moderovanie fungujú na kanáloch, kde ste moderátorom, alebo na vašom vlastnom kanáli.",
+    "Item2": "Zatiaľ čo nastavenia cross ban a timeout sú zapnuté na iných kanáloch, na vašom vlastnom kanáli je zapnuté iba nastavenie cross ban.",
+    "Item3": "Pri používaní cross ban musíte sledovať kanály, ktoré moderujete.",
+    "Item4": "Nemôžete zabanovať alebo dať timeout používateľom, ktorí sú moderátormi na vašom vlastnom kanáli, ale môžete použiť cross ban na iných kanáloch, ktoré sledujete a moderujete, ak tam nie sú moderátormi.",
+    "Item5": "Trvanie timeoutu nemôže prekročiť 1 týždeň."
+  },
+  "StreamerModeSettings": {
+    "Title": "Režim streamera",
+    "AdvancedMode": "Pokročilý režim moderovania",
+    "Item1": "Ak je režim streamera aktívny, môžete na niektorých oknách pre svoj vlastný kanál vidieť svoje vlastné správy v chate alebo vykonávať akcie.",
+    "Item2": "Pokročilý režim moderovania aktivuje v používateľských profiloch namiesto predvoleného panela Kick pokročilý panel moderovania, ktorý ponúka cross bany, vlastné časy timeoutu a podrobnú históriu chatu."
+  },
+  "LiveNotificationSettings": {
+    "Title": "Nastavenia upozornení na stream",
+    "SoundNotification": "Zvukové upozornenie",
+    "VisualNotification": "Vizuálne upozornenie",
+    "Item1": "Budete dostávať upozornenia na stream pre kanály, ktoré sledujete.",
+    "Item2": "Môžete si vybrať, či chcete dostávať zvukové alebo vizuálne upozornenia.",
+    "Item3": "Aby ste mohli túto funkciu používať, musíte byť prihlásený."
+  },
+  "TagNotificationSettings": {
+    "Title": "Nastavenia upozornení na označenia",
+    "SoundNotification": "Zvukové upozornenie",
+    "VisualNotification": "Vizuálne upozornenie",
+    "Item1": "Budete dostávať upozornenia od všetkých klientov, kde ste označení.",
+    "Item2": "Môžete si vybrať, či chcete dostávať zvukové alebo vizuálne upozornenia.",
+    "Item3": "Hoci je obsah správy viditeľný vo vizuálnom upozornení, je ho možné čiastočne prečítať neskôr (pokiaľ to váš OS dovoľuje)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "Nastavenia upozornení na odpovede",
+    "SoundNotification": "Zvukové upozornenie",
+    "VisualNotification": "Vizuálne upozornenie",
+    "Item1": "Keď vám niekto odpovie na správu v chate, dostanete upozornenie.",
+    "Item2": "Môžete si vybrať, či chcete dostávať zvukové alebo vizuálne upozornenia.",
+    "Item3": "Hoci je obsah správy viditeľný vo vizuálnom upozornení, je ho možné čiastočne prečítať neskôr (pokiaľ to OS dovoľuje)."
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "Automatická karta streamu",
+    "Opener": "Automatické otváranie streamu",
+    "Sound": "Zvuk streamu",
+    "Item1": "Ak je nastavenie zvuku streamu vypnuté, znova sa použije pri každom zameraní na kartu alebo otvorení nových kariet.",
+    "Item2": "Aby sa predišlo náhlemu zvuku na pozadí, streamy sa spúšťajú stlmené. Zvuk môžete zapnúť priamo v pravom hornom rohu prehrávača Kick.",
+    "Item3": "Upozornenia streamera pre streamera, ktorého sledujete, musia byť zapnuté.",
+    "Item4": "Ak je už stream otvorený na niektorej z vašich kariet, zameria sa na ňu, v opačnom prípade sa otvorí na novej karte.",
+    "Item5": "Keď streamer, ktorého sledujete, začne živé vysielanie, stream sa automaticky otvorí na novej karte."
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "Pozadie kanála na bočnom paneli",
+    "Status": "Stav pozadia kanála",
+    "Item1": "Pridá profilovú fotku sledovaných alebo odporúčaných kanálov v ľavej ponuke ako pozadie.",
+    "Item2": "Poskytuje estetickejší vzhľad aplikovaním efektu rozmazania (blur) na obrázok na pozadí."
+  },
+  "AdBlockerSettings": {
+    "Title": "Blokovanie reklám",
+    "BlockAds": "Blokovať reklamy",
+    "Item1": "Automaticky blokuje reklamy v živom vysielaní a VOD na Kicku.",
+    "Item2": "Poskytuje neprerušované sledovanie preskakovaním reklamných segmentov na úrovni siete bez prerušenia video streamu.",
+    "Item3": "Po zmene nastavenia sa aktuálna stránka streamu automaticky obnoví, aby nastavenie plne nadobudlo účinnosť alebo sa deaktivovalo."
+  },
+  "StreamPreviewSettings": {
+    "Title": "Náhľad streamu",
+    "PreviewWindow": "Okno náhľadu",
+    "PlayerSize": "Veľkosť prehrávača",
+    "Item1": "Vyberte si z 3 rôznych veľkostí prehrávača videa pre náhľad streamu.",
+    "Item2": "Veľkosť prehrávača je predvolene nastavená na sm.",
+    "Item3": "Umožňuje vám zobraziť náhľad streamu v mini popup okne, keď kurzorom prejdete na kanály."
+  },
+  "KeywordDetectorSettings": {
+    "Title": "Detektor slov",
+    "Status": "Stav detektora slov",
+    "SoundNotification": "Zvukové upozornenie",
+    "VisualNotification": "Vizuálne upozornenie",
+    "HighlightColor": "Farba zvýraznenia",
+    "ResetColorTitle": "Návrat k predvolenej farbe",
+    "Keywords": "Kľúčové slová",
+    "InputPlaceholder": "Pridať slovo (napr.: giveaway)",
+    "AddButton": "Pridať",
+    "EmptyList": "V zozname nie sú žiadne kľúčové slová",
+    "Item1": "Aby všetky funkcie fungovali, musí byť stav detektora slov zapnutý.",
+    "Item2": "Ak sa v správe v chate objaví niektoré zo slov, ktoré ste pridali, táto správa bude zvýraznená špeciálnou animáciou.",
+    "Item3": "Farbu zvýraznenia slova si môžete prispôsobiť podľa želania a použiť tlačidlo odpadkového koša na návrat k predvolenej farbe.",
+    "Item4": "Správy sú označené blikajúcim rámčekom, aby ste si ich ľahšie všimli.",
+    "Item5": "Vyhľadávanie slov rozlišuje veľké a malé písmená. Bude sa zhodovať presne s tým, ako ste ho pridali.",
+    "Item6": "Môžete povoliť alebo zakázať systémové upozornenia (na ploche) a zvukové upozornenia v príslušných nastaveniach."
+  },
+  "ModLogsSettings": {
+    "Title": "Záznamy o moderovaní",
+    "BarStatus": "Panel záznamov o moderovaní",
+    "Item1": "Zobrazuje tlačidlá rýchleho prístupu v hornej časti chatu, ako napríklad záznam auditu, história správ, vymazanie chatu a timeouty."
+  },
+  "RaidBlockerSettings": {
+    "Title": "Zrušenie raidu",
+    "Status": "Stav zrušenia raidu",
+    "FollowOnly": "Neísť na kanály, ktoré nesledujem",
+    "BlacklistTitle": "Čierna listina (Kanály, na ktoré sa nemá ísť)",
+    "InputPlaceholder": "Pridať názov kanála (napr.: hype)",
+    "AddButton": "Pridať",
+    "EmptyList": "Žiadne kanály na čiernej listine",
+    "Item1": "Stav zrušenia raidu musí byť zapnutý, aby boli všetky funkcie účinné.",
+    "Item2": "Pridajte kanály, na ktoré nechcete ísť, keď kanál robí raid.",
+    "Item3": "Ak ste prihlásený, raidy na kanály, ktoré nesledujete, budú zrušené. Toto nastavenie je predvolene zapnuté.",
+    "Item4": "Systém automaticky zruší raidy do 3 sekúnd."
+  },
+  "EmbedPreviewSettings": {
+    "Title": "Zobrazovač obsahu",
+    "Status": "Stav zobrazovača obsahu",
+    "WindowSize": "Veľkosť okna",
+    "Item1": "Prezerajte si odkazy z X (twitter), youtube, kick a instagram zdieľané v chate priamo na stránke.",
+    "Item2": "Po kliknutí na tlačidlo sa obsah zobrazí otvorením nezávislého, posúvateľného okna v ľavom hornom rohu.",
+    "Item3": "Vyberte si z 3 rôznych veľkostí okna na ukážku obsahu.",
+    "Item4": "Veľkosť okna je predvolene nastavená na sm.",
+    "Item5": "Veľkosť okna, ktoré sa otvorí v pravom dolnom rohu, môžete rozšíriť až na 80% stránky."
+  },
+  "RoleHighlightsSettings": {
+    "Title": "Zvýraznenie rolí",
+    "Status": "Stav zvýraznenia rolí",
+    "Item1": "Zvýrazňuje správy od moderátorov, vip a og používateľov v chate.",
+    "Item2": "Pre moderátorov je použité svetlomodré zvýraznenie, tyrkysové pre og a žlté pre vip používateľov.",
+    "Item3": "Ak má používateľ viacero rolí, priorita je nastavená ako: Moderátor > og > vip."
+  },
+  "ChannelHiderSettings": {
+    "Title": "Skrývanie kanálov",
+    "Status": "Stav skrytia kanála",
+    "BlacklistTitle": "Čierna listina (Kanály na skrytie)",
+    "InputPlaceholder": "Pridať názov kanála (napr.: hype)",
+    "AddButton": "Pridať",
+    "EmptyList": "Žiadne kanály na čiernej listine",
+    "Item1": "Stav skrytia kanála musí byť zapnutý, aby všetky funkcie fungovali.",
+    "Item2": "Ak chcete kanál skryť, jednoducho kliknite na tlačidlo ⊘ blocked v odporúčaných kanáloch alebo prehrávanom streame na domovskej stránke.",
+    "Item3": "Kanály, ktoré ste skryli, môžete nájsť a odstrániť v ponuke Skrývanie kanálov v okne rozšírenia.",
+    "Item4": "Pridajte kanály, ktoré nechcete vidieť, do zoznamu odporúčaných kanálov vľavo a do automaticky prehrávaných odporúčaných kanálov na domovskej stránke.",
+    "Item5": "Pridané kanály sa nezobrazia v sekcii odporúčaných streamov na domovskej stránke."
+  },
+  "ViewerCountSettings": {
+    "Title": "Počet divákov",
+    "Status": "Zobraziť skrytý počet divákov",
+    "Item1": "Umožňuje vám vidieť skrytý počet divákov vysielajúceho kanála počas sledovania."
+  },
+  "EmotePreviewSettings": {
+    "Title": "Náhľad emotikonov",
+    "PreviewWindow": "Okno náhľadu emotikonov",
+    "WindowSize": "Veľkosť okna",
+    "Item1": "Vyberte si z 3 rôznych veľkostí okien pre náhľad emotikonov.",
+    "Item2": "Veľkosť okna je predvolene nastavená na sm.",
+    "Item3": "Umožňuje vám zobraziť zväčšenú verziu a podrobnosti emotikonu v mini popup okne, keď kurzorom prejdete na emotikony v chate."
+  },
+  "ChannelThemeSettings": {
+    "Title": "Nastaviť tému kanála",
+    "GlobalTheme": "Použiť globálnu tému",
+    "ChannelPlaceholder": "Názov kanála (napr.: hype)",
+    "GlobalChannelLabel": "Všetky kanály (Globálna téma)",
+    "SuggestedThemesTitle": "Použiť pripravené pozadia",
+    "Bg1": "Pozadie 1",
+    "Bg2": "Pozadie 2",
+    "Bg3": "Pozadie 3",
+    "Bg4": "Pozadie 4",
+    "Bg5": "Pozadie 5",
+    "Color1": "Farba 1",
+    "Color2": "Farba 2",
+    "Color3": "Farba 3",
+    "Color4": "Farba 4",
+    "Color5": "Farba 5",
+    "Color6": "Farba 6",
+    "Color7": "Farba 7",
+    "Color8": "Farba 8",
+    "SaveButton": "Uložiť",
+    "SavedThemesTitle": "Uložené témy",
+    "EmptyThemes": "Žiadne kanály s uloženou témou",
+    "Item1": "Zmeňte pozadie alebo farby textu ľubovoľného kanála. Tieto výbery farieb sa budú rozširovať.",
+    "Item2": "Pomocou nástroja na výber farieb napravo od palety si môžete vybrať akékoľvek odtiene odkiaľkoľvek.",
+    "Item3": "Hoci sa zadané názvy kanálov načítavajú automaticky, môžete tiež ručne zadávať a pridávať rôzne kanály.",
+    "Item4": "Kanál si môžete vybrať v sekcii uložených tém a zmeniť paletu farieb alebo ho odstrániť.",
+    "Item5": "Kým je zapnuté nastavenie globálnej témy, môžete nastaviť spoločnú tému nezávisle od kanálov a stránok, aby bola platná na všetkých stránkach, kde nie je nastavená vlastná téma."
+  },
+  "ChannelHider": {
+    "HideChannel": "Skryť kanál",
+    "HiddenChannelPrefix": "Skrytý kanál: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | Náhľad streamu"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "Zrušiť zvýraznenie",
+    "Highlight": "Zvýrazniť správy"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "Zobraziť v Zobrazovači obsahu"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | Náhľad emotikonov"
+  },
+  "FavoriteUser": {
+    "Remove": "Odstrániť z obľúbených",
+    "Add": "Pridať do obľúbených"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | Zobrazovač obsahu",
+    "GoToLink": "Prejsť na odkaz",
+    "Resize": "Zmeniť veľkosť"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "Klip sa nepodarilo načítať",
+    "VideoLoadError": "Video sa nepodarilo načítať",
+    "Publisher": "Vydavateľ:",
+    "Creator": "Tvorca:",
+    "Views": "Zobrazenia",
+    "TimeAgo": {
+      "Seconds": "pred {{count}} sekundami",
+      "Minutes": "pred {{count}} minútami",
+      "Hours": "pred {{count}} hodinami",
+      "Days": "pred {{count}} dňami",
+      "Months": "pred {{count}} mesiacmi",
+      "Years": "pred {{count}} rokmi"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "Video sa nepodarilo načítať",
+    "DefaultTitle": "Záznam streamu",
+    "Publisher": "Vydavateľ:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "ľudí pozerá",
+    "Participation": "% Účasť",
+    "ActiveChatters": "Priem. aktívnych v chate",
+    "TooltipLine1": "Tieto hodnoty sa matematicky vypočítavajú na základe aktuálneho počtu divákov.",
+    "TooltipLine2": "Štatistiky sa od tohto momentu prehodnocujú pri každom prepnutí kanála."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | Moderovanie",
+    "Cross": "Cross",
+    "ReasonPlaceholder": "Zadajte dôvod banu. (Voliteľné)",
+    "CrossReasonNote": "Informácie o cross bane budú automaticky pridané k dôvodu.",
+    "RemoveBan": "Odbanovať",
+    "Ban": "Zabanovať (Ban)",
+    "Timeout": "Timeout",
+    "StatusReady": "Pripravené",
+    "Scanning": "Skenovanie: {{channel}}",
+    "Applying": "Aplikovanie: {{channel}}",
+    "Complete": "✓ Dokončené na {{success}} kanáloch",
+    "DurationWeek": "1 týždeň",
+    "DurationDays": "{{d}} dní",
+    "DurationHours": "{{h}} hodín",
+    "DurationMinutes": "{{m}} minút",
+    "TimeoutFormat": "Dostal Timeout ({{duration}})",
+    "ExpiresAt": "Vyprší o: {{date}} {{time}}",
+    "Quick5M": "5 minút",
+    "Quick1H": "1 hodina",
+    "Quick1D": "1 deň",
+    "Quick1W": "1 týždeň",
+    "MaxDuration": "Max. trvanie",
+    "UnitMinute": "Minúta",
+    "UnitHour": "Hodina",
+    "UnitDay": "Deň",
+    "UnitWeek": "Týždeň",
+    "Set": "Nastaviť",
+    "PermanentBanned": "Permanentne zabanovaný",
+    "TimedOut": "Dostal Timeout",
+    "By": "od",
+    "Indefinite": "Na neurčito",
+    "Expires": "Vyprší:",
+    "NoReason": "Nie je uvedený žiadny dôvod.",
+    "ThisChannel": "Tento kanál",
+    "YourChannel": "Váš vlastný kanál",
+    "SwitchToOriginal": "Prepnúť na pôvodné moderovanie",
+    "SwitchToAdvanced": "Prepnúť na pokročilé moderovanie",
+    "Starting": "Spúšťanie...",
+    "Tooltips": {
+      "TargetMod": "Cieľový používateľ je moderátorom na tomto kanáli, takže akcia sa nepoužije. Môžete použiť iba cross ban.",
+      "StreamerModeMod": "Režim streamera je aktívny. Cieľový používateľ je moderátorom na tomto kanáli, takže akcia sa tu nepoužije. Akcia bude aplikovaná len na vašom vlastnom kanáli (alebo iných, ak je zapnutý cross ban).",
+      "StreamerModeActive": "Režim streamera je aktívny.",
+      "StreamerModeBoth": "Režim streamera je aktívny. Akcia sa aplikuje na tomto aj na vašom vlastnom kanáli.",
+      "StreamerModeOnlyYours": "Režim streamera je aktívny. Pretože na tomto kanáli nie ste moderátorom, akcia sa uplatní na základe vášho vlastného kanála."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Informácie o kanáli sa nepodarilo získať.",
+      "NoMessageHistory": "Tento používateľ nemá históriu správ.",
+      "HistoryFetchError": "Históriu sa nepodarilo načítať."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | Záznamy o moderovaní",
+    "EmptyAudit": "Nenašli sa žiadne akcie moderátora.",
+    "EmptyMessages": "Nenašli sa žiadne odstránené správy.",
+    "EmptyClear": "Nenašli sa žiadne vymazania chatu.",
+    "EmptyTimeouts": "Nenašli sa žiadne aktívne timeouty.",
+    "AuditLogTitle": "Záznam auditu",
+    "MessageLogTitle": "Záznam správ",
+    "ClearLogTitle": "Vymazania chatu",
+    "TimeoutsTitle": "Timeouty",
+    "TooltipAudit": "Záznam auditu",
+    "TooltipTimeouts": "Timeouty",
+    "TooltipMessages": "Záznam správ",
+    "TooltipClear": "Vymazať",
+    "ChatCleared": "Chat vymazaný.",
+    "TimedOutWithDuration": "Dostal Timeout ({{duration}})",
+    "ExpiresAt": "Vyprší: {{date}}",
+    "DurationWeek": "1 týždeň",
+    "DurationDays": "{{d}} dní",
+    "DurationHours": "{{h}} hodín",
+    "DurationMinutes": "{{m}} minút",
+    "Unknown": "Neznámy",
+    "DeletedType": "Odstránené",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1> zabanoval používateľa <3>{{target}}</3>",
+      "Timeout": "<1>{{mod}}</1> udelil timeout používateľovi <3>{{target}}</3> na {{duration}}",
+      "Unban": "<1>{{mod}}</1> odbanoval používateľa <3>{{target}}</3>",
+      "Untimeout": "<1>{{mod}}</1> zrušil timeout pre používateľa <3>{{target}}</3>"
+    },
+    "Violations": {
+      "Gibberish": "[Nezmyselné alebo nezrozumiteľné správy]",
+      "Spam": "[Sexuálny obsah]",
+      "Violence": "[Prejavy nenávisti]",
+      "Bullying": "[Násilie]",
+      "SelfHarm": "[Šikanovanie]",
+      "Drugs": "[Drogy]",
+      "Weapons": "[Zbrane]",
+      "Hate": "[Prejavy nenávisti]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | Zrušenie raidu je aktívne"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "Nastavenia KT with dp"
+  },
+  "SettingsModal": {
+    "New": "Nové"
+  },
+  "StorageManager": {
+    "Import": "Importovať",
+    "Export": "Exportovať"
+  },
+  "UpdateNotifier": {
+    "Title": "Poznámky k aktualizácii KT with dp",
+    "Version": "Verzia: {{version}}",
+    "GotIt": "Rozumiem"
+  },
+  "UserDetailCard": {
+    "Copy": "Kopírovať",
+    "Copied": "Skopírované",
+    "Notes": "Poznámky",
+    "TechDetails": "Technické detaily",
+    "Socials": "Sociálne siete",
+    "Messages": "Správy",
+    "Moderation": "Moderovanie",
+    "Followers": "Sledujúci",
+    "Badges": "Odznaky",
+    "NoSocials": "Žiadne sociálne siete.",
+    "ToggleBio": "Prepnúť životopis",
+    "Following": "Sleduje",
+    "Joined": "Dátum pripojenia",
+    "Streak": "Séria",
+    "Unfollow": "Zrušiť sledovanie",
+    "Follow": "Sledovať",
+    "RemoveFromFavorites": "Odstrániť z obľúbených",
+    "AddToFavorites": "Pridať do obľúbených",
+    "Unhighlight": "Zrušiť zvýraznenie",
+    "Highlight": "Zvýrazniť správy",
+    "ChannelId": "ID kanála",
+    "UserId": "ID používateľa",
+    "ChatId": "ID chatu",
+    "Replies": "Odpovede",
+    "NoReplies": "Žiadne dáta odpovedí.",
+    "ModerationLogs": "Záznamy o moderovaní",
+    "NoModerationData": "Žiadne dáta o moderovaní.",
+    "ModerationActions": "Akcie moderovania",
+    "Timeout": "Timeout",
+    "MaxDuration": "Max. trvanie",
+    "UnitMinute": "Minúta",
+    "UnitHour": "Hodina",
+    "UnitDay": "Deň",
+    "UnitWeek": "Týždeň",
+    "Set": "Nastaviť",
+    "Ban": "Zabanovať",
+    "CrossBan": "Cross (Všade, kde ste mod)",
+    "Quick5M": "5 minút",
+    "Quick1H": "1 hodina",
+    "Quick1D": "1 deň",
+    "Quick1W": "1 týždeň",
+    "DurationWeek": "1 týždeň",
+    "DurationDays": "{{d}} dní",
+    "DurationHours": "{{h}} hodín",
+    "DurationMinutes": "{{m}} minút",
+    "TimedOutFormat": "Dostal Timeout ({{duration}})",
+    "ExpiresAt": "Vyprší: {{date}}",
+    "PermanentBanned": "Permanentne zabanovaný",
+    "Deleted": "Odstránené",
+    "ProgressScanning": "Skenovanie...",
+    "ProgressApplying": "Spracovanie pre kanál {{channel}}...",
+    "ProgressDone": "Úspešne {{action}} na {{success}} z celkovo {{total}} kanálov.",
+    "ActionBanned": "zabanovaný",
+    "ActionUnbanned": "odbanovaný",
+    "LogBanned": "Zabanovaný od <1>{{mod}}</1>.",
+    "LogUnbanned": "Odbanovaný od <1>{{mod}}</1>.",
+    "LogUntimeout": "Timeout zrušený od <1>{{mod}}</1>.",
+    "Unknown": "Neznámy",
+    "DeletedType": "Odstránené",
+    "ProgressStarting": "Spúšťanie...",
+    "Violations": {
+      "Gibberish": "[Nezmyselné alebo nezrozumiteľné správy]",
+      "Spam": "[Sexuálny obsah]",
+      "Violence": "[Prejavy nenávisti]",
+      "Bullying": "[Násilie]",
+      "SelfHarm": "[Šikanovanie]",
+      "Drugs": "[Drogy]",
+      "Weapons": "[Zbrane]",
+      "Hate": "[Prejavy nenávisti]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Informácie o kanáli sa nepodarilo získať.",
+      "NoMessageHistory": "Tento používateľ nemá históriu správ.",
+      "HistoryFetchError": "Históriu sa nepodarilo načítať."
+    }
+  },
+  "UserNoteCard": {
+    "Title": "Vaše poznámky o {{username}}",
+    "Placeholder": "Svoje poznámky napíšte sem",
+    "Save": "Uložiť poznámky",
+    "Delete": "Odstrániť poznámku"
+  },
+  "Background": {
+    "MentionTitle": "Boli ste spomenutí na Kicku!",
+    "MentionMessage": "{{sender}} vás spomenul v kanáli {{channel}}: \"{{content}}\"",
+    "ReplyTitle": "Na vašu správu bolo odpovedané na Kicku!",
+    "ReplyMessage": "{{sender}} vám odpovedal v kanáli {{channel}}: \"{{content}}\"",
+    "LiveTitle": "{{channel}} je naživo!",
+    "KeywordTitle": "Zhoda detektora slov",
+    "KeywordMessage": "{{sender}} v kanáli {{channel}}: {{content}}",
+    "BadgeTitle": "KT with dp | Zvuk streamu",
+    "BadgeSubtitle": "Zvuk streamu stlmený",
+    "BadgeButton": "Zapnúť zvuk"
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "Update Notes",
+    "UpdateHistory": "Update History",
+    "CurrentVersion": "Current Version :"
+  },
+  "Main": {
+    "NewBadge": "New"
+  },
+  "Footer": {
+    "Developer": "Developer:",
+    "Version": "version:"
+  },
+  "ModulInfo": {
+    "Title": "System Information",
+    "Desc": "Module Information",
+    "CountPrefix": "Currently, a total of ",
+    "CountSuffix": " modules are actively running.",
+    "Reset": "Reset Order",
+    "SettingsTitle": "Settings",
+    "SettingsDesc": "Back up or restore extension data to your computer."
+  },
+  "ModerationInfo": {
+    "Title": "Moderation",
+    "Item1": "Moderation tools work on channels where you are a moderator or on your own channel.",
+    "Item2": "While cross ban and timeout settings are turned on in other channels, only the cross ban setting is turned on in your own channel.",
+    "Item3": "You must follow the channels you moderate when using cross ban.",
+    "Item4": "You cannot ban or timeout users who are moderators on your own channel, but you can apply a cross ban on other channels you follow and moderate if they are not moderators there.",
+    "Item5": "Timeout duration cannot exceed 1 week."
+  },
+  "StreamerModeSettings": {
+    "Title": "Streamer Mode",
+    "AdvancedMode": "Advanced Moderation Mode",
+    "Item1": "If streamer mode is active, you can see your own chat messages or perform actions in some windows for your own channel.",
+    "Item2": "Advanced Moderation Mode activates an advanced moderation panel in user profiles instead of Kick's default panel, offering cross bans, custom timeout times, and a detailed chat history."
+  },
+  "LiveNotificationSettings": {
+    "Title": "Stream Notification Settings",
+    "SoundNotification": "Sound Notification",
+    "VisualNotification": "Visual Notification",
+    "Item1": "You will receive stream notifications for the channels you follow.",
+    "Item2": "You can choose to receive sound or visual notifications.",
+    "Item3": "You must be logged in to use this feature."
+  },
+  "TagNotificationSettings": {
+    "Title": "Tag Notification Settings",
+    "SoundNotification": "Sound Notification",
+    "VisualNotification": "Visual Notification",
+    "Item1": "You will receive notifications from all clients where you are tagged.",
+    "Item2": "You can choose to receive sound or visual notifications.",
+    "Item3": "Although the message content is visible in the visual notification, it can be partially read later (as far as your OS allows)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "Reply Notification Settings",
+    "SoundNotification": "Sound Notification",
+    "VisualNotification": "Visual Notification",
+    "Item1": "You will receive a notification when your message is replied to in the chat.",
+    "Item2": "You can choose to receive sound or visual notifications.",
+    "Item3": "Although the message content is visible in the visual notification, it can be partially read later (as far as the OS allows)."
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "Auto Stream Tab",
+    "Opener": "Auto Stream Opener",
+    "Sound": "Stream Audio",
+    "Item1": "If the stream audio setting is turned off, it is reapplied on every tab focus or new tab opening.",
+    "Item2": "To prevent sudden sound in the background, streams start muted. You can unmute directly from the top right corner of the Kick player.",
+    "Item3": "Streamer notifications for the streamer you follow must be turned on.",
+    "Item4": "If the stream is already open in any of your tabs, it will be focused, otherwise it will open in a new tab.",
+    "Item5": "When a streamer you follow starts a live broadcast, the stream will automatically open in a new tab."
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "Sidebar Channel Background",
+    "Status": "Channel Background Status",
+    "Item1": "Adds the profile photo of the followed or recommended channels in the left menu as a background.",
+    "Item2": "Provides a more aesthetic appearance by applying a blur effect to the background image."
+  },
+  "AdBlockerSettings": {
+    "Title": "Ad Blocker",
+    "BlockAds": "Block Ads",
+    "Item1": "Automatically blocks live stream and VOD ads on Kick.",
+    "Item2": "Provides an uninterrupted viewing experience by skipping ad segments at the network level without breaking the video stream.",
+    "Item3": "After changing the setting, the current stream page will automatically refresh for the setting to take full effect or be deactivated."
+  },
+  "StreamPreviewSettings": {
+    "Title": "Stream Preview",
+    "PreviewWindow": "Preview Window",
+    "PlayerSize": "Player Size",
+    "Item1": "Choose from 3 different video player sizes for stream preview.",
+    "Item2": "The player size is set to sm by default.",
+    "Item3": "Allows you to preview the stream in a mini popup window when you hover over channels."
+  },
+  "KeywordDetectorSettings": {
+    "Title": "Keyword Detector",
+    "Status": "Keyword Detector Status",
+    "SoundNotification": "Sound Notification",
+    "VisualNotification": "Visual Notification",
+    "HighlightColor": "Highlight Colour",
+    "ResetColorTitle": "Revert to Default Colour",
+    "Keywords": "Keywords",
+    "InputPlaceholder": "Add a word (e.g.: giveaway)",
+    "AddButton": "Add",
+    "EmptyList": "No keywords in the list",
+    "Item1": "Keyword detector status must be turned on for all features to work.",
+    "Item2": "If any of the words you added appears in a message in the chat, that message will be highlighted with a special animation.",
+    "Item3": "You can customise the word highlight colour as you wish and use the trash can button to return to the default colour.",
+    "Item4": "Messages are marked with a blinking frame to make it easier for you to notice them.",
+    "Item5": "Word searches are case-sensitive. It will match exactly as you added it.",
+    "Item6": "You can enable or disable system (desktop) notifications and sound alerts from the relevant settings."
+  },
+  "ModLogsSettings": {
+    "Title": "Moderation Logs",
+    "BarStatus": "Moderation Log Bar",
+    "Item1": "Shows quick access buttons at the top of the chat, such as audit log, message history, chat clear, and timeouts."
+  },
+  "RaidBlockerSettings": {
+    "Title": "Raid Cancellation",
+    "Status": "Raid Cancellation Status",
+    "FollowOnly": "Do not go to channels I don't follow",
+    "BlacklistTitle": "Blacklist (Channels not to go to)",
+    "InputPlaceholder": "Add channel name (e.g.: hype)",
+    "AddButton": "Add",
+    "EmptyList": "No channels on the blacklist",
+    "Item1": "Raid cancellation status must be turned on for all features to be effective.",
+    "Item2": "Add the channels you do not want to go to when a channel does a raid.",
+    "Item3": "If you are logged in, raids to channels you don't follow will be cancelled. This setting is turned on by default.",
+    "Item4": "The system automatically cancels raids within 3 seconds."
+  },
+  "EmbedPreviewSettings": {
+    "Title": "Content Viewer",
+    "Status": "Content Viewer Status",
+    "WindowSize": "Window Size",
+    "Item1": "View X (twitter), youtube, kick and instagram links shared in the chat directly on the page.",
+    "Item2": "When the button is clicked, it displays the content by opening an independent, draggable window in the top left corner.",
+    "Item3": "Choose from 3 different window sizes to preview the content.",
+    "Item4": "The window size is set to sm by default.",
+    "Item5": "You can expand the size of the window that opens in the bottom right corner up to 80% of the page."
+  },
+  "RoleHighlightsSettings": {
+    "Title": "Role Highlights",
+    "Status": "Role Highlights Status",
+    "Item1": "Highlights the messages from moderators, vip, and og users in the chat.",
+    "Item2": "A light blue highlight is applied for moderators, turquoise for og, and yellow for vip users.",
+    "Item3": "If a user has multiple roles, the priority is set as: Moderator > og > vip."
+  },
+  "ChannelHiderSettings": {
+    "Title": "Channel Hider",
+    "Status": "Channel Hiding Status",
+    "BlacklistTitle": "Blacklist (Channels to Hide)",
+    "InputPlaceholder": "Add channel name (e.g.: hype)",
+    "AddButton": "Add",
+    "EmptyList": "No channels on the blacklist",
+    "Item1": "The channel hide status must be turned on for all features to work.",
+    "Item2": "To hide a channel, simply click the ⊘ blocked button in the recommended channels or the playing stream on the homepage.",
+    "Item3": "You can find and remove the channels you have hidden from the Channel Hider menu in the extension window.",
+    "Item4": "Add the channels you do not want to see to the recommended channels list on the left and the auto-playing recommended channels on the homepage.",
+    "Item5": "The channels you add will not be shown in the recommended streams section on the homepage."
+  },
+  "ViewerCountSettings": {
+    "Title": "Viewer Count",
+    "Status": "Show Hidden Viewer Count",
+    "Item1": "Allows you to see the hidden viewer count of a broadcasting channel while you are watching."
+  },
+  "EmotePreviewSettings": {
+    "Title": "Emote Preview",
+    "PreviewWindow": "Emote Preview Window",
+    "WindowSize": "Window Size",
+    "Item1": "Choose from 3 different window sizes for emote preview.",
+    "Item2": "The window size is set to sm by default.",
+    "Item3": "Allows you to see an enlarged version and details of the emote in a mini popup window when you hover over emotes in the chat."
+  },
+  "ChannelThemeSettings": {
+    "Title": "Set Channel Theme",
+    "GlobalTheme": "Apply Global Theme",
+    "ChannelPlaceholder": "Channel Name (e.g.: hype)",
+    "GlobalChannelLabel": "All Channels (Global Theme)",
+    "SuggestedThemesTitle": "Apply Ready Backgrounds",
+    "Bg1": "Background 1",
+    "Bg2": "Background 2",
+    "Bg3": "Background 3",
+    "Bg4": "Background 4",
+    "Bg5": "Background 5",
+    "Color1": "Colour 1",
+    "Color2": "Colour 2",
+    "Color3": "Colour 3",
+    "Color4": "Colour 4",
+    "Color5": "Colour 5",
+    "Color6": "Colour 6",
+    "Color7": "Colour 7",
+    "Color8": "Colour 8",
+    "SaveButton": "Save",
+    "SavedThemesTitle": "Saved Themes",
+    "EmptyThemes": "No channels with a saved theme",
+    "Item1": "Change the backgrounds or text colours of any channel. These colour pickers will be increased.",
+    "Item2": "With the colour picker to the right of the palette, you can choose any hues from anywhere.",
+    "Item3": "Although the entered channel names are fetched automatically, you can also type and add different channels manually.",
+    "Item4": "You can select the channel from the saved themes section and change the colour palette or delete it.",
+    "Item5": "While the global theme setting is on, you can set a common theme independent of channels and pages, and make it valid on all pages where no custom theme is set."
+  },
+  "ChannelHider": {
+    "HideChannel": "Hide Channel",
+    "HiddenChannelPrefix": "Hidden Channel: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | Stream Preview"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "Unhighlight",
+    "Highlight": "Highlight Messages"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "Show in Content Viewer"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | Emote Preview"
+  },
+  "FavoriteUser": {
+    "Remove": "Remove from Favourites",
+    "Add": "Add to Favourites"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | Content Viewer",
+    "GoToLink": "Go to link",
+    "Resize": "Resize"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "Clip could not be loaded",
+    "VideoLoadError": "Video could not be loaded",
+    "Publisher": "Publisher:",
+    "Creator": "Creator:",
+    "Views": "Views",
+    "TimeAgo": {
+      "Seconds": "{{count}} seconds ago",
+      "Minutes": "{{count}} minutes ago",
+      "Hours": "{{count}} hours ago",
+      "Days": "{{count}} days ago",
+      "Months": "{{count}} months ago",
+      "Years": "{{count}} years ago"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "Video could not be loaded",
+    "DefaultTitle": "Stream Replay",
+    "Publisher": "Publisher:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "people watching",
+    "Participation": "% Participation",
+    "ActiveChatters": "Avg. Active Chatters",
+    "TooltipLine1": "These values are mathematically calculated based on the current viewer count.",
+    "TooltipLine2": "The statistics are re-evaluated from that moment on at every channel switch."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | Moderation",
+    "Cross": "Cross",
+    "ReasonPlaceholder": "Enter ban reason. (Optional)",
+    "CrossReasonNote": "Cross ban information will automatically be added to the reason.",
+    "RemoveBan": "Unban",
+    "Ban": "Ban",
+    "Timeout": "Timeout",
+    "StatusReady": "Ready",
+    "Scanning": "Scanning: {{channel}}",
+    "Applying": "Applying: {{channel}}",
+    "Complete": "✓ Complete on {{success}} channels",
+    "DurationWeek": "1 week",
+    "DurationDays": "{{d}} days",
+    "DurationHours": "{{h}} hours",
+    "DurationMinutes": "{{m}} minutes",
+    "TimeoutFormat": "Timed Out ({{duration}})",
+    "ExpiresAt": "Expires At: {{date}} {{time}}",
+    "Quick5M": "5 minutes",
+    "Quick1H": "1 hour",
+    "Quick1D": "1 day",
+    "Quick1W": "1 week",
+    "MaxDuration": "Max Duration",
+    "UnitMinute": "Minute",
+    "UnitHour": "Hour",
+    "UnitDay": "Day",
+    "UnitWeek": "Week",
+    "Set": "Set",
+    "PermanentBanned": "Permanently Banned",
+    "TimedOut": "Timed Out",
+    "By": "by",
+    "Indefinite": "Indefinite",
+    "Expires": "Expires:",
+    "NoReason": "No Reason Provided.",
+    "ThisChannel": "This Channel",
+    "YourChannel": "Your Own Channel",
+    "SwitchToOriginal": "Switch to Original Moderation",
+    "SwitchToAdvanced": "Switch to Advanced Moderation",
+    "Starting": "Starting...",
+    "Tooltips": {
+      "TargetMod": "The target user is a moderator in this channel, so the action will not be applied. You can only use cross ban.",
+      "StreamerModeMod": "Streamer mode is active. The target user is a moderator in this channel, so the action will not be applied here. The action will only be applied in your own channel (or others if cross ban is on).",
+      "StreamerModeActive": "Streamer mode is active.",
+      "StreamerModeBoth": "Streamer mode is active. The action will be applied in both this channel and your own channel.",
+      "StreamerModeOnlyYours": "Streamer mode is active. Because you are not a moderator in this channel, the action will be applied based on your own channel."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Channel information could not be retrieved.",
+      "NoMessageHistory": "This user has no message history.",
+      "HistoryFetchError": "History could not be fetched."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | Moderation Logs",
+    "EmptyAudit": "No moderator actions found.",
+    "EmptyMessages": "No deleted messages found.",
+    "EmptyClear": "No chat clears found.",
+    "EmptyTimeouts": "No active timeouts found.",
+    "AuditLogTitle": "Audit Log",
+    "MessageLogTitle": "Message Log",
+    "ClearLogTitle": "Chat Clears",
+    "TimeoutsTitle": "Timeouts",
+    "TooltipAudit": "Audit Log",
+    "TooltipTimeouts": "Timeouts",
+    "TooltipMessages": "Message Log",
+    "TooltipClear": "Clear",
+    "ChatCleared": "Chat cleared.",
+    "TimedOutWithDuration": "Timed Out ({{duration}})",
+    "ExpiresAt": "Expires: {{date}}",
+    "DurationWeek": "1 week",
+    "DurationDays": "{{d}} days",
+    "DurationHours": "{{h}} hours",
+    "DurationMinutes": "{{m}} minutes",
+    "Unknown": "Unknown",
+    "DeletedType": "Deleted",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1> banned <3>{{target}}</3>",
+      "Timeout": "<1>{{mod}}</1> timed out <3>{{target}}</3> for {{duration}}",
+      "Unban": "<1>{{mod}}</1> unbanned <3>{{target}}</3>",
+      "Untimeout": "<1>{{mod}}</1> untimed out <3>{{target}}</3>"
+    },
+    "Violations": {
+      "Gibberish": "[Meaningless or incomprehensible messages]",
+      "Spam": "[Sexual content]",
+      "Violence": "[Hate Speech]",
+      "Bullying": "[Violence]",
+      "SelfHarm": "[Bullying]",
+      "Drugs": "[Drugs]",
+      "Weapons": "[Weapons]",
+      "Hate": "[Hate Speech]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | Raid Cancellation Active"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp Settings"
+  },
+  "SettingsModal": {
+    "New": "New"
+  },
+  "StorageManager": {
+    "Import": "Import",
+    "Export": "Export"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp Update Notes",
+    "Version": "Version: {{version}}",
+    "GotIt": "Got it"
+  },
+  "UserDetailCard": {
+    "Copy": "Copy",
+    "Copied": "Copied",
+    "Notes": "Notes",
+    "TechDetails": "Tech Details",
+    "Socials": "Socials",
+    "Messages": "Messages",
+    "Moderation": "Moderation",
+    "Followers": "Followers",
+    "Badges": "Badges",
+    "NoSocials": "No Socials.",
+    "ToggleBio": "Toggle Bio",
+    "Following": "Following",
+    "Joined": "Joined Date",
+    "Streak": "Streak",
+    "Unfollow": "Unfollow",
+    "Follow": "Follow",
+    "RemoveFromFavorites": "Remove from Favourites",
+    "AddToFavorites": "Add to Favourites",
+    "Unhighlight": "Unhighlight",
+    "Highlight": "Highlight Messages",
+    "ChannelId": "Channel ID",
+    "UserId": "User ID",
+    "ChatId": "Chat ID",
+    "Replies": "Replies",
+    "NoReplies": "No reply data.",
+    "ModerationLogs": "Moderation Logs",
+    "NoModerationData": "No moderation data.",
+    "ModerationActions": "Moderation Actions",
+    "Timeout": "Timeout",
+    "MaxDuration": "Max Duration",
+    "UnitMinute": "Minute",
+    "UnitHour": "Hour",
+    "UnitDay": "Day",
+    "UnitWeek": "Week",
+    "Set": "Set",
+    "Ban": "Ban",
+    "CrossBan": "Cross (Everywhere you are a mod)",
+    "Quick5M": "5 minutes",
+    "Quick1H": "1 hour",
+    "Quick1D": "1 day",
+    "Quick1W": "1 week",
+    "DurationWeek": "1 week",
+    "DurationDays": "{{d}} days",
+    "DurationHours": "{{h}} hours",
+    "DurationMinutes": "{{m}} minutes",
+    "TimedOutFormat": "Timed Out ({{duration}})",
+    "ExpiresAt": "Expires: {{date}}",
+    "PermanentBanned": "Permanently Banned",
+    "Deleted": "Deleted",
+    "ProgressScanning": "Scanning...",
+    "ProgressApplying": "Processing for channel {{channel}}...",
+    "ProgressDone": "Successfully {{action}} on {{success}} out of {{total}} channels.",
+    "ActionBanned": "banned",
+    "ActionUnbanned": "unbanned",
+    "LogBanned": "Banned by <1>{{mod}}</1>.",
+    "LogUnbanned": "Unbanned by <1>{{mod}}</1>.",
+    "LogUntimeout": "Untimed out by <1>{{mod}}</1>.",
+    "Unknown": "Unknown",
+    "DeletedType": "Deleted",
+    "ProgressStarting": "Starting...",
+    "Violations": {
+      "Gibberish": "[Meaningless or incomprehensible messages]",
+      "Spam": "[Sexual content]",
+      "Violence": "[Hate Speech]",
+      "Bullying": "[Violence]",
+      "SelfHarm": "[Bullying]",
+      "Drugs": "[Drugs]",
+      "Weapons": "[Weapons]",
+      "Hate": "[Hate Speech]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Channel information could not be retrieved.",
+      "NoMessageHistory": "This user has no message history.",
+      "HistoryFetchError": "History could not be fetched."
+    }
+  },
+  "UserNoteCard": {
+    "Title": "Your Notes About {{username}}",
+    "Placeholder": "Write your notes here",
+    "Save": "Save Notes",
+    "Delete": "Delete Note"
+  },
+  "Background": {
+    "MentionTitle": "You were mentioned on Kick!",
+    "MentionMessage": "{{sender}} mentioned you in {{channel}}: \"{{content}}\"",
+    "ReplyTitle": "Your message was replied to on Kick!",
+    "ReplyMessage": "{{sender}} replied to you in {{channel}}: \"{{content}}\"",
+    "LiveTitle": "{{channel}} is Live!",
+    "KeywordTitle": "Keyword detector match",
+    "KeywordMessage": "{{sender}} in {{channel}}: {{content}}",
+    "BadgeTitle": "KT with dp | Stream Audio",
+    "BadgeSubtitle": "Stream audio muted",
+    "BadgeButton": "Unmute"
+  }
+}

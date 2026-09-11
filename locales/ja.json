@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "アップデートノート",
+    "UpdateHistory": "アップデート履歴",
+    "CurrentVersion": "現在のバージョン："
+  },
+  "Main": {
+    "NewBadge": "新規"
+  },
+  "Footer": {
+    "Developer": "開発者：",
+    "Version": "バージョン："
+  },
+  "ModulInfo": {
+    "Title": "システム情報",
+    "Desc": "モジュール情報",
+    "CountPrefix": "現在、合計",
+    "CountSuffix": "個のモジュールがアクティブに実行されています。",
+    "Reset": "順序をリセット",
+    "SettingsTitle": "設定",
+    "SettingsDesc": "拡張機能のデータをコンピューターにバックアップまたは復元します。"
+  },
+  "ModerationInfo": {
+    "Title": "モデレーション",
+    "Item1": "モデレーションツールは、あなたがモデレーターを務めるチャンネル、またはあなた自身のチャンネルで機能します。",
+    "Item2": "他のチャンネルでクロスバンとタイムアウトの設定がオンになっている間、あなたのチャンネルではクロスバン設定のみがオンになります。",
+    "Item3": "クロスバンを使用する際は、モデレートするチャンネルをフォローする必要があります。",
+    "Item4": "自分自身のチャンネルでモデレーターであるユーザーをバンまたはタイムアウトすることはできませんが、フォローおよびモデレートしている他のチャンネルで彼らがモデレーターでなければ、クロスバンを適用できます。",
+    "Item5": "タイムアウトの期間は1週間を超えることはできません。"
+  },
+  "StreamerModeSettings": {
+    "Title": "ストリーマーモード",
+    "AdvancedMode": "高度なモデレーションモード",
+    "Item1": "ストリーマーモードがアクティブな場合、自身のチャンネルのチャットメッセージを見たり、いくつかのウィンドウでアクションを実行したりできます。",
+    "Item2": "高度なモデレーションモードでは、Kickのデフォルトパネルの代わりにユーザープロファイルに高度なモデレーションパネルがアクティブになり、クロスバン、カスタムタイムアウト時間、詳細なチャット履歴が提供されます。"
+  },
+  "LiveNotificationSettings": {
+    "Title": "配信通知設定",
+    "SoundNotification": "音声通知",
+    "VisualNotification": "視覚的通知",
+    "Item1": "フォローしているチャンネルの配信通知を受け取ります。",
+    "Item2": "音声または視覚的な通知のいずれかを選択できます。",
+    "Item3": "この機能を使用するにはログインする必要があります。"
+  },
+  "TagNotificationSettings": {
+    "Title": "タグ通知設定",
+    "SoundNotification": "音声通知",
+    "VisualNotification": "視覚的通知",
+    "Item1": "タグ付けされたすべてのクライアントから通知を受け取ります。",
+    "Item2": "音声または視覚的な通知のいずれかを選択できます。",
+    "Item3": "メッセージの内容は視覚的通知に表示されますが、後で部分的に読むことができます（OSが許可する範囲で）。"
+  },
+  "ReplyNotificationSettings": {
+    "Title": "返信通知設定",
+    "SoundNotification": "音声通知",
+    "VisualNotification": "視覚的通知",
+    "Item1": "チャットでメッセージに返信があった場合に通知を受け取ります。",
+    "Item2": "音声または視覚的な通知のいずれかを選択できます。",
+    "Item3": "メッセージの内容は視覚的通知に表示されますが、後で部分的に読むことができます（OSが許可する範囲内で）。"
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "自動配信タブ",
+    "Opener": "自動配信オープナー",
+    "Sound": "配信の音声",
+    "Item1": "配信の音声設定がオフの場合、タブにフォーカスするたび、または新しいタブを開くたびに再適用されます。",
+    "Item2": "バックグラウンドでの突然の音を防ぐため、配信はミュート状態で開始されます。Kickプレーヤーの右上隅から直接ミュートを解除できます。",
+    "Item3": "フォローしているストリーマーの通知がオンになっている必要があります。",
+    "Item4": "配信がすでにいずれかのタブで開かれている場合はフォーカスされ、そうでない場合は新しいタブで開かれます。",
+    "Item5": "フォローしているストリーマーがライブ配信を開始すると、新しいタブで自動的に配信が開かれます。"
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "サイドバーチャンネルの背景",
+    "Status": "チャンネル背景のステータス",
+    "Item1": "左側のメニューにあるフォロー中またはおすすめのチャンネルのプロフィール写真を背景として追加します。",
+    "Item2": "背景画像にぼかし（blur）効果を適用することで、より美しく見せます。"
+  },
+  "AdBlockerSettings": {
+    "Title": "広告ブロッカー",
+    "BlockAds": "広告をブロック",
+    "Item1": "Kickでのライブ配信およびVODの広告を自動的にブロックします。",
+    "Item2": "ビデオストリームを中断することなくネットワークレベルで広告セグメントをスキップし、途切れない視聴体験を提供します。",
+    "Item3": "設定を変更した後、設定が完全に有効になるか非アクティブになるように、現在の配信ページが自動的に更新されます。"
+  },
+  "StreamPreviewSettings": {
+    "Title": "配信のプレビュー",
+    "PreviewWindow": "プレビューウィンドウ",
+    "PlayerSize": "プレーヤーのサイズ",
+    "Item1": "配信プレビュー用に3つの異なるビデオプレーヤーサイズから選択します。",
+    "Item2": "プレーヤーのサイズはデフォルトでsmに設定されています。",
+    "Item3": "チャンネルにカーソルを合わせると、ミニポップアップウィンドウで配信のプレビューを表示できます。"
+  },
+  "KeywordDetectorSettings": {
+    "Title": "キーワード検出器",
+    "Status": "キーワード検出器のステータス",
+    "SoundNotification": "音声通知",
+    "VisualNotification": "視覚的通知",
+    "HighlightColor": "ハイライトの色",
+    "ResetColorTitle": "デフォルトの色に戻す",
+    "Keywords": "キーワード",
+    "InputPlaceholder": "単語を追加（例：giveaway）",
+    "AddButton": "追加",
+    "EmptyList": "リストにキーワードがありません",
+    "Item1": "すべての機能を使用するには、キーワード検出器のステータスをオンにする必要があります。",
+    "Item2": "追加した単語がチャットのメッセージに含まれている場合、そのメッセージは特別なアニメーションでハイライトされます。",
+    "Item3": "単語のハイライトの色を自由にカスタマイズでき、ゴミ箱ボタンを使用してデフォルトの色に戻すことができます。",
+    "Item4": "メッセージは点滅するフレームでマークされ、気づきやすくなります。",
+    "Item5": "単語検索は大文字と小文字を区別します。追加したとおりに完全に一致します。",
+    "Item6": "関連する設定からシステム（デスクトップ）通知および音声アラートを有効または無効にできます。"
+  },
+  "ModLogsSettings": {
+    "Title": "モデレーションログ",
+    "BarStatus": "モデレーションログバー",
+    "Item1": "チャットの上部に、監査ログ、メッセージ履歴、チャットのクリア、タイムアウトなどのクイックアクセスボタンを表示します。"
+  },
+  "RaidBlockerSettings": {
+    "Title": "レイドのキャンセル",
+    "Status": "レイドキャンセルのステータス",
+    "FollowOnly": "フォローしていないチャンネルには移動しない",
+    "BlacklistTitle": "ブラックリスト（移動しないチャンネル）",
+    "InputPlaceholder": "チャンネル名を追加（例：hype）",
+    "AddButton": "追加",
+    "EmptyList": "ブラックリストにチャンネルがありません",
+    "Item1": "すべての機能を有効にするには、レイドキャンセルのステータスをオンにする必要があります。",
+    "Item2": "チャンネルがレイドを行う際に移動したくないチャンネルを追加します。",
+    "Item3": "ログインしている場合、フォローしていないチャンネルへのレイドはキャンセルされます。この設定はデフォルトでオンになっています。",
+    "Item4": "システムは3秒以内にレイドを自動的にキャンセルします。"
+  },
+  "EmbedPreviewSettings": {
+    "Title": "コンテンツビューア",
+    "Status": "コンテンツビューアのステータス",
+    "WindowSize": "ウィンドウサイズ",
+    "Item1": "チャットで共有されたX（twitter）、youtube、kick、instagramのリンクをページ上で直接確認できます。",
+    "Item2": "ボタンをクリックすると、左上隅に独立したドラッグ可能なウィンドウが開き、コンテンツが表示されます。",
+    "Item3": "コンテンツをプレビューするには、3つの異なるウィンドウサイズから選択します。",
+    "Item4": "ウィンドウサイズはデフォルトでsmに設定されています。",
+    "Item5": "右下隅に開くウィンドウのサイズをページの最大80%まで拡大できます。"
+  },
+  "RoleHighlightsSettings": {
+    "Title": "ロールのハイライト",
+    "Status": "ロールハイライトのステータス",
+    "Item1": "チャット内でモデレーター、vip、およびogユーザーのメッセージをハイライトします。",
+    "Item2": "モデレーターには水色、ogにはターコイズ、vipユーザーには黄色のハイライトが適用されます。",
+    "Item3": "ユーザーが複数のロールを持っている場合、優先順位は次のようになります：モデレーター > og > vip。"
+  },
+  "ChannelHiderSettings": {
+    "Title": "チャンネル非表示",
+    "Status": "チャンネル非表示のステータス",
+    "BlacklistTitle": "ブラックリスト（非表示にするチャンネル）",
+    "InputPlaceholder": "チャンネル名を追加（例：hype）",
+    "AddButton": "追加",
+    "EmptyList": "ブラックリストにチャンネルがありません",
+    "Item1": "すべての機能を使用するには、チャンネル非表示のステータスをオンにする必要があります。",
+    "Item2": "チャンネルを非表示にするには、おすすめチャンネルまたはホームページで再生中の配信にある⊘ blockedボタンをクリックするだけです。",
+    "Item3": "拡張機能ウィンドウのチャンネル非表示メニューから、非表示にしたチャンネルを見つけて削除できます。",
+    "Item4": "表示したくないチャンネルを、左側のおすすめチャンネルリストおよびホームページの自動再生されるおすすめチャンネルに追加します。",
+    "Item5": "追加したチャンネルは、ホームページのおすすめ配信セクションには表示されません。"
+  },
+  "ViewerCountSettings": {
+    "Title": "視聴者数",
+    "Status": "非表示の視聴者数を表示",
+    "Item1": "視聴中に、配信チャンネルの非表示にされている視聴者数を見ることができます。"
+  },
+  "EmotePreviewSettings": {
+    "Title": "エモートプレビュー",
+    "PreviewWindow": "エモートプレビューウィンドウ",
+    "WindowSize": "ウィンドウサイズ",
+    "Item1": "エモートプレビュー用に3つの異なるウィンドウサイズから選択します。",
+    "Item2": "ウィンドウサイズはデフォルトでsmに設定されています。",
+    "Item3": "チャット内のエモートにカーソルを合わせると、拡大されたバージョンと詳細をミニポップアップウィンドウで表示できます。"
+  },
+  "ChannelThemeSettings": {
+    "Title": "チャンネルテーマの設定",
+    "GlobalTheme": "グローバルテーマの適用",
+    "ChannelPlaceholder": "チャンネル名（例：hype）",
+    "GlobalChannelLabel": "すべてのチャンネル（グローバルテーマ）",
+    "SuggestedThemesTitle": "準備された背景を適用する",
+    "Bg1": "背景 1",
+    "Bg2": "背景 2",
+    "Bg3": "背景 3",
+    "Bg4": "背景 4",
+    "Bg5": "背景 5",
+    "Color1": "色 1",
+    "Color2": "色 2",
+    "Color3": "色 3",
+    "Color4": "色 4",
+    "Color5": "色 5",
+    "Color6": "色 6",
+    "Color7": "色 7",
+    "Color8": "色 8",
+    "SaveButton": "保存",
+    "SavedThemesTitle": "保存されたテーマ",
+    "EmptyThemes": "保存されたテーマがあるチャンネルはありません",
+    "Item1": "任意のチャンネルの背景やテキストの色を変更します。これらのカラーピッカーは増強される予定です。",
+    "Item2": "パレットの右側にあるカラーピッカーを使用すると、どこからでも任意の色合いを選択できます。",
+    "Item3": "入力されたチャンネル名は自動的に取得されますが、手動で入力して追加することもできます。",
+    "Item4": "保存されたテーマセクションからチャンネルを選択し、カラーパレットを変更したり削除したりできます。",
+    "Item5": "グローバルテーマ設定がオンの間は、チャンネルやページに依存しない共通のテーマを設定でき、カスタムテーマが設定されていないすべてのページで有効にすることができます。"
+  },
+  "ChannelHider": {
+    "HideChannel": "チャンネルを非表示",
+    "HiddenChannelPrefix": "非表示のチャンネル： "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | 配信のプレビュー"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "ハイライトを解除",
+    "Highlight": "メッセージをハイライト"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "コンテンツビューアに表示"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | エモートプレビュー"
+  },
+  "FavoriteUser": {
+    "Remove": "お気に入りから削除",
+    "Add": "お気に入りに追加"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | コンテンツビューア",
+    "GoToLink": "リンクへ移動",
+    "Resize": "サイズ変更"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "クリップを読み込めませんでした",
+    "VideoLoadError": "ビデオを読み込めませんでした",
+    "Publisher": "公開者：",
+    "Creator": "作成者：",
+    "Views": "視聴回数",
+    "TimeAgo": {
+      "Seconds": "{{count}} 秒前",
+      "Minutes": "{{count}} 分前",
+      "Hours": "{{count}} 時間前",
+      "Days": "{{count}} 日前",
+      "Months": "{{count}} か月前",
+      "Years": "{{count}} 年前"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "ビデオを読み込めませんでした",
+    "DefaultTitle": "配信のリプレイ",
+    "Publisher": "公開者："
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "人が視聴中",
+    "Participation": "参加率 %",
+    "ActiveChatters": "平均アクティブチャット参加者",
+    "TooltipLine1": "これらの値は現在の視聴者数に基づいて数学的に計算されています。",
+    "TooltipLine2": "統計はチャンネルを切り替えるたびにその時点から再評価されます。"
+  },
+  "ModPanel": {
+    "Title": "KT with dp | モデレーション",
+    "Cross": "クロスバン",
+    "ReasonPlaceholder": "バンの理由を入力してください。（任意）",
+    "CrossReasonNote": "クロスバンの情報は自動的に理由に追加されます。",
+    "RemoveBan": "バンの解除",
+    "Ban": "バン",
+    "Timeout": "タイムアウト",
+    "StatusReady": "準備完了",
+    "Scanning": "スキャン中：{{channel}}",
+    "Applying": "適用中：{{channel}}",
+    "Complete": "✓ {{success}}チャンネルで完了",
+    "DurationWeek": "1週間",
+    "DurationDays": "{{d}}日",
+    "DurationHours": "{{h}}時間",
+    "DurationMinutes": "{{m}}分",
+    "TimeoutFormat": "タイムアウト（{{duration}}）",
+    "ExpiresAt": "期限切れ：{{date}} {{time}}",
+    "Quick5M": "5分",
+    "Quick1H": "1時間",
+    "Quick1D": "1日",
+    "Quick1W": "1週間",
+    "MaxDuration": "最大期間",
+    "UnitMinute": "分",
+    "UnitHour": "時間",
+    "UnitDay": "日",
+    "UnitWeek": "週間",
+    "Set": "設定",
+    "PermanentBanned": "永久にバンされました",
+    "TimedOut": "タイムアウトされました",
+    "By": "実行者：",
+    "Indefinite": "無期限",
+    "Expires": "期限：",
+    "NoReason": "理由は提供されていません。",
+    "ThisChannel": "このチャンネル",
+    "YourChannel": "あなた自身のチャンネル",
+    "SwitchToOriginal": "元のモデレーションに切り替える",
+    "SwitchToAdvanced": "高度なモデレーションに切り替える",
+    "Starting": "開始中...",
+    "Tooltips": {
+      "TargetMod": "対象のユーザーはこのチャンネルのモデレーターであるため、アクションは適用されません。クロスバンのみ使用できます。",
+      "StreamerModeMod": "ストリーマーモードがアクティブです。対象のユーザーはこのチャンネルのモデレーターであるため、ここではアクションが適用されません。アクションはあなた自身のチャンネル（クロスバンがオンの場合は他のチャンネル）にのみ適用されます。",
+      "StreamerModeActive": "ストリーマーモードがアクティブです。",
+      "StreamerModeBoth": "ストリーマーモードがアクティブです。アクションはこのチャンネルとあなた自身のチャンネルの両方に適用されます。",
+      "StreamerModeOnlyYours": "ストリーマーモードがアクティブです。あなたはこのチャンネルのモデレーターではないため、アクションはあなた自身のチャンネルに基づいて適用されます。"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "チャンネル情報を取得できませんでした。",
+      "NoMessageHistory": "このユーザーにはメッセージ履歴がありません。",
+      "HistoryFetchError": "履歴を取得できませんでした。"
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | モデレーションログ",
+    "EmptyAudit": "モデレーターのアクションは見つかりませんでした。",
+    "EmptyMessages": "削除されたメッセージは見つかりませんでした。",
+    "EmptyClear": "チャットのクリアは見つかりませんでした。",
+    "EmptyTimeouts": "アクティブなタイムアウトは見つかりませんでした。",
+    "AuditLogTitle": "監査ログ",
+    "MessageLogTitle": "メッセージログ",
+    "ClearLogTitle": "チャットのクリア",
+    "TimeoutsTitle": "タイムアウト",
+    "TooltipAudit": "監査ログ",
+    "TooltipTimeouts": "タイムアウト",
+    "TooltipMessages": "メッセージログ",
+    "TooltipClear": "クリア",
+    "ChatCleared": "チャットがクリアされました。",
+    "TimedOutWithDuration": "タイムアウト（{{duration}}）",
+    "ExpiresAt": "期限：{{date}}",
+    "DurationWeek": "1週間",
+    "DurationDays": "{{d}}日",
+    "DurationHours": "{{h}}時間",
+    "DurationMinutes": "{{m}}分",
+    "Unknown": "不明",
+    "DeletedType": "削除済み",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1>が<3>{{target}}</3>をバンしました",
+      "Timeout": "<1>{{mod}}</1>が<3>{{target}}</3>を{{duration}}タイムアウトしました",
+      "Unban": "<1>{{mod}}</1>が<3>{{target}}</3>のバンを解除しました",
+      "Untimeout": "<1>{{mod}}</1>が<3>{{target}}</3>のタイムアウトを解除しました"
+    },
+    "Violations": {
+      "Gibberish": "[無意味または理解できないメッセージ]",
+      "Spam": "[性的なコンテンツ]",
+      "Violence": "[ヘイトスピーチ]",
+      "Bullying": "[暴力]",
+      "SelfHarm": "[いじめ]",
+      "Drugs": "[薬物]",
+      "Weapons": "[武器]",
+      "Hate": "[ヘイトスピーチ]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | レイドキャンセルがアクティブです"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp 設定"
+  },
+  "SettingsModal": {
+    "New": "新規"
+  },
+  "StorageManager": {
+    "Import": "インポート",
+    "Export": "エクスポート"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp アップデートノート",
+    "Version": "バージョン：{{version}}",
+    "GotIt": "了解"
+  },
+  "UserDetailCard": {
+    "Copy": "コピー",
+    "Copied": "コピーしました",
+    "Notes": "ノート",
+    "TechDetails": "技術詳細",
+    "Socials": "ソーシャル",
+    "Messages": "メッセージ",
+    "Moderation": "モデレーション",
+    "Followers": "フォロワー",
+    "Badges": "バッジ",
+    "NoSocials": "ソーシャルはありません。",
+    "ToggleBio": "自己紹介を切り替え",
+    "Following": "フォロー中",
+    "Joined": "参加日",
+    "Streak": "連続記録",
+    "Unfollow": "フォロー解除",
+    "Follow": "フォロー",
+    "RemoveFromFavorites": "お気に入りから削除",
+    "AddToFavorites": "お気に入りに追加",
+    "Unhighlight": "ハイライトを解除",
+    "Highlight": "メッセージをハイライト",
+    "ChannelId": "チャンネルID",
+    "UserId": "ユーザーID",
+    "ChatId": "チャットID",
+    "Replies": "返信",
+    "NoReplies": "返信データがありません。",
+    "ModerationLogs": "モデレーションログ",
+    "NoModerationData": "モデレーションデータがありません。",
+    "ModerationActions": "モデレーションアクション",
+    "Timeout": "タイムアウト",
+    "MaxDuration": "最大期間",
+    "UnitMinute": "分",
+    "UnitHour": "時間",
+    "UnitDay": "日",
+    "UnitWeek": "週間",
+    "Set": "設定",
+    "Ban": "バン",
+    "CrossBan": "クロスバン（あなたがモデレーターであるすべての場所）",
+    "Quick5M": "5分",
+    "Quick1H": "1時間",
+    "Quick1D": "1日",
+    "Quick1W": "1週間",
+    "DurationWeek": "1週間",
+    "DurationDays": "{{d}}日",
+    "DurationHours": "{{h}}時間",
+    "DurationMinutes": "{{m}}分",
+    "TimedOutFormat": "タイムアウト（{{duration}}）",
+    "ExpiresAt": "期限：{{date}}",
+    "PermanentBanned": "永久にバンされました",
+    "Deleted": "削除済み",
+    "ProgressScanning": "スキャン中...",
+    "ProgressApplying": "チャンネル{{channel}}の処理中...",
+    "ProgressDone": "合計{{total}}チャンネル中、{{success}}チャンネルで{{action}}に成功しました。",
+    "ActionBanned": "バン",
+    "ActionUnbanned": "バンの解除",
+    "LogBanned": "<1>{{mod}}</1>によってバンされました。",
+    "LogUnbanned": "<1>{{mod}}</1>によってバンが解除されました。",
+    "LogUntimeout": "<1>{{mod}}</1>によってタイムアウトが解除されました。",
+    "Unknown": "不明",
+    "DeletedType": "削除済み",
+    "ProgressStarting": "開始中...",
+    "Violations": {
+      "Gibberish": "[無意味または理解できないメッセージ]",
+      "Spam": "[性的なコンテンツ]",
+      "Violence": "[ヘイトスピーチ]",
+      "Bullying": "[暴力]",
+      "SelfHarm": "[いじめ]",
+      "Drugs": "[薬物]",
+      "Weapons": "[武器]",
+      "Hate": "[ヘイトスピーチ]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "チャンネル情報を取得できませんでした。",
+      "NoMessageHistory": "このユーザーにはメッセージ履歴がありません。",
+      "HistoryFetchError": "履歴を取得できませんでした。"
+    }
+  },
+  "UserNoteCard": {
+    "Title": "{{username}}に関するあなたのノート",
+    "Placeholder": "ここにノートを書きます",
+    "Save": "ノートを保存",
+    "Delete": "ノートを削除"
+  },
+  "Background": {
+    "MentionTitle": "Kickでメンションされました！",
+    "MentionMessage": "{{channel}}で{{sender}}があなたをメンションしました：「{{content}}」",
+    "ReplyTitle": "Kickであなたのメッセージに返信がありました！",
+    "ReplyMessage": "{{channel}}で{{sender}}があなたに返信しました：「{{content}}」",
+    "LiveTitle": "{{channel}}がライブです！",
+    "KeywordTitle": "キーワード検出器の照合",
+    "KeywordMessage": "{{channel}}での{{sender}}：{{content}}",
+    "BadgeTitle": "KT with dp | 配信の音声",
+    "BadgeSubtitle": "配信の音声がミュートされています",
+    "BadgeButton": "ミュートを解除"
+  }
+}

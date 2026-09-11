@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "Napomene o ažuriranju",
+    "UpdateHistory": "Istorija ažuriranja",
+    "CurrentVersion": "Trenutna verzija :"
+  },
+  "Main": {
+    "NewBadge": "Novo"
+  },
+  "Footer": {
+    "Developer": "Programer:",
+    "Version": "verzija:"
+  },
+  "ModulInfo": {
+    "Title": "Sistemske informacije",
+    "Desc": "Informacije o modulu",
+    "CountPrefix": "Trenutno je aktivno ukupno ",
+    "CountSuffix": " modula.",
+    "Reset": "Resetuj redosled",
+    "SettingsTitle": "Podešavanja",
+    "SettingsDesc": "Napravite rezervnu kopiju ili vratite podatke ekstenzije na svoj računar."
+  },
+  "ModerationInfo": {
+    "Title": "Moderacija",
+    "Item1": "Alati za moderaciju rade na kanalima gde ste moderator ili na vašem sopstvenom kanalu.",
+    "Item2": "Dok su podešavanja za cross ban i timeout uključena na drugim kanalima, na vašem kanalu uključeno je samo podešavanje za cross ban.",
+    "Item3": "Morate pratiti kanale koje moderirate kada koristite cross ban.",
+    "Item4": "Ne možete banovati ili dati timeout korisnicima koji su moderatori na vašem kanalu, ali možete primeniti cross ban na drugim kanalima koje pratite i moderirate ako tamo nisu moderatori.",
+    "Item5": "Trajanje timeouta ne može biti duže od 1 nedelje."
+  },
+  "StreamerModeSettings": {
+    "Title": "Streamer režim",
+    "AdvancedMode": "Napredni režim moderacije",
+    "Item1": "Ako je streamer režim aktivan, možete videti sopstvene poruke u chatu ili izvršavati radnje u nekim prozorima za svoj kanal.",
+    "Item2": "Napredni režim moderacije aktivira napredni panel za moderaciju u korisničkim profilima umesto podrazumevanog Kick panela, nudeći cross ban, prilagođena vremena timeouta i detaljnu istoriju chata."
+  },
+  "LiveNotificationSettings": {
+    "Title": "Podešavanja obaveštenja o streamu",
+    "SoundNotification": "Zvučno obaveštenje",
+    "VisualNotification": "Vizuelno obaveštenje",
+    "Item1": "Primaćete obaveštenja o streamu za kanale koje pratite.",
+    "Item2": "Možete odabrati primanje zvučnih ili vizuelnih obaveštenja.",
+    "Item3": "Morate biti prijavljeni da biste koristili ovu funkciju."
+  },
+  "TagNotificationSettings": {
+    "Title": "Podešavanja obaveštenja o oznakama",
+    "SoundNotification": "Zvučno obaveštenje",
+    "VisualNotification": "Vizuelno obaveštenje",
+    "Item1": "Primaćete obaveštenja od svih klijenata gde ste označeni.",
+    "Item2": "Možete odabrati primanje zvučnih ili vizuelnih obaveštenja.",
+    "Item3": "Iako je sadržaj poruke vidljiv u vizuelnom obaveštenju, kasnije se može delimično pročitati (koliko vaš OS dozvoljava)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "Podešavanja obaveštenja o odgovorima",
+    "SoundNotification": "Zvučno obaveštenje",
+    "VisualNotification": "Vizuelno obaveštenje",
+    "Item1": "Dobićete obaveštenje kada neko odgovori na vašu poruku u chatu.",
+    "Item2": "Možete odabrati primanje zvučnih ili vizuelnih obaveštenja.",
+    "Item3": "Iako je sadržaj poruke vidljiv u vizuelnom obaveštenju, kasnije se može delimično pročitati (koliko OS dozvoljava)."
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "Automatska kartica streama",
+    "Opener": "Automatsko otvaranje streama",
+    "Sound": "Zvuk streama",
+    "Item1": "Ako je podešavanje zvuka streama isključeno, ono se ponovo primenjuje pri svakom fokusiranju kartice ili otvaranju novih kartica.",
+    "Item2": "Da bi se sprečio iznenadni zvuk u pozadini, streamovi se pokreću isključeni. Zvuk možete uključiti direktno u gornjem desnom uglu Kick plejera.",
+    "Item3": "Obaveštenja streamera kojeg pratite moraju biti uključena.",
+    "Item4": "Ako je stream već otvoren na nekoj od vaših kartica, biće fokusiran, inače će se otvoriti u novoj kartici.",
+    "Item5": "Kada streamer kojeg pratite započne prenos uživo, stream će se automatski otvoriti u novoj kartici."
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "Pozadina kanala na bočnoj traci",
+    "Status": "Status pozadine kanala",
+    "Item1": "Dodaje profilnu fotografiju praćenih ili preporučenih kanala u levom meniju kao pozadinu.",
+    "Item2": "Pruža estetskiji izgled primenom efekta zamućenja (blur) na pozadinsku sliku."
+  },
+  "AdBlockerSettings": {
+    "Title": "Blokator oglasa",
+    "BlockAds": "Blokiraj oglase",
+    "Item1": "Automatski blokira oglase prenosa uživo i VOD oglase na Kicku.",
+    "Item2": "Pruža neprekidno iskustvo gledanja preskakanjem segmenata oglasa na mrežnom nivou bez prekidanja video streama.",
+    "Item3": "Nakon promene podešavanja, trenutna stranica streama će se automatski osvežiti kako bi podešavanje u potpunosti stupilo na snagu ili se deaktiviralo."
+  },
+  "StreamPreviewSettings": {
+    "Title": "Pregled streama",
+    "PreviewWindow": "Prozor za pregled",
+    "PlayerSize": "Veličina plejera",
+    "Item1": "Izaberite između 3 različite veličine video plejera za pregled streama.",
+    "Item2": "Veličina plejera je podrazumevano postavljena na sm.",
+    "Item3": "Omogućava vam pregled streama u malom popup prozoru kada pređete kursorom preko kanala."
+  },
+  "KeywordDetectorSettings": {
+    "Title": "Detektor reči",
+    "Status": "Status detektora reči",
+    "SoundNotification": "Zvučno obaveštenje",
+    "VisualNotification": "Vizuelno obaveštenje",
+    "HighlightColor": "Boja isticanja",
+    "ResetColorTitle": "Vrati na podrazumevanu boju",
+    "Keywords": "Ključne reči",
+    "InputPlaceholder": "Dodaj reč (npr: giveaway)",
+    "AddButton": "Dodaj",
+    "EmptyList": "Nema ključnih reči na listi",
+    "Item1": "Status detektora reči mora biti uključen da bi sve funkcije radile.",
+    "Item2": "Ako se bilo koja od reči koje ste dodali pojavi u poruci u chatu, ta poruka će biti istaknuta posebnom animacijom.",
+    "Item3": "Možete prilagoditi boju isticanja reči po želji i koristiti dugme kante za smeće da se vratite na podrazumevanu boju.",
+    "Item4": "Poruke su označene trepćućim okvirom kako biste ih lakše uočili.",
+    "Item5": "Pretraga reči razlikuje mala i velika slova. Podudaraće se tačno onako kako ste je dodali.",
+    "Item6": "Možete omogućiti ili onemogućiti sistemska obaveštenja (desktop) i zvučna upozorenja u odgovarajućim podešavanjima."
+  },
+  "ModLogsSettings": {
+    "Title": "Zapisnici moderacije",
+    "BarStatus": "Traka zapisnika moderacije",
+    "Item1": "Prikazuje dugmad za brzi pristup na vrhu chata, kao što su revizorski zapisnik, istorija poruka, brisanje chata i timeouti."
+  },
+  "RaidBlockerSettings": {
+    "Title": "Otkazivanje raida",
+    "Status": "Status otkazivanja raida",
+    "FollowOnly": "Ne idi na kanale koje ne pratim",
+    "BlacklistTitle": "Crna lista (Kanali na koje ne treba ići)",
+    "InputPlaceholder": "Dodaj naziv kanala (npr: hype)",
+    "AddButton": "Dodaj",
+    "EmptyList": "Nema kanala na crnoj listi",
+    "Item1": "Status otkazivanja raida mora biti uključen da bi sve funkcije bile efikasne.",
+    "Item2": "Dodajte kanale na koje ne želite da idete kada kanal pokrene raid.",
+    "Item3": "Ako ste prijavljeni, raidovi na kanale koje ne pratite biće otkazani. Ovo podešavanje je uključeno podrazumevano.",
+    "Item4": "Sistem automatski otkazuje raidove u roku od 3 sekunde."
+  },
+  "EmbedPreviewSettings": {
+    "Title": "Pregledač sadržaja",
+    "Status": "Status pregledača sadržaja",
+    "WindowSize": "Veličina prozora",
+    "Item1": "Gledajte X (twitter), youtube, kick i instagram veze podeljene u chatu direktno na stranici.",
+    "Item2": "Kada se klikne na dugme, prikazuje sadržaj otvaranjem nezavisnog prozora koji se može prevlačiti u gornjem levom uglu.",
+    "Item3": "Izaberite između 3 različite veličine prozora za pregled sadržaja.",
+    "Item4": "Veličina prozora je podrazumevano postavljena na sm.",
+    "Item5": "Veličinu prozora koji se otvara u donjem desnom uglu možete proširiti do 80% stranice."
+  },
+  "RoleHighlightsSettings": {
+    "Title": "Isticanja uloga",
+    "Status": "Status isticanja uloga",
+    "Item1": "Ističe poruke moderatora, vip i og korisnika u chatu.",
+    "Item2": "Svetloplavo isticanje primenjuje se za moderatore, tirkizno za og, a žuto za vip korisnike.",
+    "Item3": "Ako korisnik ima više uloga, prioritet je postavljen kao: Moderator > og > vip."
+  },
+  "ChannelHiderSettings": {
+    "Title": "Skrivanje kanala",
+    "Status": "Status skrivanja kanala",
+    "BlacklistTitle": "Crna lista (Kanali za skrivanje)",
+    "InputPlaceholder": "Dodaj naziv kanala (npr: hype)",
+    "AddButton": "Dodaj",
+    "EmptyList": "Nema kanala na crnoj listi",
+    "Item1": "Status skrivanja kanala mora biti uključen da bi sve funkcije radile.",
+    "Item2": "Da biste sakrili kanal, jednostavno kliknite na dugme ⊘ blocked u preporučenim kanalima ili streamu koji se reprodukuje na početnoj stranici.",
+    "Item3": "Kanale koje ste sakrili možete pronaći i ukloniti u meniju Skrivanje kanala u prozoru ekstenzije.",
+    "Item4": "Dodajte kanale koje ne želite da vidite na listu preporučenih kanala sa leve strane i u preporučene kanale koji se automatski reprodukuju na početnoj stranici.",
+    "Item5": "Kanali koje dodate neće biti prikazani u odeljku preporučenih streamova na početnoj stranici."
+  },
+  "ViewerCountSettings": {
+    "Title": "Broj gledalaca",
+    "Status": "Prikaži skriveni broj gledalaca",
+    "Item1": "Omogućava vam da vidite skriveni broj gledalaca kanala koji emituje dok gledate."
+  },
+  "EmotePreviewSettings": {
+    "Title": "Pregled emoteova",
+    "PreviewWindow": "Prozor za pregled emoteova",
+    "WindowSize": "Veličina prozora",
+    "Item1": "Izaberite između 3 različite veličine prozora za pregled emoteova.",
+    "Item2": "Veličina prozora je podrazumevano postavljena na sm.",
+    "Item3": "Omogućava vam da vidite uvećanu verziju i detalje emotea u malom popup prozoru kada pređete kursorom preko emoteova u chatu."
+  },
+  "ChannelThemeSettings": {
+    "Title": "Postavi temu kanala",
+    "GlobalTheme": "Primeni globalnu temu",
+    "ChannelPlaceholder": "Naziv kanala (npr: hype)",
+    "GlobalChannelLabel": "Svi kanali (Globalna tema)",
+    "SuggestedThemesTitle": "Primeni gotove pozadine",
+    "Bg1": "Pozadina 1",
+    "Bg2": "Pozadina 2",
+    "Bg3": "Pozadina 3",
+    "Bg4": "Pozadina 4",
+    "Bg5": "Pozadina 5",
+    "Color1": "Boja 1",
+    "Color2": "Boja 2",
+    "Color3": "Boja 3",
+    "Color4": "Boja 4",
+    "Color5": "Boja 5",
+    "Color6": "Boja 6",
+    "Color7": "Boja 7",
+    "Color8": "Boja 8",
+    "SaveButton": "Sačuvaj",
+    "SavedThemesTitle": "Sačuvane teme",
+    "EmptyThemes": "Nema kanala sa sačuvanom temom",
+    "Item1": "Promenite pozadine ili boje teksta bilo kog kanala. Ovi birači boja biće prošireni.",
+    "Item2": "Pomoću birača boja sa desne strane palete, možete odabrati bilo koje nijanse sa bilo kog mesta.",
+    "Item3": "Iako se uneti nazivi kanala preuzimaju automatski, takođe možete ručno kucati i dodavati različite kanale.",
+    "Item4": "Možete odabrati kanal iz odeljka sačuvanih tema i promeniti paletu boja ili je obrisati.",
+    "Item5": "Dok je podešavanje globalne teme uključeno, možete postaviti zajedničku temu nezavisno od kanala i stranica, i učiniti je važećom na svim stranicama na kojima nije postavljena prilagođena tema."
+  },
+  "ChannelHider": {
+    "HideChannel": "Sakrij kanal",
+    "HiddenChannelPrefix": "Skriveni kanal: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | Pregled streama"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "Ukloni isticanje",
+    "Highlight": "Istakni poruke"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "Prikaži u pregledaču sadržaja"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | Pregled emoteova"
+  },
+  "FavoriteUser": {
+    "Remove": "Ukloni iz omiljenih",
+    "Add": "Dodaj u omiljene"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | Pregledač sadržaja",
+    "GoToLink": "Idi na vezu",
+    "Resize": "Promeni veličinu"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "Klip ne može da se učita",
+    "VideoLoadError": "Video ne može da se učita",
+    "Publisher": "Izdavač:",
+    "Creator": "Kreator:",
+    "Views": "Pregledi",
+    "TimeAgo": {
+      "Seconds": "pre {{count}} sekundi",
+      "Minutes": "pre {{count}} minuta",
+      "Hours": "pre {{count}} sati",
+      "Days": "pre {{count}} dana",
+      "Months": "pre {{count}} meseci",
+      "Years": "pre {{count}} godina"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "Video ne može da se učita",
+    "DefaultTitle": "Repriza streama",
+    "Publisher": "Izdavač:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "ljudi gleda",
+    "Participation": "% Učešće",
+    "ActiveChatters": "Pros. aktivnih u chatu",
+    "TooltipLine1": "Ove vrednosti se matematički izračunavaju na osnovu trenutnog broja gledalaca.",
+    "TooltipLine2": "Statistika se ponovo procenjuje od tog trenutka na svakoj promeni kanala."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | Moderacija",
+    "Cross": "Cross",
+    "ReasonPlaceholder": "Unesite razlog za ban. (Opciono)",
+    "CrossReasonNote": "Informacije o cross banu biće automatski dodate razlogu.",
+    "RemoveBan": "Ukloni ban",
+    "Ban": "Banuj",
+    "Timeout": "Timeout",
+    "StatusReady": "Spremno",
+    "Scanning": "Skeniranje: {{channel}}",
+    "Applying": "Primenjivanje: {{channel}}",
+    "Complete": "✓ Završeno na {{success}} kanala",
+    "DurationWeek": "1 nedelja",
+    "DurationDays": "{{d}} dana",
+    "DurationHours": "{{h}} sati",
+    "DurationMinutes": "{{m}} minuta",
+    "TimeoutFormat": "Timeout dodeljen ({{duration}})",
+    "ExpiresAt": "Ističe u: {{date}} {{time}}",
+    "Quick5M": "5 minuta",
+    "Quick1H": "1 sat",
+    "Quick1D": "1 dan",
+    "Quick1W": "1 nedelja",
+    "MaxDuration": "Maks. trajanje",
+    "UnitMinute": "Minuta",
+    "UnitHour": "Sat",
+    "UnitDay": "Dan",
+    "UnitWeek": "Nedelja",
+    "Set": "Postavi",
+    "PermanentBanned": "Trajno banovan",
+    "TimedOut": "Timeout dodeljen",
+    "By": "od strane",
+    "Indefinite": "Neodređeno",
+    "Expires": "Ističe:",
+    "NoReason": "Razlog nije naveden.",
+    "ThisChannel": "Ovaj kanal",
+    "YourChannel": "Vaš sopstveni kanal",
+    "SwitchToOriginal": "Prebaci na originalnu moderaciju",
+    "SwitchToAdvanced": "Prebaci na naprednu moderaciju",
+    "Starting": "Pokretanje...",
+    "Tooltips": {
+      "TargetMod": "Ciljni korisnik je moderator na ovom kanalu, tako da se radnja neće primeniti. Možete koristiti samo cross ban.",
+      "StreamerModeMod": "Streamer režim je aktivan. Ciljni korisnik je moderator na ovom kanalu, tako da se radnja ovde neće primeniti. Radnja će se primeniti samo na vašem kanalu (ili na drugima ako je uključen cross ban).",
+      "StreamerModeActive": "Streamer režim je aktivan.",
+      "StreamerModeBoth": "Streamer režim je aktivan. Radnja će se primeniti na ovom kanalu i na vašem sopstvenom kanalu.",
+      "StreamerModeOnlyYours": "Streamer režim je aktivan. Pošto niste moderator na ovom kanalu, radnja će se primeniti na osnovu vašeg sopstvenog kanala."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Nije moguće dohvatiti informacije o kanalu.",
+      "NoMessageHistory": "Ovaj korisnik nema istoriju poruka.",
+      "HistoryFetchError": "Istorija ne može da se preuzme."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | Zapisnici moderacije",
+    "EmptyAudit": "Nisu pronađene radnje moderatora.",
+    "EmptyMessages": "Nisu pronađene izbrisane poruke.",
+    "EmptyClear": "Nisu pronađena brisanja chata.",
+    "EmptyTimeouts": "Nema pronađenih aktivnih timeouta.",
+    "AuditLogTitle": "Revizorski zapisnik",
+    "MessageLogTitle": "Zapisnik poruka",
+    "ClearLogTitle": "Brisanja chata",
+    "TimeoutsTitle": "Timeouti",
+    "TooltipAudit": "Revizorski zapisnik",
+    "TooltipTimeouts": "Timeouti",
+    "TooltipMessages": "Zapisnik poruka",
+    "TooltipClear": "Obriši",
+    "ChatCleared": "Chat obrisan.",
+    "TimedOutWithDuration": "Timeout dodeljen ({{duration}})",
+    "ExpiresAt": "Ističe: {{date}}",
+    "DurationWeek": "1 nedelja",
+    "DurationDays": "{{d}} dana",
+    "DurationHours": "{{h}} sati",
+    "DurationMinutes": "{{m}} minuta",
+    "Unknown": "Nepoznato",
+    "DeletedType": "Izbrisano",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1> je banovao <3>{{target}}</3>",
+      "Timeout": "<1>{{mod}}</1> je dao timeout <3>{{target}}</3> na {{duration}}",
+      "Unban": "<1>{{mod}}</1> je uklonio ban korisniku <3>{{target}}</3>",
+      "Untimeout": "<1>{{mod}}</1> je uklonio timeout korisniku <3>{{target}}</3>"
+    },
+    "Violations": {
+      "Gibberish": "[Besmislene ili nerazumljive poruke]",
+      "Spam": "[Seksualni sadržaj]",
+      "Violence": "[Govor mržnje]",
+      "Bullying": "[Nasilje]",
+      "SelfHarm": "[Zlostavljanje]",
+      "Drugs": "[Droge]",
+      "Weapons": "[Oružje]",
+      "Hate": "[Govor mržnje]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | Otkazivanje raida aktivno"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp Podešavanja"
+  },
+  "SettingsModal": {
+    "New": "Novo"
+  },
+  "StorageManager": {
+    "Import": "Uvoz",
+    "Export": "Izvoz"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp Napomene o ažuriranju",
+    "Version": "Verzija: {{version}}",
+    "GotIt": "Razumem"
+  },
+  "UserDetailCard": {
+    "Copy": "Kopiraj",
+    "Copied": "Kopirano",
+    "Notes": "Napomene",
+    "TechDetails": "Tehnički detalji",
+    "Socials": "Društvene mreže",
+    "Messages": "Poruke",
+    "Moderation": "Moderacija",
+    "Followers": "Pratioci",
+    "Badges": "Značke",
+    "NoSocials": "Nema društvenih mreža.",
+    "ToggleBio": "Uključi/isključi biografiju",
+    "Following": "Prati",
+    "Joined": "Datum pridruživanja",
+    "Streak": "Niz",
+    "Unfollow": "Prestani pratiti",
+    "Follow": "Zaprati",
+    "RemoveFromFavorites": "Ukloni iz omiljenih",
+    "AddToFavorites": "Dodaj u omiljene",
+    "Unhighlight": "Ukloni isticanje",
+    "Highlight": "Istakni poruke",
+    "ChannelId": "ID kanala",
+    "UserId": "ID korisnika",
+    "ChatId": "ID chata",
+    "Replies": "Odgovori",
+    "NoReplies": "Nema podataka o odgovorima.",
+    "ModerationLogs": "Zapisnici moderacije",
+    "NoModerationData": "Nema podataka o moderaciji.",
+    "ModerationActions": "Radnje moderacije",
+    "Timeout": "Timeout",
+    "MaxDuration": "Maks. trajanje",
+    "UnitMinute": "Minuta",
+    "UnitHour": "Sat",
+    "UnitDay": "Dan",
+    "UnitWeek": "Nedelja",
+    "Set": "Postavi",
+    "Ban": "Banuj",
+    "CrossBan": "Cross (Gde god ste mod)",
+    "Quick5M": "5 minuta",
+    "Quick1H": "1 sat",
+    "Quick1D": "1 dan",
+    "Quick1W": "1 nedelja",
+    "DurationWeek": "1 nedelja",
+    "DurationDays": "{{d}} dana",
+    "DurationHours": "{{h}} sati",
+    "DurationMinutes": "{{m}} minuta",
+    "TimedOutFormat": "Timeout dodeljen ({{duration}})",
+    "ExpiresAt": "Ističe: {{date}}",
+    "PermanentBanned": "Trajno banovan",
+    "Deleted": "Izbrisano",
+    "ProgressScanning": "Skeniranje...",
+    "ProgressApplying": "Obrada za kanal {{channel}}...",
+    "ProgressDone": "Uspešno {{action}} na {{success}} od ukupno {{total}} kanala.",
+    "ActionBanned": "banovano",
+    "ActionUnbanned": "uklonjen ban",
+    "LogBanned": "Banovan od strane <1>{{mod}}</1>.",
+    "LogUnbanned": "Ban uklonio <1>{{mod}}</1>.",
+    "LogUntimeout": "Timeout uklonio <1>{{mod}}</1>.",
+    "Unknown": "Nepoznato",
+    "DeletedType": "Izbrisano",
+    "ProgressStarting": "Pokretanje...",
+    "Violations": {
+      "Gibberish": "[Besmislene ili nerazumljive poruke]",
+      "Spam": "[Seksualni sadržaj]",
+      "Violence": "[Govor mržnje]",
+      "Bullying": "[Nasilje]",
+      "SelfHarm": "[Zlostavljanje]",
+      "Drugs": "[Droge]",
+      "Weapons": "[Oružje]",
+      "Hate": "[Govor mržnje]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Nije moguće dohvatiti informacije o kanalu.",
+      "NoMessageHistory": "Ovaj korisnik nema istoriju poruka.",
+      "HistoryFetchError": "Istorija ne može da se preuzme."
+    }
+  },
+  "UserNoteCard": {
+    "Title": "Vaše napomene o {{username}}",
+    "Placeholder": "Napišite svoje napomene ovde",
+    "Save": "Sačuvaj napomene",
+    "Delete": "Izbriši napomenu"
+  },
+  "Background": {
+    "MentionTitle": "Pomenuti ste na Kicku!",
+    "MentionMessage": "{{sender}} vas je pomenuo na kanalu {{channel}}: \"{{content}}\"",
+    "ReplyTitle": "Odgovoreno je na vašu poruku na Kicku!",
+    "ReplyMessage": "{{sender}} vam je odgovorio na kanalu {{channel}}: \"{{content}}\"",
+    "LiveTitle": "{{channel}} je uživo!",
+    "KeywordTitle": "Podudaranje detektora reči",
+    "KeywordMessage": "{{sender}} na kanalu {{channel}}: {{content}}",
+    "BadgeTitle": "KT with dp | Zvuk streama",
+    "BadgeSubtitle": "Zvuk streama je isključen",
+    "BadgeButton": "Uključi zvuk"
+  }
+}

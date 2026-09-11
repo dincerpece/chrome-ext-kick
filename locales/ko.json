@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "업데이트 참고 사항",
+    "UpdateHistory": "업데이트 기록",
+    "CurrentVersion": "현재 버전 :"
+  },
+  "Main": {
+    "NewBadge": "신규"
+  },
+  "Footer": {
+    "Developer": "개발자:",
+    "Version": "버전:"
+  },
+  "ModulInfo": {
+    "Title": "시스템 정보",
+    "Desc": "모듈 정보",
+    "CountPrefix": "현재 총 ",
+    "CountSuffix": "개의 모듈이 활성화되어 실행 중입니다.",
+    "Reset": "순서 초기화",
+    "SettingsTitle": "설정",
+    "SettingsDesc": "컴퓨터에 확장 프로그램 데이터를 백업하거나 복원합니다."
+  },
+  "ModerationInfo": {
+    "Title": "관리",
+    "Item1": "관리 도구는 귀하가 관리자인 채널이나 귀하의 채널에서 작동합니다.",
+    "Item2": "다른 채널에서는 크로스 밴 및 타임아웃 설정이 켜져 있지만, 귀하의 채널에서는 크로스 밴 설정만 켜져 있습니다.",
+    "Item3": "크로스 밴을 사용할 때 관리하는 채널을 팔로우해야 합니다.",
+    "Item4": "귀하의 채널에서 관리자인 사용자를 밴하거나 타임아웃할 수는 없지만, 팔로우하고 관리하는 다른 채널에서 그들이 관리자가 아닌 경우 크로스 밴을 적용할 수 있습니다.",
+    "Item5": "타임아웃 기간은 1주일을 초과할 수 없습니다."
+  },
+  "StreamerModeSettings": {
+    "Title": "스트리머 모드",
+    "AdvancedMode": "고급 관리 모드",
+    "Item1": "스트리머 모드가 활성화되면 자신의 채팅 메시지를 보거나 자체 채널의 일부 창에서 작업을 수행할 수 있습니다.",
+    "Item2": "고급 관리 모드는 Kick의 기본 패널 대신 사용자 프로필에 고급 관리 패널을 활성화하여 크로스 밴, 사용자 지정 타임아웃 시간 및 상세한 채팅 기록을 제공합니다."
+  },
+  "LiveNotificationSettings": {
+    "Title": "방송 알림 설정",
+    "SoundNotification": "소리 알림",
+    "VisualNotification": "시각 알림",
+    "Item1": "팔로우하는 채널에 대한 방송 알림을 받게 됩니다.",
+    "Item2": "소리 또는 시각 알림을 받도록 선택할 수 있습니다.",
+    "Item3": "이 기능을 사용하려면 로그인해야 합니다."
+  },
+  "TagNotificationSettings": {
+    "Title": "태그 알림 설정",
+    "SoundNotification": "소리 알림",
+    "VisualNotification": "시각 알림",
+    "Item1": "태그된 모든 클라이언트에서 알림을 받습니다.",
+    "Item2": "소리 또는 시각 알림을 받도록 선택할 수 있습니다.",
+    "Item3": "시각 알림에 메시지 내용이 표시되지만, 나중에 부분적으로 읽을 수 있습니다(OS에서 허용하는 범위 내에서)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "답글 알림 설정",
+    "SoundNotification": "소리 알림",
+    "VisualNotification": "시각 알림",
+    "Item1": "채팅에서 메시지에 답글이 달리면 알림을 받게 됩니다.",
+    "Item2": "소리 또는 시각 알림을 받도록 선택할 수 있습니다.",
+    "Item3": "시각 알림에 메시지 내용이 표시되지만 나중에 부분적으로 읽을 수 있습니다(OS가 허용하는 범위 내에서)."
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "자동 방송 탭",
+    "Opener": "자동 방송 오프너",
+    "Sound": "방송 오디오",
+    "Item1": "방송 오디오 설정이 꺼져 있으면 모든 탭 포커스 또는 새 탭 열기에서 다시 적용됩니다.",
+    "Item2": "배경에서 갑작스러운 소리가 나는 것을 방지하기 위해 방송은 음소거 상태로 시작됩니다. Kick 플레이어의 오른쪽 상단 모서리에서 직접 음소거를 해제할 수 있습니다.",
+    "Item3": "팔로우하는 스트리머의 알림이 켜져 있어야 합니다.",
+    "Item4": "방송이 이미 탭 중 하나에 열려 있으면 포커스되고, 그렇지 않으면 새 탭에서 열립니다.",
+    "Item5": "팔로우하는 스트리머가 라이브 방송을 시작하면 방송이 새 탭에서 자동으로 열립니다."
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "사이드바 채널 배경",
+    "Status": "채널 배경 상태",
+    "Item1": "왼쪽 메뉴에서 팔로우하거나 추천하는 채널의 프로필 사진을 배경으로 추가합니다.",
+    "Item2": "배경 이미지에 블러(blur) 효과를 적용하여 보다 심미적인 느낌을 줍니다."
+  },
+  "AdBlockerSettings": {
+    "Title": "광고 차단기",
+    "BlockAds": "광고 차단",
+    "Item1": "Kick의 라이브 방송 및 VOD 광고를 자동으로 차단합니다.",
+    "Item2": "비디오 스트림을 방해하지 않고 네트워크 수준에서 광고 세그먼트를 건너뛰어 중단 없는 시청 경험을 제공합니다.",
+    "Item3": "설정을 변경한 후 현재 방송 페이지가 자동으로 새로 고쳐져 설정이 완전히 적용되거나 비활성화됩니다."
+  },
+  "StreamPreviewSettings": {
+    "Title": "방송 미리보기",
+    "PreviewWindow": "미리보기 창",
+    "PlayerSize": "플레이어 크기",
+    "Item1": "방송 미리보기를 위해 3가지 비디오 플레이어 크기 중에서 선택하세요.",
+    "Item2": "플레이어 크기는 기본적으로 sm으로 설정되어 있습니다.",
+    "Item3": "채널 위로 마우스를 가져가면 미니 팝업 창에서 방송을 미리 볼 수 있습니다."
+  },
+  "KeywordDetectorSettings": {
+    "Title": "키워드 감지기",
+    "Status": "키워드 감지기 상태",
+    "SoundNotification": "소리 알림",
+    "VisualNotification": "시각 알림",
+    "HighlightColor": "강조 색상",
+    "ResetColorTitle": "기본 색상으로 복귀",
+    "Keywords": "키워드",
+    "InputPlaceholder": "단어 추가(예: giveaway)",
+    "AddButton": "추가",
+    "EmptyList": "목록에 키워드가 없습니다",
+    "Item1": "모든 기능이 작동하려면 키워드 감지기 상태가 켜져 있어야 합니다.",
+    "Item2": "추가한 단어 중 하나가 채팅 메시지에 나타나면 해당 메시지는 특별한 애니메이션으로 강조 표시됩니다.",
+    "Item3": "단어 강조 색상을 원하는 대로 사용자 지정할 수 있으며 휴지통 버튼을 사용하여 기본 색상으로 돌아갈 수 있습니다.",
+    "Item4": "메시지는 깜박이는 프레임으로 표시되어 쉽게 알아볼 수 있습니다.",
+    "Item5": "단어 검색은 대소문자를 구분합니다. 추가한 내용과 정확히 일치합니다.",
+    "Item6": "관련 설정에서 시스템(데스크톱) 알림 및 소리 경고를 활성화하거나 비활성화할 수 있습니다."
+  },
+  "ModLogsSettings": {
+    "Title": "관리 로그",
+    "BarStatus": "관리 로그 표시줄",
+    "Item1": "감사 로그, 메시지 기록, 채팅 지우기 및 타임아웃과 같은 빠른 액세스 버튼을 채팅 상단에 표시합니다."
+  },
+  "RaidBlockerSettings": {
+    "Title": "레이드 취소",
+    "Status": "레이드 취소 상태",
+    "FollowOnly": "팔로우하지 않는 채널로 가지 않음",
+    "BlacklistTitle": "블랙리스트 (이동하지 않을 채널)",
+    "InputPlaceholder": "채널명 추가 (예: hype)",
+    "AddButton": "추가",
+    "EmptyList": "블랙리스트에 채널이 없습니다",
+    "Item1": "모든 기능이 효과적이려면 레이드 취소 상태를 켜야 합니다.",
+    "Item2": "채널이 레이드를 수행할 때 가고 싶지 않은 채널을 추가하세요.",
+    "Item3": "로그인한 경우 팔로우하지 않는 채널로의 레이드가 취소됩니다. 이 설정은 기본적으로 켜져 있습니다.",
+    "Item4": "시스템은 3초 이내에 레이드를 자동으로 취소합니다."
+  },
+  "EmbedPreviewSettings": {
+    "Title": "콘텐츠 뷰어",
+    "Status": "콘텐츠 뷰어 상태",
+    "WindowSize": "창 크기",
+    "Item1": "채팅에서 공유된 X(twitter), youtube, kick 및 instagram 링크를 페이지에서 직접 확인하세요.",
+    "Item2": "버튼을 클릭하면 왼쪽 상단 모서리에 독립적이고 드래그 가능한 창을 열어 콘텐츠를 표시합니다.",
+    "Item3": "콘텐츠를 미리 볼 창 크기를 3가지 중에서 선택하세요.",
+    "Item4": "창 크기는 기본적으로 sm으로 설정되어 있습니다.",
+    "Item5": "오른쪽 하단 모서리에 열리는 창의 크기를 페이지의 최대 80%까지 확장할 수 있습니다."
+  },
+  "RoleHighlightsSettings": {
+    "Title": "역할 강조",
+    "Status": "역할 강조 상태",
+    "Item1": "채팅에서 관리자, vip 및 og 사용자의 메시지를 강조 표시합니다.",
+    "Item2": "관리자의 경우 연한 파란색, og의 경우 청록색, vip 사용자의 경우 노란색 강조 표시가 적용됩니다.",
+    "Item3": "사용자에게 여러 역할이 있는 경우 우선순위는 관리자 > og > vip로 설정됩니다."
+  },
+  "ChannelHiderSettings": {
+    "Title": "채널 숨기기",
+    "Status": "채널 숨기기 상태",
+    "BlacklistTitle": "블랙리스트 (숨길 채널)",
+    "InputPlaceholder": "채널명 추가 (예: hype)",
+    "AddButton": "추가",
+    "EmptyList": "블랙리스트에 채널이 없습니다",
+    "Item1": "모든 기능이 작동하려면 채널 숨기기 상태를 켜야 합니다.",
+    "Item2": "채널을 숨기려면 추천 채널이나 홈페이지에서 재생 중인 방송에서 ⊘ blocked 버튼을 클릭하기만 하면 됩니다.",
+    "Item3": "확장 프로그램 창의 채널 숨기기 메뉴에서 숨긴 채널을 찾아 제거할 수 있습니다.",
+    "Item4": "왼쪽의 추천 채널 목록과 홈페이지의 자동 재생 추천 채널에서 보고 싶지 않은 채널을 추가하세요.",
+    "Item5": "추가한 채널은 홈페이지의 추천 방송 섹션에 표시되지 않습니다."
+  },
+  "ViewerCountSettings": {
+    "Title": "시청자 수",
+    "Status": "숨겨진 시청자 수 표시",
+    "Item1": "시청하는 동안 방송 채널의 숨겨진 시청자 수를 볼 수 있습니다."
+  },
+  "EmotePreviewSettings": {
+    "Title": "이모트 미리보기",
+    "PreviewWindow": "이모트 미리보기 창",
+    "WindowSize": "창 크기",
+    "Item1": "이모트 미리보기를 위해 3가지 다른 창 크기 중에서 선택하세요.",
+    "Item2": "창 크기는 기본적으로 sm으로 설정되어 있습니다.",
+    "Item3": "채팅에서 이모트 위에 마우스를 올리면 미니 팝업 창에서 이모트의 확대된 버전과 세부 정보를 볼 수 있습니다."
+  },
+  "ChannelThemeSettings": {
+    "Title": "채널 테마 설정",
+    "GlobalTheme": "전역 테마 적용",
+    "ChannelPlaceholder": "채널명 (예: hype)",
+    "GlobalChannelLabel": "모든 채널 (전역 테마)",
+    "SuggestedThemesTitle": "준비된 배경 적용",
+    "Bg1": "배경 1",
+    "Bg2": "배경 2",
+    "Bg3": "배경 3",
+    "Bg4": "배경 4",
+    "Bg5": "배경 5",
+    "Color1": "색상 1",
+    "Color2": "색상 2",
+    "Color3": "색상 3",
+    "Color4": "색상 4",
+    "Color5": "색상 5",
+    "Color6": "색상 6",
+    "Color7": "색상 7",
+    "Color8": "색상 8",
+    "SaveButton": "저장",
+    "SavedThemesTitle": "저장된 테마",
+    "EmptyThemes": "저장된 테마가 있는 채널 없음",
+    "Item1": "모든 채널의 배경이나 텍스트 색상을 변경합니다. 이 색상 선택기는 추가될 예정입니다.",
+    "Item2": "팔레트 오른쪽의 색상 선택기를 사용하여 어디서든 원하는 색상을 선택할 수 있습니다.",
+    "Item3": "입력한 채널 이름은 자동으로 가져오지만, 수동으로 입력하여 다른 채널을 추가할 수도 있습니다.",
+    "Item4": "저장된 테마 섹션에서 채널을 선택하고 색상 팔레트를 변경하거나 삭제할 수 있습니다.",
+    "Item5": "전역 테마 설정이 켜져 있는 동안 채널 및 페이지에 관계없이 공통 테마를 설정하고, 사용자 지정 테마가 설정되지 않은 모든 페이지에서 적용할 수 있습니다."
+  },
+  "ChannelHider": {
+    "HideChannel": "채널 숨기기",
+    "HiddenChannelPrefix": "숨겨진 채널: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | 방송 미리보기"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "강조 표시 지우기",
+    "Highlight": "메시지 강조 표시"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "콘텐츠 뷰어에 표시"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | 이모트 미리보기"
+  },
+  "FavoriteUser": {
+    "Remove": "즐겨찾기에서 제거",
+    "Add": "즐겨찾기에 추가"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | 콘텐츠 뷰어",
+    "GoToLink": "링크로 이동",
+    "Resize": "크기 조절"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "클립을 로드할 수 없습니다",
+    "VideoLoadError": "비디오를 로드할 수 없습니다",
+    "Publisher": "게시자:",
+    "Creator": "제작자:",
+    "Views": "조회수",
+    "TimeAgo": {
+      "Seconds": "{{count}}초 전",
+      "Minutes": "{{count}}분 전",
+      "Hours": "{{count}}시간 전",
+      "Days": "{{count}}일 전",
+      "Months": "{{count}}개월 전",
+      "Years": "{{count}}년 전"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "비디오를 로드할 수 없습니다",
+    "DefaultTitle": "방송 다시보기",
+    "Publisher": "게시자:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "명이 시청 중",
+    "Participation": "% 참여율",
+    "ActiveChatters": "평균 활성 채팅 사용자",
+    "TooltipLine1": "이 값은 현재 시청자 수를 기반으로 수학적으로 계산됩니다.",
+    "TooltipLine2": "통계는 각 채널을 전환할 때 해당 시점부터 재평가됩니다."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | 관리",
+    "Cross": "크로스 밴",
+    "ReasonPlaceholder": "밴 사유를 입력하세요. (선택사항)",
+    "CrossReasonNote": "크로스 밴 정보는 자동으로 사유에 추가됩니다.",
+    "RemoveBan": "밴 해제",
+    "Ban": "밴",
+    "Timeout": "타임아웃",
+    "StatusReady": "준비됨",
+    "Scanning": "스캔 중: {{channel}}",
+    "Applying": "적용 중: {{channel}}",
+    "Complete": "✓ {{success}}개 채널 완료",
+    "DurationWeek": "1주일",
+    "DurationDays": "{{d}}일",
+    "DurationHours": "{{h}}시간",
+    "DurationMinutes": "{{m}}분",
+    "TimeoutFormat": "타임아웃 ({{duration}})",
+    "ExpiresAt": "만료일: {{date}} {{time}}",
+    "Quick5M": "5분",
+    "Quick1H": "1시간",
+    "Quick1D": "1일",
+    "Quick1W": "1주",
+    "MaxDuration": "최대 기간",
+    "UnitMinute": "분",
+    "UnitHour": "시간",
+    "UnitDay": "일",
+    "UnitWeek": "주",
+    "Set": "설정",
+    "PermanentBanned": "영구적으로 밴 됨",
+    "TimedOut": "타임아웃 됨",
+    "By": "실행자:",
+    "Indefinite": "무기한",
+    "Expires": "만료일:",
+    "NoReason": "제공된 사유가 없습니다.",
+    "ThisChannel": "이 채널",
+    "YourChannel": "자신의 채널",
+    "SwitchToOriginal": "원래 관리로 전환",
+    "SwitchToAdvanced": "고급 관리로 전환",
+    "Starting": "시작 중...",
+    "Tooltips": {
+      "TargetMod": "대상 사용자는 이 채널의 관리자이므로 작업이 적용되지 않습니다. 크로스 밴만 사용할 수 있습니다.",
+      "StreamerModeMod": "스트리머 모드가 활성화되어 있습니다. 대상 사용자는 이 채널의 관리자이므로 여기서는 작업이 적용되지 않습니다. 작업은 귀하의 채널(또는 크로스 밴이 켜져 있는 경우 다른 채널)에만 적용됩니다.",
+      "StreamerModeActive": "스트리머 모드가 활성화되어 있습니다.",
+      "StreamerModeBoth": "스트리머 모드가 활성화되어 있습니다. 작업은 이 채널과 자신의 채널 모두에 적용됩니다.",
+      "StreamerModeOnlyYours": "스트리머 모드가 활성화되어 있습니다. 이 채널에서 관리자가 아니기 때문에 자신의 채널을 기준으로 작업이 적용됩니다."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "채널 정보를 가져올 수 없습니다.",
+      "NoMessageHistory": "이 사용자는 메시지 기록이 없습니다.",
+      "HistoryFetchError": "기록을 가져올 수 없습니다."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | 관리 로그",
+    "EmptyAudit": "관리자 작업을 찾을 수 없습니다.",
+    "EmptyMessages": "삭제된 메시지를 찾을 수 없습니다.",
+    "EmptyClear": "채팅 지우기 내역을 찾을 수 없습니다.",
+    "EmptyTimeouts": "활성 타임아웃을 찾을 수 없습니다.",
+    "AuditLogTitle": "감사 로그",
+    "MessageLogTitle": "메시지 기록",
+    "ClearLogTitle": "채팅 지우기",
+    "TimeoutsTitle": "타임아웃",
+    "TooltipAudit": "감사 로그",
+    "TooltipTimeouts": "타임아웃",
+    "TooltipMessages": "메시지 기록",
+    "TooltipClear": "지우기",
+    "ChatCleared": "채팅이 지워졌습니다.",
+    "TimedOutWithDuration": "타임아웃 ({{duration}})",
+    "ExpiresAt": "만료: {{date}}",
+    "DurationWeek": "1주일",
+    "DurationDays": "{{d}}일",
+    "DurationHours": "{{h}}시간",
+    "DurationMinutes": "{{m}}분",
+    "Unknown": "알 수 없음",
+    "DeletedType": "삭제됨",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1>님이 <3>{{target}}</3>님을 밴했습니다",
+      "Timeout": "<1>{{mod}}</1>님이 <3>{{target}}</3>님을 {{duration}} 동안 타임아웃했습니다",
+      "Unban": "<1>{{mod}}</1>님이 <3>{{target}}</3>님의 밴을 해제했습니다",
+      "Untimeout": "<1>{{mod}}</1>님이 <3>{{target}}</3>님의 타임아웃을 해제했습니다"
+    },
+    "Violations": {
+      "Gibberish": "[의미 없거나 이해할 수 없는 메시지]",
+      "Spam": "[성적인 콘텐츠]",
+      "Violence": "[혐오 발언]",
+      "Bullying": "[폭력]",
+      "SelfHarm": "[괴롭힘]",
+      "Drugs": "[약물]",
+      "Weapons": "[무기]",
+      "Hate": "[혐오 발언]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | 레이드 취소 활성화됨"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp 설정"
+  },
+  "SettingsModal": {
+    "New": "신규"
+  },
+  "StorageManager": {
+    "Import": "가져오기",
+    "Export": "내보내기"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp 업데이트 참고 사항",
+    "Version": "버전: {{version}}",
+    "GotIt": "확인"
+  },
+  "UserDetailCard": {
+    "Copy": "복사",
+    "Copied": "복사됨",
+    "Notes": "노트",
+    "TechDetails": "기술 정보",
+    "Socials": "소셜 미디어",
+    "Messages": "메시지",
+    "Moderation": "관리",
+    "Followers": "팔로워",
+    "Badges": "배지",
+    "NoSocials": "소셜 미디어가 없습니다.",
+    "ToggleBio": "소개 토글",
+    "Following": "팔로잉",
+    "Joined": "가입일",
+    "Streak": "연속",
+    "Unfollow": "언팔로우",
+    "Follow": "팔로우",
+    "RemoveFromFavorites": "즐겨찾기에서 제거",
+    "AddToFavorites": "즐겨찾기에 추가",
+    "Unhighlight": "강조 표시 지우기",
+    "Highlight": "메시지 강조 표시",
+    "ChannelId": "채널 ID",
+    "UserId": "사용자 ID",
+    "ChatId": "채팅 ID",
+    "Replies": "답글",
+    "NoReplies": "답글 데이터가 없습니다.",
+    "ModerationLogs": "관리 로그",
+    "NoModerationData": "관리 데이터가 없습니다.",
+    "ModerationActions": "관리 작업",
+    "Timeout": "타임아웃",
+    "MaxDuration": "최대 기간",
+    "UnitMinute": "분",
+    "UnitHour": "시간",
+    "UnitDay": "일",
+    "UnitWeek": "주",
+    "Set": "설정",
+    "Ban": "밴",
+    "CrossBan": "크로스 밴 (당신이 모드인 모든 곳)",
+    "Quick5M": "5분",
+    "Quick1H": "1시간",
+    "Quick1D": "1일",
+    "Quick1W": "1주",
+    "DurationWeek": "1주일",
+    "DurationDays": "{{d}}일",
+    "DurationHours": "{{h}}시간",
+    "DurationMinutes": "{{m}}분",
+    "TimedOutFormat": "타임아웃 ({{duration}})",
+    "ExpiresAt": "만료일: {{date}}",
+    "PermanentBanned": "영구적으로 밴 됨",
+    "Deleted": "삭제됨",
+    "ProgressScanning": "스캔 중...",
+    "ProgressApplying": "채널 {{channel}}을(를) 처리 중...",
+    "ProgressDone": "총 {{total}}개 채널 중 {{success}}개 채널에서 {{action}}에 성공했습니다.",
+    "ActionBanned": "밴 완료",
+    "ActionUnbanned": "밴 해제 완료",
+    "LogBanned": "<1>{{mod}}</1>님에 의해 밴 되었습니다.",
+    "LogUnbanned": "<1>{{mod}}</1>님에 의해 밴이 해제되었습니다.",
+    "LogUntimeout": "<1>{{mod}}</1>님에 의해 타임아웃이 해제되었습니다.",
+    "Unknown": "알 수 없음",
+    "DeletedType": "삭제됨",
+    "ProgressStarting": "시작 중...",
+    "Violations": {
+      "Gibberish": "[의미 없거나 이해할 수 없는 메시지]",
+      "Spam": "[성적인 콘텐츠]",
+      "Violence": "[혐오 발언]",
+      "Bullying": "[폭력]",
+      "SelfHarm": "[괴롭힘]",
+      "Drugs": "[약물]",
+      "Weapons": "[무기]",
+      "Hate": "[혐오 발언]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "채널 정보를 가져올 수 없습니다.",
+      "NoMessageHistory": "이 사용자는 메시지 기록이 없습니다.",
+      "HistoryFetchError": "기록을 가져올 수 없습니다."
+    }
+  },
+  "UserNoteCard": {
+    "Title": "{{username}}님에 대한 노트",
+    "Placeholder": "여기에 노트를 작성하세요",
+    "Save": "노트 저장",
+    "Delete": "노트 삭제"
+  },
+  "Background": {
+    "MentionTitle": "Kick에서 멘션되었습니다!",
+    "MentionMessage": "{{channel}}에서 {{sender}}님이 멘션했습니다: \"{{content}}\"",
+    "ReplyTitle": "Kick에서 귀하의 메시지에 답글이 달렸습니다!",
+    "ReplyMessage": "{{channel}}에서 {{sender}}님이 답글을 남겼습니다: \"{{content}}\"",
+    "LiveTitle": "{{channel}}님이 라이브 방송 중입니다!",
+    "KeywordTitle": "키워드 감지기 일치",
+    "KeywordMessage": "{{channel}}에서 {{sender}}님: {{content}}",
+    "BadgeTitle": "KT with dp | 방송 오디오",
+    "BadgeSubtitle": "방송 오디오 음소거됨",
+    "BadgeButton": "음소거 해제"
+  }
+}

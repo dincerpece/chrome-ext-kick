@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "Uppdateringsanteckningar",
+    "UpdateHistory": "Uppdateringshistorik",
+    "CurrentVersion": "Aktuell version :"
+  },
+  "Main": {
+    "NewBadge": "Nytt"
+  },
+  "Footer": {
+    "Developer": "Utvecklare:",
+    "Version": "version:"
+  },
+  "ModulInfo": {
+    "Title": "Systeminformation",
+    "Desc": "Modulinformation",
+    "CountPrefix": "För närvarande körs totalt ",
+    "CountSuffix": " moduler aktivt.",
+    "Reset": "Återställ ordning",
+    "SettingsTitle": "Inställningar",
+    "SettingsDesc": "Säkerhetskopiera eller återställ tilläggsdata på din dator."
+  },
+  "ModerationInfo": {
+    "Title": "Moderering",
+    "Item1": "Modereringsverktyg fungerar på kanaler där du är moderator eller på din egen kanal.",
+    "Item2": "Medan inställningar för cross ban och timeout är aktiverade på andra kanaler, är endast cross ban inställningen aktiverad på din egen kanal.",
+    "Item3": "Du måste följa de kanaler du modererar när du använder cross ban.",
+    "Item4": "Du kan inte bannlysa eller ge timeout till användare som är moderatorer på din egen kanal, men du kan tillämpa en cross ban på andra kanaler du följer och modererar om de inte är moderatorer där.",
+    "Item5": "En timeout får inte överstiga 1 vecka."
+  },
+  "StreamerModeSettings": {
+    "Title": "Streamerläge",
+    "AdvancedMode": "Avancerat modereringsläge",
+    "Item1": "Om streamerläget är aktivt kan du se dina egna chattmeddelanden eller utföra åtgärder i vissa fönster för din egen kanal.",
+    "Item2": "Avancerat modereringsläge aktiverar en avancerad modereringspanel i användarprofiler istället för Kicks standardpanel, som erbjuder cross bans, anpassade timeout tider och en detaljerad chatthistorik."
+  },
+  "LiveNotificationSettings": {
+    "Title": "Inställningar för streamaviseringar",
+    "SoundNotification": "Ljudavisering",
+    "VisualNotification": "Visuell avisering",
+    "Item1": "Du kommer att få streamaviseringar för kanalerna du följer.",
+    "Item2": "Du kan välja att få ljudaviseringar eller visuella aviseringar.",
+    "Item3": "Du måste vara inloggad för att använda den här funktionen."
+  },
+  "TagNotificationSettings": {
+    "Title": "Inställningar för taggaviseringar",
+    "SoundNotification": "Ljudavisering",
+    "VisualNotification": "Visuell avisering",
+    "Item1": "Du kommer att få aviseringar från alla klienter där du är taggad.",
+    "Item2": "Du kan välja att få ljudaviseringar eller visuella aviseringar.",
+    "Item3": "Även om meddelandeinnehållet är synligt i den visuella aviseringen kan det delvis läsas senare (så långt ditt operativsystem tillåter det)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "Inställningar för svarsaviseringar",
+    "SoundNotification": "Ljudavisering",
+    "VisualNotification": "Visuell avisering",
+    "Item1": "Du kommer att få ett meddelande när ditt meddelande besvaras i chatten.",
+    "Item2": "Du kan välja att få ljudaviseringar eller visuella aviseringar.",
+    "Item3": "Även om meddelandeinnehållet är synligt i den visuella aviseringen kan det delvis läsas senare (så långt operativsystemet tillåter det)."
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "Automatisk streamflik",
+    "Opener": "Automatisk streamöppnare",
+    "Sound": "Streamljud",
+    "Item1": "Om inställningen för streamljud är avstängd, tillämpas den på nytt vid varje flikfokus eller när nya flikar öppnas.",
+    "Item2": "För att förhindra plötsligt ljud i bakgrunden startar streamar ljudlösa. Du kan slå på ljudet direkt från det övre högra hörnet av Kick spelaren.",
+    "Item3": "Streameraviseringar för streamern du följer måste vara aktiverade.",
+    "Item4": "Om streamen redan är öppen i en av dina flikar kommer den att fokuseras, annars öppnas den i en ny flik.",
+    "Item5": "När en streamer du följer startar en livesändning öppnas streamen automatiskt i en ny flik."
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "Kanalbakgrund i sidofält",
+    "Status": "Status för kanalbakgrund",
+    "Item1": "Lägger till profilbilden för de följda eller rekommenderade kanalerna i den vänstra menyn som bakgrund.",
+    "Item2": "Ger ett mer estetiskt utseende genom att tillämpa en oskärpeeffekt (blur) på bakgrundsbilden."
+  },
+  "AdBlockerSettings": {
+    "Title": "Annonsblockerare",
+    "BlockAds": "Blockera annonser",
+    "Item1": "Blockerar automatiskt annonser för livestreams och VOD på Kick.",
+    "Item2": "Ger en oavbruten tittarupplevelse genom att hoppa över annonssegment på nätverksnivå utan att bryta videoströmmen.",
+    "Item3": "När du har ändrat inställningen uppdateras den aktuella streamsidan automatiskt för att inställningen ska träda i kraft helt eller inaktiveras."
+  },
+  "StreamPreviewSettings": {
+    "Title": "Streamförhandsgranskning",
+    "PreviewWindow": "Förhandsgranskningsfönster",
+    "PlayerSize": "Spelarstorlek",
+    "Item1": "Välj mellan 3 olika videospelarstorlekar för streamförhandsgranskning.",
+    "Item2": "Spelarstorleken är inställd på sm som standard.",
+    "Item3": "Låter dig förhandsgranska streamen i ett litet popupfönster när du håller muspekaren över kanaler."
+  },
+  "KeywordDetectorSettings": {
+    "Title": "Orddetektor",
+    "Status": "Status för orddetektor",
+    "SoundNotification": "Ljudavisering",
+    "VisualNotification": "Visuell avisering",
+    "HighlightColor": "Markeringsfärg",
+    "ResetColorTitle": "Återgå till standardfärg",
+    "Keywords": "Nyckelord",
+    "InputPlaceholder": "Lägg till ett ord (t.ex.: giveaway)",
+    "AddButton": "Lägg till",
+    "EmptyList": "Inga nyckelord i listan",
+    "Item1": "Statusen för orddetektor måste vara aktiverad för att alla funktioner ska fungera.",
+    "Item2": "Om något av orden du lade till visas i ett meddelande i chatten, kommer det meddelandet att markeras med en speciell animering.",
+    "Item3": "Du kan anpassa ordmarkeringsfärgen som du vill och använda papperskorgsknappen för att återgå till standardfärgen.",
+    "Item4": "Meddelanden markeras med en blinkande ram för att göra det lättare för dig att lägga märke till dem.",
+    "Item5": "Ordsökningar är skiftlägeskänsliga. Det kommer att matcha exakt så som du lade till det.",
+    "Item6": "Du kan aktivera eller inaktivera systemaviseringar (skrivbord) och ljudvarningar från de relevanta inställningarna."
+  },
+  "ModLogsSettings": {
+    "Title": "Modereringsloggar",
+    "BarStatus": "Modereringsloggfält",
+    "Item1": "Visar snabbåtkomstknappar högst upp i chatten, som granskningslogg, meddelandehistorik, chattrensning och timeouts."
+  },
+  "RaidBlockerSettings": {
+    "Title": "Raid avbokning",
+    "Status": "Status för raid avbokning",
+    "FollowOnly": "Gå inte till kanaler jag inte följer",
+    "BlacklistTitle": "Svartlista (Kanaler att inte gå till)",
+    "InputPlaceholder": "Lägg till kanalnamn (t.ex.: hype)",
+    "AddButton": "Lägg till",
+    "EmptyList": "Inga kanaler på svartlistan",
+    "Item1": "Statusen för raid avbokning måste vara påslagen för att alla funktioner ska vara effektiva.",
+    "Item2": "Lägg till de kanaler du inte vill gå till när en kanal gör en raid.",
+    "Item3": "Om du är inloggad avbryts raids till kanaler du inte följer. Den här inställningen är påslagen som standard.",
+    "Item4": "Systemet avbryter automatiskt raids inom 3 sekunder."
+  },
+  "EmbedPreviewSettings": {
+    "Title": "Innehållsvisare",
+    "Status": "Status för innehållsvisare",
+    "WindowSize": "Fönsterstorlek",
+    "Item1": "Visa X (twitter), youtube, kick och instagram länkar som delas i chatten direkt på sidan.",
+    "Item2": "När knappen klickas visas innehållet genom att öppna ett oberoende, dragbart fönster i det övre vänstra hörnet.",
+    "Item3": "Välj mellan 3 olika fönsterstorlekar för att förhandsgranska innehållet.",
+    "Item4": "Fönsterstorleken är inställd på sm som standard.",
+    "Item5": "Du kan utöka storleken på fönstret som öppnas i det nedre högra hörnet till upp till 80 % av sidan."
+  },
+  "RoleHighlightsSettings": {
+    "Title": "Rollmarkeringar",
+    "Status": "Status för rollmarkeringar",
+    "Item1": "Raderar meddelandena från moderatorer, vip och og användare i chatten.",
+    "Item2": "En ljusblå markering tillämpas för moderatorer, turkos för og och gul för vip användare.",
+    "Item3": "Om en användare har flera roller anges prioriteten som: Moderator > og > vip."
+  },
+  "ChannelHiderSettings": {
+    "Title": "Kanaldöljare",
+    "Status": "Status för kanaldöljare",
+    "BlacklistTitle": "Svartlista (Kanaler att dölja)",
+    "InputPlaceholder": "Lägg till kanalnamn (t.ex.: hype)",
+    "AddButton": "Lägg till",
+    "EmptyList": "Ingen kanaler på svartlistan",
+    "Item1": "Statusen för kanaldöljare måste vara aktiverad för att alla funktioner ska fungera.",
+    "Item2": "För att dölja en kanal klickar du helt enkelt på knappen ⊘ blocked i de rekommenderade kanalerna eller den spelande streamen på startsidan.",
+    "Item3": "Du kan hitta och ta bort kanalerna du har dolt från menyn Kanaldöljare i tilläggsfönstret.",
+    "Item4": "Lägg till kanalerna du inte vill se i listan över rekommenderade kanaler till vänster och de automatiskt uppspelande rekommenderade kanalerna på startsidan.",
+    "Item5": "Kanalerna du lägger till kommer inte att visas i avsnittet med rekommenderade streams på startsidan."
+  },
+  "ViewerCountSettings": {
+    "Title": "Antal tittare",
+    "Status": "Visa dolda tittarantal",
+    "Item1": "Gör att du kan se det dolda antalet tittare för en sändande kanal medan du tittar."
+  },
+  "EmotePreviewSettings": {
+    "Title": "Emoteförhandsgranskning",
+    "PreviewWindow": "Förhandsgranskningsfönster för emote",
+    "WindowSize": "Fönsterstorlek",
+    "Item1": "Välj mellan 3 olika fönsterstorlekar för emoteförhandsgranskning.",
+    "Item2": "Fönsterstorleken är inställd på sm som standard.",
+    "Item3": "Låter dig se en förstorad version och detaljer av emoten i ett litet popupfönster när du håller muspekaren över emotes i chatten."
+  },
+  "ChannelThemeSettings": {
+    "Title": "Ställ in kanaltema",
+    "GlobalTheme": "Tillämpa globalt tema",
+    "ChannelPlaceholder": "Kanalnamn (t.ex.: hype)",
+    "GlobalChannelLabel": "Alla kanaler (Globalt tema)",
+    "SuggestedThemesTitle": "Tillämpa färdiga bakgrunder",
+    "Bg1": "Bakgrund 1",
+    "Bg2": "Bakgrund 2",
+    "Bg3": "Bakgrund 3",
+    "Bg4": "Bakgrund 4",
+    "Bg5": "Bakgrund 5",
+    "Color1": "Färg 1",
+    "Color2": "Färg 2",
+    "Color3": "Färg 3",
+    "Color4": "Färg 4",
+    "Color5": "Färg 5",
+    "Color6": "Färg 6",
+    "Color7": "Färg 7",
+    "Color8": "Färg 8",
+    "SaveButton": "Spara",
+    "SavedThemesTitle": "Sparade teman",
+    "EmptyThemes": "Inga kanaler med ett sparat tema",
+    "Item1": "Ändra bakgrunderna eller textfärgerna för vilken kanal som helst. Dessa färgval kommer att utökas.",
+    "Item2": "Med färgväljaren till höger om paletten kan du välja vilka nyanser som helst från var som helst.",
+    "Item3": "Även om de angivna kanalnamnen hämtas automatiskt, kan du också skriva och lägga till olika kanaler manuellt.",
+    "Item4": "Du kan välja kanalen från avsnittet för sparade teman och ändra färgpaletten eller ta bort den.",
+    "Item5": "När inställningen för globalt tema är aktiverad kan du ställa in ett gemensamt tema oberoende av kanaler och sidor, och göra det giltigt på alla sidor där inget anpassat tema är inställt."
+  },
+  "ChannelHider": {
+    "HideChannel": "Dölj kanal",
+    "HiddenChannelPrefix": "Dold kanal: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | Streamförhandsgranskning"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "Ta bort markering",
+    "Highlight": "Markera meddelanden"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "Visa i Innehållsvisare"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | Emoteförhandsgranskning"
+  },
+  "FavoriteUser": {
+    "Remove": "Ta bort från favoriter",
+    "Add": "Lägg till i favoriter"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | Innehållsvisare",
+    "GoToLink": "Gå till länk",
+    "Resize": "Ändra storlek"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "Klippet kunde inte laddas",
+    "VideoLoadError": "Videon kunde inte laddas",
+    "Publisher": "Utgivare:",
+    "Creator": "Skapare:",
+    "Views": "Visningar",
+    "TimeAgo": {
+      "Seconds": "för {{count}} sekunder sedan",
+      "Minutes": "för {{count}} minuter sedan",
+      "Hours": "för {{count}} timmar sedan",
+      "Days": "för {{count}} dagar sedan",
+      "Months": "för {{count}} månader sedan",
+      "Years": "för {{count}} år sedan"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "Videon kunde inte laddas",
+    "DefaultTitle": "Streamrepris",
+    "Publisher": "Utgivare:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "personer tittar",
+    "Participation": "% Deltagande",
+    "ActiveChatters": "Genomsn. aktiva i chatt",
+    "TooltipLine1": "Dessa värden beräknas matematiskt baserat på det aktuella antalet tittare.",
+    "TooltipLine2": "Statistiken omvärderas från det ögonblicket vid varje kanalbyte."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | Moderering",
+    "Cross": "Cross",
+    "ReasonPlaceholder": "Ange orsak till bannlysning. (Valfritt)",
+    "CrossReasonNote": "Information om cross ban läggs automatiskt till i orsaken.",
+    "RemoveBan": "Häv bannlysning",
+    "Ban": "Bannlys",
+    "Timeout": "Timeout",
+    "StatusReady": "Klar",
+    "Scanning": "Skannar: {{channel}}",
+    "Applying": "Tillämpar: {{channel}}",
+    "Complete": "✓ Slutfört på {{success}} kanaler",
+    "DurationWeek": "1 vecka",
+    "DurationDays": "{{d}} dagar",
+    "DurationHours": "{{h}} timmar",
+    "DurationMinutes": "{{m}} minuter",
+    "TimeoutFormat": "Fick Timeout ({{duration}})",
+    "ExpiresAt": "Löper ut: {{date}} {{time}}",
+    "Quick5M": "5 minuter",
+    "Quick1H": "1 timme",
+    "Quick1D": "1 dag",
+    "Quick1W": "1 vecka",
+    "MaxDuration": "Max varaktighet",
+    "UnitMinute": "Minut",
+    "UnitHour": "Timme",
+    "UnitDay": "Dag",
+    "UnitWeek": "Vecka",
+    "Set": "Ställ in",
+    "PermanentBanned": "Permanent bannlyst",
+    "TimedOut": "Fick Timeout",
+    "By": "av",
+    "Indefinite": "Tillsvidare",
+    "Expires": "Löper ut:",
+    "NoReason": "Ingen orsak angiven.",
+    "ThisChannel": "Den här kanalen",
+    "YourChannel": "Din egen kanal",
+    "SwitchToOriginal": "Byt till ursprunglig moderering",
+    "SwitchToAdvanced": "Byt till avancerad moderering",
+    "Starting": "Startar...",
+    "Tooltips": {
+      "TargetMod": "Målanvändaren är moderator i den här kanalen, så åtgärden kommer inte att tillämpas. Du kan bara använda cross ban.",
+      "StreamerModeMod": "Streamerläget är aktivt. Målanvändaren är moderator i den här kanalen, så åtgärden kommer inte att tillämpas här. Åtgärden tillämpas bara i din egen kanal (eller andra om cross ban är aktiverat).",
+      "StreamerModeActive": "Streamerläget är aktivt.",
+      "StreamerModeBoth": "Streamerläget är aktivt. Åtgärden kommer att tillämpas både i den här kanalen och i din egen kanal.",
+      "StreamerModeOnlyYours": "Streamerläget är aktivt. Eftersom du inte är moderator i den här kanalen, kommer åtgärden att tillämpas baserat på din egen kanal."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Kanalinformation kunde inte hämtas.",
+      "NoMessageHistory": "Den här användaren har ingen meddelandehistorik.",
+      "HistoryFetchError": "Historik kunde inte hämtas."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | Modereringsloggar",
+    "EmptyAudit": "Inga moderatoråtgärder hittades.",
+    "EmptyMessages": "Inga raderade meddelanden hittades.",
+    "EmptyClear": "Inga chattrensningar hittades.",
+    "EmptyTimeouts": "Inga aktiva timeouts hittades.",
+    "AuditLogTitle": "Granskningslogg",
+    "MessageLogTitle": "Meddelandelogg",
+    "ClearLogTitle": "Chattrensningar",
+    "TimeoutsTitle": "Timeouts",
+    "TooltipAudit": "Granskningslogg",
+    "TooltipTimeouts": "Timeouts",
+    "TooltipMessages": "Meddelandelogg",
+    "TooltipClear": "Rensa",
+    "ChatCleared": "Chatten har rensats.",
+    "TimedOutWithDuration": "Fick Timeout ({{duration}})",
+    "ExpiresAt": "Löper ut: {{date}}",
+    "DurationWeek": "1 vecka",
+    "DurationDays": "{{d}} dagar",
+    "DurationHours": "{{h}} timmar",
+    "DurationMinutes": "{{m}} minuter",
+    "Unknown": "Okänd",
+    "DeletedType": "Raderat",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1> bannlyste <3>{{target}}</3>",
+      "Timeout": "<1>{{mod}}</1> gav timeout till <3>{{target}}</3> i {{duration}}",
+      "Unban": "<1>{{mod}}</1> tog bort bannlysningen för <3>{{target}}</3>",
+      "Untimeout": "<1>{{mod}}</1> tog bort timeout för <3>{{target}}</3>"
+    },
+    "Violations": {
+      "Gibberish": "[Meningslösa eller obegripliga meddelanden]",
+      "Spam": "[Sexuellt innehåll]",
+      "Violence": "[Hatpropaganda]",
+      "Bullying": "[Våld]",
+      "SelfHarm": "[Mobbning]",
+      "Drugs": "[Droger]",
+      "Weapons": "[Vapen]",
+      "Hate": "[Hatpropaganda]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | Raid avbokning aktiv"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp Inställningar"
+  },
+  "SettingsModal": {
+    "New": "Nytt"
+  },
+  "StorageManager": {
+    "Import": "Importera",
+    "Export": "Exportera"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp Uppdateringsanteckningar",
+    "Version": "Version: {{version}}",
+    "GotIt": "Uppfattat"
+  },
+  "UserDetailCard": {
+    "Copy": "Kopiera",
+    "Copied": "Kopierad",
+    "Notes": "Anteckningar",
+    "TechDetails": "Tekniska detaljer",
+    "Socials": "Sociala medier",
+    "Messages": "Meddelanden",
+    "Moderation": "Moderering",
+    "Followers": "Följare",
+    "Badges": "Märken",
+    "NoSocials": "Inga sociala medier.",
+    "ToggleBio": "Visa/dölj bio",
+    "Following": "Följer",
+    "Joined": "Gick med datum",
+    "Streak": "Streak",
+    "Unfollow": "Sluta följa",
+    "Follow": "Följ",
+    "RemoveFromFavorites": "Ta bort från favoriter",
+    "AddToFavorites": "Lägg till i favoriter",
+    "Unhighlight": "Ta bort markering",
+    "Highlight": "Markera meddelanden",
+    "ChannelId": "Kanal-ID",
+    "UserId": "Användar-ID",
+    "ChatId": "Chatt-ID",
+    "Replies": "Svar",
+    "NoReplies": "Ingen svarsdata.",
+    "ModerationLogs": "Modereringsloggar",
+    "NoModerationData": "Ingen modereringsdata.",
+    "ModerationActions": "Modereringsåtgärder",
+    "Timeout": "Timeout",
+    "MaxDuration": "Max varaktighet",
+    "UnitMinute": "Minut",
+    "UnitHour": "Timme",
+    "UnitDay": "Dag",
+    "UnitWeek": "Vecka",
+    "Set": "Ställ in",
+    "Ban": "Bannlys",
+    "CrossBan": "Cross (Överallt där du är mod)",
+    "Quick5M": "5 minuter",
+    "Quick1H": "1 timme",
+    "Quick1D": "1 dag",
+    "Quick1W": "1 vecka",
+    "DurationWeek": "1 vecka",
+    "DurationDays": "{{d}} dagar",
+    "DurationHours": "{{h}} timmar",
+    "DurationMinutes": "{{m}} minuter",
+    "TimedOutFormat": "Fick Timeout ({{duration}})",
+    "ExpiresAt": "Löper ut: {{date}}",
+    "PermanentBanned": "Permanent bannlyst",
+    "Deleted": "Raderad",
+    "ProgressScanning": "Skannar...",
+    "ProgressApplying": "Bearbetar för kanal {{channel}}...",
+    "ProgressDone": "Klar med {{action}} på {{success}} av totalt {{total}} kanaler.",
+    "ActionBanned": "bannlyst",
+    "ActionUnbanned": "upphävd bannlysning",
+    "LogBanned": "Bannlyst av <1>{{mod}}</1>.",
+    "LogUnbanned": "Bannlysning upphävd av <1>{{mod}}</1>.",
+    "LogUntimeout": "Timeout borttagen av <1>{{mod}}</1>.",
+    "Unknown": "Okänd",
+    "DeletedType": "Raderad",
+    "ProgressStarting": "Startar...",
+    "Violations": {
+      "Gibberish": "[Meningslösa eller obegripliga meddelanden]",
+      "Spam": "[Sexuellt innehåll]",
+      "Violence": "[Hatpropaganda]",
+      "Bullying": "[Våld]",
+      "SelfHarm": "[Mobbning]",
+      "Drugs": "[Droger]",
+      "Weapons": "[Vapen]",
+      "Hate": "[Hatpropaganda]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Kanalinformation kunde inte hämtas.",
+      "NoMessageHistory": "Den här användaren har ingen meddelandehistorik.",
+      "HistoryFetchError": "Historik kunde inte hämtas."
+    }
+  },
+  "UserNoteCard": {
+    "Title": "Dina anteckningar om {{username}}",
+    "Placeholder": "Skriv dina anteckningar här",
+    "Save": "Spara anteckningar",
+    "Delete": "Radera anteckning"
+  },
+  "Background": {
+    "MentionTitle": "Du nämndes på Kick!",
+    "MentionMessage": "{{sender}} nämnde dig i {{channel}}: \"{{content}}\"",
+    "ReplyTitle": "Ditt meddelande besvarades på Kick!",
+    "ReplyMessage": "{{sender}} svarade dig i {{channel}}: \"{{content}}\"",
+    "LiveTitle": "{{channel}} är Live!",
+    "KeywordTitle": "Träff för orddetektor",
+    "KeywordMessage": "{{sender}} i {{channel}}: {{content}}",
+    "BadgeTitle": "KT with dp | Streamljud",
+    "BadgeSubtitle": "Streamljudet är dämpat",
+    "BadgeButton": "Slå på ljudet"
+  }
+}

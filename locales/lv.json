@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "Atjauninājumu piezīmes",
+    "UpdateHistory": "Atjauninājumu vēsture",
+    "CurrentVersion": "Pašreizējā versija :"
+  },
+  "Main": {
+    "NewBadge": "Jauns"
+  },
+  "Footer": {
+    "Developer": "Izstrādātājs:",
+    "Version": "versija:"
+  },
+  "ModulInfo": {
+    "Title": "Sistēmas informācija",
+    "Desc": "Moduļa informācija",
+    "CountPrefix": "Pašlaik aktīvi darbojas kopumā ",
+    "CountSuffix": " moduļi.",
+    "Reset": "Atiestatīt secību",
+    "SettingsTitle": "Iestatījumi",
+    "SettingsDesc": "Dublējiet vai atjaunojiet paplašinājuma datus savā datorā."
+  },
+  "ModerationInfo": {
+    "Title": "Moderēšana",
+    "Item1": "Moderēšanas rīki darbojas kanālos, kuros esat moderators, vai savā kanālā.",
+    "Item2": "Kamēr citos kanālos ir ieslēgti cross ban un timeout iestatījumi, jūsu kanālā ir ieslēgts tikai cross ban iestatījums.",
+    "Item3": "Izmantojot cross ban, jums jāseko kanāliem, kurus moderējat.",
+    "Item4": "Jūs nevarat bloķēt vai dot timeout lietotājiem, kuri ir moderatori jūsu kanālā, taču varat lietot cross ban citos kanālos, kuriem sekojat un moderējat, ja viņi tur nav moderatori.",
+    "Item5": "Timeout ilgums nevar pārsniegt 1 nedēļu."
+  },
+  "StreamerModeSettings": {
+    "Title": "Straumētāja režīms",
+    "AdvancedMode": "Paplašināts moderēšanas režīms",
+    "Item1": "Ja straumētāja režīms ir aktīvs, varat redzēt savus tērzēšanas ziņojumus vai veikt darbības dažos sava kanāla logos.",
+    "Item2": "Paplašinātais moderēšanas režīms aktivizē paplašinātu moderēšanas paneli lietotāju profilos, nevis Kick noklusējuma paneli, piedāvājot cross ban, pielāgotus timeout laikus un detalizētu tērzēšanas vēsturi."
+  },
+  "LiveNotificationSettings": {
+    "Title": "Straumes paziņojumu iestatījumi",
+    "SoundNotification": "Skaņas paziņojums",
+    "VisualNotification": "Vizuāls paziņojums",
+    "Item1": "Jūs saņemsiet straumes paziņojumus par kanāliem, kuriem sekojat.",
+    "Item2": "Jūs varat izvēlēties saņemt skaņas vai vizuālus paziņojumus.",
+    "Item3": "Lai izmantotu šo funkciju, jums ir jāpiesakās."
+  },
+  "TagNotificationSettings": {
+    "Title": "Atzīmēšanas paziņojumu iestatījumi",
+    "SoundNotification": "Skaņas paziņojums",
+    "VisualNotification": "Vizuāls paziņojums",
+    "Item1": "Jūs saņemsiet paziņojumus no visiem klientiem, kuros esat atzīmēts.",
+    "Item2": "Jūs varat izvēlēties saņemt skaņas vai vizuālus paziņojumus.",
+    "Item3": "Lai gan ziņojuma saturs ir redzams vizuālajā paziņojumā, to vēlāk var daļēji izlasīt (ciktāl to atļauj jūsu OS)."
+  },
+  "ReplyNotificationSettings": {
+    "Title": "Atbilžu paziņojumu iestatījumi",
+    "SoundNotification": "Skaņas paziņojums",
+    "VisualNotification": "Vizuāls paziņojums",
+    "Item1": "Jūs saņemsiet paziņojumu, kad uz jūsu ziņojumu tiks atbildēts tērzēšanā.",
+    "Item2": "Jūs varat izvēlēties saņemt skaņas vai vizuālus paziņojumus.",
+    "Item3": "Lai gan ziņojuma saturs ir redzams vizuālajā paziņojumā, to var daļēji izlasīt vēlāk (ciktāl OS to atļauj)."
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "Automātiska straumes cilne",
+    "Opener": "Automātisks straumes atvērējs",
+    "Sound": "Straumes audio",
+    "Item1": "Ja straumes audio iestatījums ir izslēgts, tas tiek atkārtoti piemērots katrā cilnes fokusēšanā vai jaunas cilnes atvēršanā.",
+    "Item2": "Lai novērstu pēkšņu skaņu fonā, straumes sākas izslēgtas. Varat ieslēgt skaņu tieši no Kick atskaņotāja augšējā labā stūra.",
+    "Item3": "Straumētāja paziņojumiem par straumētāju, kuram sekojat, jābūt ieslēgtiem.",
+    "Item4": "Ja straume jau ir atvērta kādā no jūsu cilnēm, tā tiks fokusēta, pretējā gadījumā tā tiks atvērta jaunā cilnē.",
+    "Item5": "Kad straumētājs, kuram sekojat, sāk tiešraidi, straume tiks automātiski atvērta jaunā cilnē."
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "Sānjoslas kanāla fons",
+    "Status": "Kanāla fona statuss",
+    "Item1": "Pievieno kreisajā izvēlnē esošo sekoto vai ieteikto kanālu profila fotoattēlu kā fonu.",
+    "Item2": "Nodrošina estētiskāku izskatu, fona attēlam piemērojot aizmiglojuma (blur) efektu."
+  },
+  "AdBlockerSettings": {
+    "Title": "Reklāmu bloķētājs",
+    "BlockAds": "Bloķēt reklāmas",
+    "Item1": "Automātiski bloķē tiešraides un VOD reklāmas pakalpojumā Kick.",
+    "Item2": "Nodrošina nepārtrauktu skatīšanās pieredzi, izlaižot reklāmu segmentus tīkla līmenī, nepārtraucot video straumi.",
+    "Item3": "Pēc iestatījuma maiņas pašreizējā straumes lapa tiks automātiski atsvaidzināta, lai iestatījums pilnībā stātos spēkā vai tiktu deaktivizēts."
+  },
+  "StreamPreviewSettings": {
+    "Title": "Straumes priekšskatījums",
+    "PreviewWindow": "Priekšskatījuma logs",
+    "PlayerSize": "Atskaņotāja lielums",
+    "Item1": "Izvēlieties no 3 dažādiem video atskaņotāja izmēriem straumes priekšskatījumam.",
+    "Item2": "Atskaņotāja izmērs pēc noklusējuma ir iestatīts uz sm.",
+    "Item3": "Ļauj priekšskatīt straumi nelielā popup logā, kad virzāt kursoru virs kanāliem."
+  },
+  "KeywordDetectorSettings": {
+    "Title": "Vārdu detektors",
+    "Status": "Vārdu detektora statuss",
+    "SoundNotification": "Skaņas paziņojums",
+    "VisualNotification": "Vizuāls paziņojums",
+    "HighlightColor": "Izcēluma krāsa",
+    "ResetColorTitle": "Atgriezties uz noklusējuma krāsu",
+    "Keywords": "Atslēgvārdi",
+    "InputPlaceholder": "Pievienot vārdu (piem.: giveaway)",
+    "AddButton": "Pievienot",
+    "EmptyList": "Sarakstā nav atslēgvārdu",
+    "Item1": "Lai visas funkcijas darbotos, vārdu detektora statusam jābūt ieslēgtam.",
+    "Item2": "Ja kāds no jūsu pievienotajiem vārdiem parādās ziņojumā tērzēšanā, šis ziņojums tiks izcelts ar īpašu animāciju.",
+    "Item3": "Varat pielāgot vārdu izcēluma krāsu pēc vēlēšanās un izmantot miskastes pogu, lai atgrieztos pie noklusējuma krāsas.",
+    "Item4": "Ziņojumi ir atzīmēti ar mirgojošu rāmi, lai jūs tos vieglāk pamanītu.",
+    "Item5": "Vārdu meklēšana ir reģistrjutīga. Tas sakritīs tieši tā, kā jūs to pievienojāt.",
+    "Item6": "Attiecīgajos iestatījumos varat iespējot vai atspējot sistēmas (darbvirsmas) paziņojumus un skaņas brīdinājumus."
+  },
+  "ModLogsSettings": {
+    "Title": "Moderēšanas žurnāli",
+    "BarStatus": "Moderēšanas žurnālu josla",
+    "Item1": "Parāda ātrās piekļuves pogas tērzēšanas augšdaļā, piemēram, audita žurnālu, ziņojumu vēsturi, tērzēšanas tīrīšanu un timeoutus."
+  },
+  "RaidBlockerSettings": {
+    "Title": "Raid atcelšana",
+    "Status": "Raid atcelšanas statuss",
+    "FollowOnly": "Neiet uz kanāliem, kuriem nesekoju",
+    "BlacklistTitle": "Melnais saraksts (Kanāli, uz kuriem neiet)",
+    "InputPlaceholder": "Pievienot kanāla nosaukumu (piem.: hype)",
+    "AddButton": "Pievienot",
+    "EmptyList": "Melnejā sarakstā nav kanālu",
+    "Item1": "Lai visas funkcijas būtu efektīvas, raid atcelšanas statusam jābūt ieslēgtam.",
+    "Item2": "Pievienojiet kanālus, uz kuriem nevēlaties doties, kad kanāls veic raidu.",
+    "Item3": "Ja esat pieteicies, raidi uz kanāliem, kuriem nesekojat, tiks atcelti. Šis iestatījums ir ieslēgts pēc noklusējuma.",
+    "Item4": "Sistēma automātiski atceļ raidus 3 sekunžu laikā."
+  },
+  "EmbedPreviewSettings": {
+    "Title": "Satura skatītājs",
+    "Status": "Satura skatītāja statuss",
+    "WindowSize": "Loga izmērs",
+    "Item1": "Skatiet tērzēšanā kopīgotās X (twitter), youtube, kick un instagram saites tieši lapā.",
+    "Item2": "Noklikšķinot uz pogas, saturs tiek parādīts, augšējā kreisajā stūrī atverot neatkarīgu, velkamu logu.",
+    "Item3": "Lai priekšskatītu saturu, izvēlieties kādu no 3 dažādiem logu izmēriem.",
+    "Item4": "Loga izmērs pēc noklusējuma ir iestatīts uz sm.",
+    "Item5": "Apakšējā labajā stūrī atveramā loga izmēru varat paplašināt līdz pat 80% no lapas."
+  },
+  "RoleHighlightsSettings": {
+    "Title": "Lomu izcēlumi",
+    "Status": "Lomu izcēlumu statuss",
+    "Item1": "Tērzēšanā izceļ moderatoru, vip un og lietotāju ziņojumus.",
+    "Item2": "Gaiši zils izcēlums tiek piemērots moderatoriem, tirkīza - og un dzeltens - vip lietotājiem.",
+    "Item3": "Ja lietotājam ir vairākas lomas, prioritāte tiek noteikta kā: Moderators > og > vip."
+  },
+  "ChannelHiderSettings": {
+    "Title": "Kanālu slēpšana",
+    "Status": "Kanālu slēpšanas statuss",
+    "BlacklistTitle": "Melnais saraksts (Slēpjamie kanāli)",
+    "InputPlaceholder": "Pievienot kanāla nosaukumu (piem.: hype)",
+    "AddButton": "Pievienot",
+    "EmptyList": "Melnejā sarakstā nav kanālu",
+    "Item1": "Lai visas funkcijas darbotos, kanālu slēpšanas statusam jābūt ieslēgtam.",
+    "Item2": "Lai paslēptu kanālu, ieteiktajos kanālos vai mājaslapā atskaņotajā straumē vienkārši noklikšķiniet uz pogas ⊘ blocked.",
+    "Item3": "Paslēptos kanālus varat atrast un noņemt paplašinājuma loga izvēlnē Kanālu slēpšana.",
+    "Item4": "Pievienojiet kanālus, kurus nevēlaties redzēt, ieteikto kanālu sarakstam kreisajā pusē un automātiski atskaņotajiem ieteiktajiem kanāliem mājaslapā.",
+    "Item5": "Jūsu pievienotie kanāli netiks rādīti mājaslapas ieteikto straumju sadaļā."
+  },
+  "ViewerCountSettings": {
+    "Title": "Skatītāju skaits",
+    "Status": "Rādīt slēpto skatītāju skaitu",
+    "Item1": "Ļauj redzēt apraides kanāla slēpto skatītāju skaitu skatīšanās laikā."
+  },
+  "EmotePreviewSettings": {
+    "Title": "Emocijzīmju priekšskatījums",
+    "PreviewWindow": "Emocijzīmju priekšskatījuma logs",
+    "WindowSize": "Loga izmērs",
+    "Item1": "Izvēlieties no 3 dažādiem logu izmēriem emocijzīmju priekšskatījumam.",
+    "Item2": "Loga izmērs pēc noklusējuma ir iestatīts uz sm.",
+    "Item3": "Ļauj jums redzēt palielinātu emocijzīmes versiju un informāciju nelielā popup logā, kad tērzēšanā novietojat kursoru virs emocijzīmēm."
+  },
+  "ChannelThemeSettings": {
+    "Title": "Iestatīt kanāla motīvu",
+    "GlobalTheme": "Lietot globālo motīvu",
+    "ChannelPlaceholder": "Kanāla nosaukums (piem.: hype)",
+    "GlobalChannelLabel": "Visi kanāli (Globālais motīvs)",
+    "SuggestedThemesTitle": "Lietot gatavus fonus",
+    "Bg1": "Fons 1",
+    "Bg2": "Fons 2",
+    "Bg3": "Fons 3",
+    "Bg4": "Fons 4",
+    "Bg5": "Fons 5",
+    "Color1": "Krāsa 1",
+    "Color2": "Krāsa 2",
+    "Color3": "Krāsa 3",
+    "Color4": "Krāsa 4",
+    "Color5": "Krāsa 5",
+    "Color6": "Krāsa 6",
+    "Color7": "Krāsa 7",
+    "Color8": "Krāsa 8",
+    "SaveButton": "Saglabāt",
+    "SavedThemesTitle": "Saglabātie motīvi",
+    "EmptyThemes": "Nav kanālu ar saglabātu motīvu",
+    "Item1": "Mainiet jebkura kanāla fonu vai teksta krāsas. Šie krāsu atlasītāji tiks palielināti.",
+    "Item2": "Izmantojot krāsu atlasītāju paletes labajā pusē, varat izvēlēties jebkurus toņus no jebkuras vietas.",
+    "Item3": "Lai gan ievadītie kanālu nosaukumi tiek ielādēti automātiski, varat arī manuāli ierakstīt un pievienot dažādus kanālus.",
+    "Item4": "Jūs varat izvēlēties kanālu no saglabāto motīvu sadaļas un mainīt krāsu paleti vai to izdzēst.",
+    "Item5": "Kamēr ir ieslēgts globālā motīva iestatījums, varat iestatīt kopīgu motīvu neatkarīgi no kanāliem un lapām un padarīt to derīgu visās lapās, kurās nav iestatīts pielāgots motīvs."
+  },
+  "ChannelHider": {
+    "HideChannel": "Slēpt kanālu",
+    "HiddenChannelPrefix": "Slēptais kanāls: "
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | Straumes priekšskatījums"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "Noņemt izcēlumu",
+    "Highlight": "Izcelt ziņojumus"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "Rādīt Satura skatītājā"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | Emocijzīmju priekšskatījums"
+  },
+  "FavoriteUser": {
+    "Remove": "Noņemt no izlases",
+    "Add": "Pievienot izlasei"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | Satura skatītājs",
+    "GoToLink": "Doties uz saiti",
+    "Resize": "Mainīt izmēru"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "Klipu nevarēja ielādēt",
+    "VideoLoadError": "Video nevarēja ielādēt",
+    "Publisher": "Izdevējs:",
+    "Creator": "Radītājs:",
+    "Views": "Skatījumi",
+    "TimeAgo": {
+      "Seconds": "pirms {{count}} sekundēm",
+      "Minutes": "pirms {{count}} minūtēm",
+      "Hours": "pirms {{count}} stundām",
+      "Days": "pirms {{count}} dienām",
+      "Months": "pirms {{count}} mēnešiem",
+      "Years": "pirms {{count}} gadiem"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "Video nevarēja ielādēt",
+    "DefaultTitle": "Straumes atkārtojums",
+    "Publisher": "Izdevējs:"
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "cilvēki skatās",
+    "Participation": "% Dalība",
+    "ActiveChatters": "Vid. aktīvi tērzēšanā",
+    "TooltipLine1": "Šīs vērtības tiek matemātiski aprēķinātas, pamatojoties uz pašreizējo skatītāju skaitu.",
+    "TooltipLine2": "No šī brīža katrā kanāla pārslēgšanā statistika tiek pārvērtēta."
+  },
+  "ModPanel": {
+    "Title": "KT with dp | Moderēšana",
+    "Cross": "Cross",
+    "ReasonPlaceholder": "Ievadiet bloķēšanas iemeslu. (Pēc izvēles)",
+    "CrossReasonNote": "Cross ban informācija tiks automātiski pievienota iemeslam.",
+    "RemoveBan": "Atbloķēt",
+    "Ban": "Bloķēt",
+    "Timeout": "Timeout",
+    "StatusReady": "Gatavs",
+    "Scanning": "Skenē: {{channel}}",
+    "Applying": "Piemēro: {{channel}}",
+    "Complete": "✓ Pabeigts {{success}} kanālos",
+    "DurationWeek": "1 nedēļa",
+    "DurationDays": "{{d}} dienas",
+    "DurationHours": "{{h}} stundas",
+    "DurationMinutes": "{{m}} minūtes",
+    "TimeoutFormat": "Timeout ({{duration}})",
+    "ExpiresAt": "Beidzas: {{date}} {{time}}",
+    "Quick5M": "5 minūtes",
+    "Quick1H": "1 stunda",
+    "Quick1D": "1 diena",
+    "Quick1W": "1 nedēļa",
+    "MaxDuration": "Maks. ilgums",
+    "UnitMinute": "Minūte",
+    "UnitHour": "Stunda",
+    "UnitDay": "Diena",
+    "UnitWeek": "Nedēļa",
+    "Set": "Iestatīt",
+    "PermanentBanned": "Neatgriezeniski bloķēts",
+    "TimedOut": "Saņēma timeout",
+    "By": "no",
+    "Indefinite": "Nenoteikts",
+    "Expires": "Beidzas:",
+    "NoReason": "Iemesls nav norādīts.",
+    "ThisChannel": "Šis kanāls",
+    "YourChannel": "Jūsu kanāls",
+    "SwitchToOriginal": "Pārslēgties uz sākotnējo moderēšanu",
+    "SwitchToAdvanced": "Pārslēgties uz paplašināto moderēšanu",
+    "Starting": "Sāk...",
+    "Tooltips": {
+      "TargetMod": "Mērķa lietotājs ir moderators šajā kanālā, tāpēc darbība netiks piemērota. Jūs varat izmantot tikai cross ban.",
+      "StreamerModeMod": "Straumētāja režīms ir aktīvs. Mērķa lietotājs ir moderators šajā kanālā, tāpēc darbība šeit netiks piemērota. Darbība tiks piemērota tikai jūsu kanālā (vai citos, ja ir ieslēgts cross ban).",
+      "StreamerModeActive": "Straumētāja režīms ir aktīvs.",
+      "StreamerModeBoth": "Straumētāja režīms ir aktīvs. Darbība tiks piemērota gan šajā kanālā, gan jūsu kanālā.",
+      "StreamerModeOnlyYours": "Straumētāja režīms ir aktīvs. Tā kā neesat moderators šajā kanālā, darbība tiks piemērota, pamatojoties uz jūsu kanālu."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Nevarēja iegūt kanāla informāciju.",
+      "NoMessageHistory": "Šim lietotājam nav ziņojumu vēstures.",
+      "HistoryFetchError": "Nevarēja iegūt vēsturi."
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | Moderēšanas žurnāli",
+    "EmptyAudit": "Netika atrastas moderatora darbības.",
+    "EmptyMessages": "Netika atrasti izdzēsti ziņojumi.",
+    "EmptyClear": "Netika atrasta tērzēšanas tīrīšana.",
+    "EmptyTimeouts": "Netika atrasti aktīvi timeouti.",
+    "AuditLogTitle": "Audita žurnāls",
+    "MessageLogTitle": "Ziņojumu žurnāls",
+    "ClearLogTitle": "Tērzēšanas tīrīšanas reizes",
+    "TimeoutsTitle": "Timeouti",
+    "TooltipAudit": "Audita žurnāls",
+    "TooltipTimeouts": "Timeouti",
+    "TooltipMessages": "Ziņojumu žurnāls",
+    "TooltipClear": "Tīrīt",
+    "ChatCleared": "Tērzēšana iztīrīta.",
+    "TimedOutWithDuration": "Timeout ({{duration}})",
+    "ExpiresAt": "Beidzas: {{date}}",
+    "DurationWeek": "1 nedēļa",
+    "DurationDays": "{{d}} dienas",
+    "DurationHours": "{{h}} stundas",
+    "DurationMinutes": "{{m}} minūtes",
+    "Unknown": "Nezināms",
+    "DeletedType": "Izdzēsts",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1> bloķēja <3>{{target}}</3>",
+      "Timeout": "<1>{{mod}}</1> piešķīra timeout <3>{{target}}</3> uz {{duration}}",
+      "Unban": "<1>{{mod}}</1> atbloķēja <3>{{target}}</3>",
+      "Untimeout": "<1>{{mod}}</1> noņēma timeout <3>{{target}}</3>"
+    },
+    "Violations": {
+      "Gibberish": "[Bezjēdzīgi vai nesaprotami ziņojumi]",
+      "Spam": "[Seksuāls saturs]",
+      "Violence": "[Naida runa]",
+      "Bullying": "[Vardarbība]",
+      "SelfHarm": "[Iebiedēšana]",
+      "Drugs": "[Narkotikas]",
+      "Weapons": "[Ieroči]",
+      "Hate": "[Naida runa]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | Raid atcelšana aktīva"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp Iestatījumi"
+  },
+  "SettingsModal": {
+    "New": "Jauns"
+  },
+  "StorageManager": {
+    "Import": "Importēt",
+    "Export": "Eksportēt"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp Atjauninājumu piezīmes",
+    "Version": "Versija: {{version}}",
+    "GotIt": "Sapratu"
+  },
+  "UserDetailCard": {
+    "Copy": "Kopēt",
+    "Copied": "Nokopēts",
+    "Notes": "Piezīmes",
+    "TechDetails": "Tehniskā informācija",
+    "Socials": "Sociālie tīkli",
+    "Messages": "Ziņojumi",
+    "Moderation": "Moderēšana",
+    "Followers": "Sekotāji",
+    "Badges": "Nozīmītes",
+    "NoSocials": "Nav sociālo tīklu.",
+    "ToggleBio": "Pārslēgt biogrāfiju",
+    "Following": "Seko",
+    "Joined": "Pievienošanās datums",
+    "Streak": "Sērija",
+    "Unfollow": "Nesekot",
+    "Follow": "Sekot",
+    "RemoveFromFavorites": "Noņemt no izlases",
+    "AddToFavorites": "Pievienot izlasei",
+    "Unhighlight": "Noņemt izcēlumu",
+    "Highlight": "Izcelt ziņojumus",
+    "ChannelId": "Kanāla ID",
+    "UserId": "Lietotāja ID",
+    "ChatId": "Tērzēšanas ID",
+    "Replies": "Atbildes",
+    "NoReplies": "Nav atbilžu datu.",
+    "ModerationLogs": "Moderēšanas žurnāli",
+    "NoModerationData": "Nav moderēšanas datu.",
+    "ModerationActions": "Moderēšanas darbības",
+    "Timeout": "Timeout",
+    "MaxDuration": "Maks. ilgums",
+    "UnitMinute": "Minūte",
+    "UnitHour": "Stunda",
+    "UnitDay": "Diena",
+    "UnitWeek": "Nedēļa",
+    "Set": "Iestatīt",
+    "Ban": "Bloķēt",
+    "CrossBan": "Cross (Visur, kur esat mod)",
+    "Quick5M": "5 minūtes",
+    "Quick1H": "1 stunda",
+    "Quick1D": "1 diena",
+    "Quick1W": "1 nedēļa",
+    "DurationWeek": "1 nedēļa",
+    "DurationDays": "{{d}} dienas",
+    "DurationHours": "{{h}} stundas",
+    "DurationMinutes": "{{m}} minūtes",
+    "TimedOutFormat": "Timeout ({{duration}})",
+    "ExpiresAt": "Beidzas: {{date}}",
+    "PermanentBanned": "Neatgriezeniski bloķēts",
+    "Deleted": "Izdzēsts",
+    "ProgressScanning": "Skenē...",
+    "ProgressApplying": "Apstrādā kanālam {{channel}}...",
+    "ProgressDone": "Veiksmīgi {{action}} {{success}} no kopumā {{total}} kanāliem.",
+    "ActionBanned": "bloķēts",
+    "ActionUnbanned": "atbloķēts",
+    "LogBanned": "Bloķēja <1>{{mod}}</1>.",
+    "LogUnbanned": "Atbloķēja <1>{{mod}}</1>.",
+    "LogUntimeout": "Timeout noņēma <1>{{mod}}</1>.",
+    "Unknown": "Nezināms",
+    "DeletedType": "Izdzēsts",
+    "ProgressStarting": "Sāk...",
+    "Violations": {
+      "Gibberish": "[Bezjēdzīgi vai nesaprotami ziņojumi]",
+      "Spam": "[Seksuāls saturs]",
+      "Violence": "[Naida runa]",
+      "Bullying": "[Vardarbība]",
+      "SelfHarm": "[Iebiedēšana]",
+      "Drugs": "[Narkotikas]",
+      "Weapons": "[Ieroči]",
+      "Hate": "[Naida runa]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Nevarēja iegūt kanāla informāciju.",
+      "NoMessageHistory": "Šim lietotājam nav ziņojumu vēstures.",
+      "HistoryFetchError": "Nevarēja iegūt vēsturi."
+    }
+  },
+  "UserNoteCard": {
+    "Title": "Jūsu piezīmes par {{username}}",
+    "Placeholder": "Rakstiet savas piezīmes šeit",
+    "Save": "Saglabāt piezīmes",
+    "Delete": "Dzēst piezīmi"
+  },
+  "Background": {
+    "MentionTitle": "Jūs tikāt atzīmēts Kick!",
+    "MentionMessage": "{{sender}} atzīmēja jūs kanālā {{channel}}: \"{{content}}\"",
+    "ReplyTitle": "Uz jūsu ziņojumu tika atbildēts Kick!",
+    "ReplyMessage": "{{sender}} atbildēja jums kanālā {{channel}}: \"{{content}}\"",
+    "LiveTitle": "{{channel}} ir tiešraidē!",
+    "KeywordTitle": "Vārdu detektora atbilstība",
+    "KeywordMessage": "{{sender}} kanālā {{channel}}: {{content}}",
+    "BadgeTitle": "KT with dp | Straumes audio",
+    "BadgeSubtitle": "Straumes audio izslēgts",
+    "BadgeButton": "Ieslēgt skaņu"
+  }
+}

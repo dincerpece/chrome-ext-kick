@@ -1,0 +1,457 @@
+{
+  "Header": {
+    "UpdateNotes": "更新說明",
+    "UpdateHistory": "更新歷史",
+    "CurrentVersion": "目前版本："
+  },
+  "Main": {
+    "NewBadge": "新"
+  },
+  "Footer": {
+    "Developer": "開發者：",
+    "Version": "版本："
+  },
+  "ModulInfo": {
+    "Title": "系統資訊",
+    "Desc": "模組資訊",
+    "CountPrefix": "目前，共有 ",
+    "CountSuffix": " 個模組正在活躍運行。",
+    "Reset": "重置排序",
+    "SettingsTitle": "設定",
+    "SettingsDesc": "將擴充功能資料備份或還原到您的電腦。"
+  },
+  "ModerationInfo": {
+    "Title": "頻道管理",
+    "Item1": "管理工具可在您擔任管理員的頻道或您自己的頻道中運作。",
+    "Item2": "當在其他頻道開啟跨頻道封禁和禁言設定時，您自己的頻道中僅開啟跨頻道封禁設定。",
+    "Item3": "使用跨頻道封禁時，您必須追蹤您管理的頻道。",
+    "Item4": "您不能對您自己頻道上的管理員進行封禁或禁言，但如果他們在您追蹤和管理的其他頻道不是管理員，您可以對他們應用跨頻道封禁。",
+    "Item5": "禁言時間不得超過 1 週。"
+  },
+  "StreamerModeSettings": {
+    "Title": "實況主模式",
+    "AdvancedMode": "進階管理模式",
+    "Item1": "如果實況主模式處於開啟狀態，您可以在某些視窗中看到自己的聊天訊息或對自己的頻道執行操作。",
+    "Item2": "進階管理模式將在使用者資料中啟動一個進階管理面板，以取代 Kick 的預設面板，提供跨頻道封禁、自訂禁言時間以及詳細的聊天記錄。"
+  },
+  "LiveNotificationSettings": {
+    "Title": "直播通知設定",
+    "SoundNotification": "聲音通知",
+    "VisualNotification": "視覺通知",
+    "Item1": "您將收到所追蹤頻道的直播通知。",
+    "Item2": "您可以選擇接收聲音或視覺通知。",
+    "Item3": "您必須登入才能使用此功能。"
+  },
+  "TagNotificationSettings": {
+    "Title": "@提及通知設定",
+    "SoundNotification": "聲音通知",
+    "VisualNotification": "視覺通知",
+    "Item1": "當您在任何客戶端被@提及，您都將收到通知。",
+    "Item2": "您可以選擇接收聲音或視覺通知。",
+    "Item3": "雖然訊息內容在視覺通知中可見，但稍後可以部分閱讀（在您的作業系統允許的範圍內）。"
+  },
+  "ReplyNotificationSettings": {
+    "Title": "回覆通知設定",
+    "SoundNotification": "聲音通知",
+    "VisualNotification": "視覺通知",
+    "Item1": "當有人在聊天中回覆您的訊息時，您將收到通知。",
+    "Item2": "您可以選擇接收聲音或視覺通知。",
+    "Item3": "雖然訊息內容在視覺通知中可見，但稍後可以部分閱讀（在作業系統允許的範圍內）。"
+  },
+  "AutoStreamOpenerSettings": {
+    "Title": "自動直播分頁",
+    "Opener": "自動直播開啟器",
+    "Sound": "直播音訊",
+    "Item1": "如果關閉了直播音訊設定，則在每次分頁聚焦或開啟新分頁時都會重新套用該設定。",
+    "Item2": "為防止背景突然出現聲音，直播開始時會靜音。您可以直接在 Kick 播放器的右上角取消靜音。",
+    "Item3": "必須開啟您追蹤的實況主的直播通知。",
+    "Item4": "如果直播已在您的某個分頁中開啟，它將獲得焦點，否則它將在新分頁中開啟。",
+    "Item5": "當您追蹤的實況主開始直播時，直播將自動在新分頁中開啟。"
+  },
+  "SidebarChannelBackgroundSettings": {
+    "Title": "側邊欄頻道背景",
+    "Status": "頻道背景狀態",
+    "Item1": "將左側選單中已追蹤或推薦頻道的個人資料照片新增為背景。",
+    "Item2": "透過對背景影像套用模糊效果（blur）來提供更美觀的外觀。"
+  },
+  "AdBlockerSettings": {
+    "Title": "廣告攔截器",
+    "BlockAds": "攔截廣告",
+    "Item1": "自動攔截 Kick 上的直播和 VOD 廣告。",
+    "Item2": "透過在網路層級跳過廣告片段而不中斷影片流，提供不間斷的觀看體驗。",
+    "Item3": "更改設定後，目前的直播頁面將自動重新整理，以使設定完全生效或停用。"
+  },
+  "StreamPreviewSettings": {
+    "Title": "直播預覽",
+    "PreviewWindow": "預覽視窗",
+    "PlayerSize": "播放器大小",
+    "Item1": "從 3 種不同的影片播放器大小中選擇用於直播預覽。",
+    "Item2": "播放器大小預設設定為 sm。",
+    "Item3": "當您將滑鼠懸停在頻道上時，允許您在迷你彈出視窗中預覽直播。"
+  },
+  "KeywordDetectorSettings": {
+    "Title": "關鍵字偵測器",
+    "Status": "關鍵字偵測器狀態",
+    "SoundNotification": "聲音通知",
+    "VisualNotification": "視覺通知",
+    "HighlightColor": "反白顏色",
+    "ResetColorTitle": "恢復預設顏色",
+    "Keywords": "關鍵字",
+    "InputPlaceholder": "新增關鍵字（例如：giveaway）",
+    "AddButton": "新增",
+    "EmptyList": "清單中沒有關鍵字",
+    "Item1": "必須開啟關鍵字偵測器狀態才能使所有功能正常運作。",
+    "Item2": "如果您新增的任何關鍵字出現在聊天訊息中，該訊息將以特殊的動畫反白顯示。",
+    "Item3": "您可以根據需要自訂關鍵字反白顏色，並使用垃圾桶按鈕返回預設顏色。",
+    "Item4": "訊息標有閃爍的邊框，以便您更容易注意到它們。",
+    "Item5": "關鍵字搜尋區分大小寫。它將與您新增的方式完全符合。",
+    "Item6": "您可以從相關設定中啟用或停用系統（桌面）通知和聲音警告。"
+  },
+  "ModLogsSettings": {
+    "Title": "管理日誌",
+    "BarStatus": "管理日誌列",
+    "Item1": "在聊天頂部顯示快速存取按鈕，例如審核日誌、訊息歷史記錄、清除聊天和禁言。"
+  },
+  "RaidBlockerSettings": {
+    "Title": "揪團（Raid）取消",
+    "Status": "揪團取消狀態",
+    "FollowOnly": "不要前往我未追蹤的頻道",
+    "BlacklistTitle": "黑名單（不要前往的頻道）",
+    "InputPlaceholder": "新增頻道名稱（例如：hype）",
+    "AddButton": "新增",
+    "EmptyList": "黑名單上沒有頻道",
+    "Item1": "必須開啟揪團取消狀態，所有功能才能生效。",
+    "Item2": "新增當頻道進行揪團時您不想前往的頻道。",
+    "Item3": "如果您已登入，前往您未追蹤頻道的揪團將被取消。此設定預設開啟。",
+    "Item4": "系統會在 3 秒內自動取消揪團。"
+  },
+  "EmbedPreviewSettings": {
+    "Title": "內容檢視器",
+    "Status": "內容檢視器狀態",
+    "WindowSize": "視窗大小",
+    "Item1": "直接在頁面上檢視聊天中分享的 X（twitter）、youtube、kick 和 instagram 連結。",
+    "Item2": "點擊按鈕時，它會在左上角開啟一個獨立的、可拖曳的視窗來顯示內容。",
+    "Item3": "從 3 種不同的視窗大小中選擇以預覽內容。",
+    "Item4": "視窗大小預設設定為 sm。",
+    "Item5": "您可以將右下角開啟的視窗大小擴大到頁面的 80%。"
+  },
+  "RoleHighlightsSettings": {
+    "Title": "角色反白",
+    "Status": "角色反白狀態",
+    "Item1": "在聊天中反白顯示管理員、vip 和 og 使用者的訊息。",
+    "Item2": "管理員套用淺藍色反白，og 套用青綠色，vip 使用者套用黃色。",
+    "Item3": "如果使用者具有多個角色，優先級設定為：管理員 > og > vip。"
+  },
+  "ChannelHiderSettings": {
+    "Title": "頻道隱藏器",
+    "Status": "頻道隱藏狀態",
+    "BlacklistTitle": "黑名單（要隱藏的頻道）",
+    "InputPlaceholder": "新增頻道名稱（例如：hype）",
+    "AddButton": "新增",
+    "EmptyList": "黑名單上沒有頻道",
+    "Item1": "必須開啟頻道隱藏狀態才能使所有功能正常運作。",
+    "Item2": "要隱藏頻道，只需點擊推薦頻道或首頁上播放的直播中的 ⊘ blocked 按鈕。",
+    "Item3": "您可以從擴充功能視窗中的「頻道隱藏器」選單中尋找並移除您已隱藏的頻道。",
+    "Item4": "將您不想看到的頻道新增到左側的推薦頻道清單和首頁上自動播放的推薦頻道中。",
+    "Item5": "您新增的頻道將不會顯示在首頁的推薦直播區塊。"
+  },
+  "ViewerCountSettings": {
+    "Title": "觀眾人數",
+    "Status": "顯示隱藏的觀眾人數",
+    "Item1": "允許您在觀看時看到廣播頻道的隱藏觀眾人數。"
+  },
+  "EmotePreviewSettings": {
+    "Title": "表情符號預覽",
+    "PreviewWindow": "表情符號預覽視窗",
+    "WindowSize": "視窗大小",
+    "Item1": "從 3 種不同的視窗大小中選擇進行表情符號預覽。",
+    "Item2": "視窗大小預設設定為 sm。",
+    "Item3": "當您將滑鼠懸停在聊天中的表情符號上時，允許您在迷你彈出視窗中看到表情符號的放大版本和詳細資訊。"
+  },
+  "ChannelThemeSettings": {
+    "Title": "設定頻道主題",
+    "GlobalTheme": "套用全域主題",
+    "ChannelPlaceholder": "頻道名稱（例如：hype）",
+    "GlobalChannelLabel": "所有頻道（全域主題）",
+    "SuggestedThemesTitle": "套用現成背景",
+    "Bg1": "背景 1",
+    "Bg2": "背景 2",
+    "Bg3": "背景 3",
+    "Bg4": "背景 4",
+    "Bg5": "背景 5",
+    "Color1": "顏色 1",
+    "Color2": "顏色 2",
+    "Color3": "顏色 3",
+    "Color4": "顏色 4",
+    "Color5": "顏色 5",
+    "Color6": "顏色 6",
+    "Color7": "顏色 7",
+    "Color8": "顏色 8",
+    "SaveButton": "儲存",
+    "SavedThemesTitle": "已儲存的主題",
+    "EmptyThemes": "沒有已儲存主題的頻道",
+    "Item1": "更改任何頻道的背景或文字顏色。這些顏色選擇器將會增加。",
+    "Item2": "使用調色盤右側的顏色選擇器，您可以從任何地方選擇任何色調。",
+    "Item3": "雖然輸入的頻道名稱是自動取得的，但您也可以手動輸入並新增不同的頻道。",
+    "Item4": "您可以從已儲存主題區塊選擇頻道，並更改調色盤或將其刪除。",
+    "Item5": "在開啟全域主題設定時，您可以設定一個獨立於頻道和頁面的通用主題，並使其在未設定自訂主題的所有頁面上生效。"
+  },
+  "ChannelHider": {
+    "HideChannel": "隱藏頻道",
+    "HiddenChannelPrefix": "已隱藏頻道："
+  },
+  "ChannelHoverPlayer": {
+    "PreviewTitle": "KT with dp | 直播預覽"
+  },
+  "ChatMessageHighlighter": {
+    "Unhighlight": "取消反白",
+    "Highlight": "反白訊息"
+  },
+  "EmbedPreview": {
+    "ShowInViewer": "在內容檢視器中顯示"
+  },
+  "EmotePreview": {
+    "PreviewTitle": "KT with dp | 表情符號預覽"
+  },
+  "FavoriteUser": {
+    "Remove": "從收藏中移除",
+    "Add": "新增到收藏"
+  },
+  "FloatingEmbedPlayer": {
+    "Title": "KT with dp | 內容檢視器",
+    "GoToLink": "前往連結",
+    "Resize": "調整大小"
+  },
+  "KickClipPlayer": {
+    "ClipLoadError": "剪輯載入失敗",
+    "VideoLoadError": "影片載入失敗",
+    "Publisher": "發布者：",
+    "Creator": "建立者：",
+    "Views": "觀看次數",
+    "TimeAgo": {
+      "Seconds": "{{count}} 秒前",
+      "Minutes": "{{count}} 分鐘前",
+      "Hours": "{{count}} 小時前",
+      "Days": "{{count}} 天前",
+      "Months": "{{count}} 個月前",
+      "Years": "{{count}} 年前"
+    }
+  },
+  "KickVodPlayer": {
+    "VideoLoadError": "影片載入失敗",
+    "DefaultTitle": "直播重播",
+    "Publisher": "發布者："
+  },
+  "LiveViewerCountTracker": {
+    "Watching": "人正在觀看",
+    "Participation": "% 參與率",
+    "ActiveChatters": "平均活躍聊天人數",
+    "TooltipLine1": "這些值是基於目前觀眾人數進行數學計算得出的。",
+    "TooltipLine2": "統計數據將在每次切換頻道時從該時刻起重新評估。"
+  },
+  "ModPanel": {
+    "Title": "KT with dp | 管理面板",
+    "Cross": "跨頻道",
+    "ReasonPlaceholder": "輸入封禁原因（選填）",
+    "CrossReasonNote": "跨頻道封禁資訊將自動新增至原因中。",
+    "RemoveBan": "解封",
+    "Ban": "封禁",
+    "Timeout": "禁言",
+    "StatusReady": "就緒",
+    "Scanning": "正在掃描：{{channel}}",
+    "Applying": "正在套用：{{channel}}",
+    "Complete": "✓ 已在 {{success}} 個頻道完成",
+    "DurationWeek": "1 週",
+    "DurationDays": "{{d}} 天",
+    "DurationHours": "{{h}} 小時",
+    "DurationMinutes": "{{m}} 分鐘",
+    "TimeoutFormat": "被禁言 ({{duration}})",
+    "ExpiresAt": "到期時間：{{date}} {{time}}",
+    "Quick5M": "5 分鐘",
+    "Quick1H": "1 小時",
+    "Quick1D": "1 天",
+    "Quick1W": "1 週",
+    "MaxDuration": "最長時長",
+    "UnitMinute": "分鐘",
+    "UnitHour": "小時",
+    "UnitDay": "天",
+    "UnitWeek": "週",
+    "Set": "設定",
+    "PermanentBanned": "已永久封禁",
+    "TimedOut": "已禁言",
+    "By": "操作者：",
+    "Indefinite": "無期限",
+    "Expires": "到期時間：",
+    "NoReason": "未提供原因。",
+    "ThisChannel": "本頻道",
+    "YourChannel": "您自己的頻道",
+    "SwitchToOriginal": "切換到原始管理",
+    "SwitchToAdvanced": "切換到進階管理",
+    "Starting": "正在啟動...",
+    "Tooltips": {
+      "TargetMod": "目標使用者是本頻道的管理員，因此操作不會被套用。您只能使用跨頻道封禁。",
+      "StreamerModeMod": "實況主模式處於開啟狀態。目標使用者是本頻道的管理員，因此操作不會在此處套用。該操作將僅套用於您自己的頻道（如果開啟了跨頻道封禁，則包含其他頻道）。",
+      "StreamerModeActive": "實況主模式處於開啟狀態。",
+      "StreamerModeBoth": "實況主模式處於開啟狀態。該操作將套用於此頻道和您自己的頻道。",
+      "StreamerModeOnlyYours": "實況主模式處於開啟狀態。由於您不是本頻道的管理員，該操作將基於您自己的頻道套用。"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "無法取得頻道資訊。",
+      "NoMessageHistory": "該使用者沒有訊息記錄。",
+      "HistoryFetchError": "無法取得歷史記錄。"
+    }
+  },
+  "ModViewPanel": {
+    "Title": "KT with dp | 管理日誌",
+    "EmptyAudit": "未找到管理員操作。",
+    "EmptyMessages": "未找到刪除的訊息。",
+    "EmptyClear": "未找到清除聊天的記錄。",
+    "EmptyTimeouts": "未找到活躍的禁言。",
+    "AuditLogTitle": "審核日誌",
+    "MessageLogTitle": "訊息日誌",
+    "ClearLogTitle": "清除聊天",
+    "TimeoutsTitle": "禁言",
+    "TooltipAudit": "審核日誌",
+    "TooltipTimeouts": "禁言",
+    "TooltipMessages": "訊息日誌",
+    "TooltipClear": "清除",
+    "ChatCleared": "聊天已清除。",
+    "TimedOutWithDuration": "被禁言 ({{duration}})",
+    "ExpiresAt": "到期：{{date}}",
+    "DurationWeek": "1 週",
+    "DurationDays": "{{d}} 天",
+    "DurationHours": "{{h}} 小時",
+    "DurationMinutes": "{{m}} 分鐘",
+    "Unknown": "未知",
+    "DeletedType": "已刪除",
+    "AuditLogText": {
+      "Ban": "<1>{{mod}}</1> 封禁了 <3>{{target}}</3>",
+      "Timeout": "<1>{{mod}}</1> 將 <3>{{target}}</3> 禁言了 {{duration}}",
+      "Unban": "<1>{{mod}}</1> 解封了 <3>{{target}}</3>",
+      "Untimeout": "<1>{{mod}}</1> 解除了 <3>{{target}}</3> 的禁言"
+    },
+    "Violations": {
+      "Gibberish": "[無意義或無法理解的訊息]",
+      "Spam": "[色情內容]",
+      "Violence": "[仇恨言論]",
+      "Bullying": "[暴力]",
+      "SelfHarm": "[霸凌]",
+      "Drugs": "[毒品]",
+      "Weapons": "[武器]",
+      "Hate": "[仇恨言論]"
+    }
+  },
+  "RaidBlocker": {
+    "RaidCancelActive": "KT with dp | 揪團取消功能已啟動"
+  },
+  "SettingsTriggerButton": {
+    "SettingsAriaLabel": "KT with dp 設定"
+  },
+  "SettingsModal": {
+    "New": "新"
+  },
+  "StorageManager": {
+    "Import": "匯入",
+    "Export": "匯出"
+  },
+  "UpdateNotifier": {
+    "Title": "KT with dp 更新說明",
+    "Version": "版本：{{version}}",
+    "GotIt": "知道了"
+  },
+  "UserDetailCard": {
+    "Copy": "複製",
+    "Copied": "已複製",
+    "Notes": "備註",
+    "TechDetails": "技術細節",
+    "Socials": "社交網路",
+    "Messages": "訊息",
+    "Moderation": "管理面板",
+    "Followers": "粉絲",
+    "Badges": "徽章",
+    "NoSocials": "沒有社交網路資訊。",
+    "ToggleBio": "切換簡介顯示",
+    "Following": "追蹤中",
+    "Joined": "加入日期",
+    "Streak": "連續天數",
+    "Unfollow": "取消追蹤",
+    "Follow": "追蹤",
+    "RemoveFromFavorites": "從收藏中移除",
+    "AddToFavorites": "新增到收藏",
+    "Unhighlight": "取消反白",
+    "Highlight": "反白訊息",
+    "ChannelId": "頻道 ID",
+    "UserId": "使用者 ID",
+    "ChatId": "聊天 ID",
+    "Replies": "回覆",
+    "NoReplies": "沒有回覆資料。",
+    "ModerationLogs": "管理日誌",
+    "NoModerationData": "沒有管理資料。",
+    "ModerationActions": "管理操作",
+    "Timeout": "禁言",
+    "MaxDuration": "最長時長",
+    "UnitMinute": "分鐘",
+    "UnitHour": "小時",
+    "UnitDay": "天",
+    "UnitWeek": "週",
+    "Set": "設定",
+    "Ban": "封禁",
+    "CrossBan": "跨頻道 (所有您擔任管理員的地方)",
+    "Quick5M": "5 分鐘",
+    "Quick1H": "1 小時",
+    "Quick1D": "1 天",
+    "Quick1W": "1 週",
+    "DurationWeek": "1 週",
+    "DurationDays": "{{d}} 天",
+    "DurationHours": "{{h}} 小時",
+    "DurationMinutes": "{{m}} 分鐘",
+    "TimedOutFormat": "被禁言 ({{duration}})",
+    "ExpiresAt": "到期時間：{{date}}",
+    "PermanentBanned": "已永久封禁",
+    "Deleted": "已刪除",
+    "ProgressScanning": "正在掃描...",
+    "ProgressApplying": "正在為頻道 {{channel}} 處理...",
+    "ProgressDone": "成功對 {{total}} 個頻道中的 {{success}} 個執行了 {{action}}。",
+    "ActionBanned": "封禁",
+    "ActionUnbanned": "解封",
+    "LogBanned": "被 <1>{{mod}}</1> 封禁。",
+    "LogUnbanned": "被 <1>{{mod}}</1> 解封。",
+    "LogUntimeout": "禁言被 <1>{{mod}}</1> 解除。",
+    "Unknown": "未知",
+    "DeletedType": "已刪除",
+    "ProgressStarting": "正在啟動...",
+    "Violations": {
+      "Gibberish": "[無意義或無法理解的訊息]",
+      "Spam": "[色情內容]",
+      "Violence": "[仇恨言論]",
+      "Bullying": "[暴力]",
+      "SelfHarm": "[霸凌]",
+      "Drugs": "[毒品]",
+      "Weapons": "[武器]",
+      "Hate": "[仇恨言論]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "無法取得頻道資訊。",
+      "NoMessageHistory": "該使用者沒有訊息記錄。",
+      "HistoryFetchError": "無法取得歷史記錄。"
+    }
+  },
+  "UserNoteCard": {
+    "Title": "您對 {{username}} 的備註",
+    "Placeholder": "在這裡寫下您的備註",
+    "Save": "儲存備註",
+    "Delete": "刪除備註"
+  },
+  "Background": {
+    "MentionTitle": "您在 Kick 上被提及了！",
+    "MentionMessage": "{{sender}} 在 {{channel}} 提到了您：\"{{content}}\"",
+    "ReplyTitle": "您的訊息在 Kick 上得到了回覆！",
+    "ReplyMessage": "{{sender}} 在 {{channel}} 回覆了您：\"{{content}}\"",
+    "LiveTitle": "{{channel}} 正在直播！",
+    "KeywordTitle": "關鍵字偵測器符合",
+    "KeywordMessage": "{{sender}} 在 {{channel}}：{{content}}",
+    "BadgeTitle": "KT with dp | 直播音訊",
+    "BadgeSubtitle": "直播已靜音",
+    "BadgeButton": "取消靜音"
+  }
+}
