@@ -316,11 +316,23 @@
     "DurationDays": "{{d}} gün",
     "DurationHours": "{{h}} saat",
     "DurationMinutes": "{{m}} dakika",
+    "Unknown": "Bilinmiyor",
+    "DeletedType": "Silindi",
     "AuditLogText": {
       "Ban": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısını yasakladı",
       "Timeout": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısını {{duration}} süreyle uzaklaştırdı",
       "Unban": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısının yasağını kaldırdı",
       "Untimeout": "<1>{{mod}}</1>, <3>{{target}}</3> kullanıcısının uzaklaştırmasını kaldırdı"
+    },
+    "Violations": {
+      "Gibberish": "[Anlamsız veya anlaşılmaz mesajlar]",
+      "Spam": "[Cinsel içerik]",
+      "Violence": "[Nefret Söylemi]",
+      "Bullying": "[Şiddet]",
+      "SelfHarm": "[Zorbalık]",
+      "Drugs": "[Uyuşturucu]",
+      "Weapons": "[Silah]",
+      "Hate": "[Nefret Söylemi]"
     }
   },
   "RaidBlocker": {
@@ -393,7 +405,13 @@
     "Deleted": "Silindi",
     "ProgressScanning": "Taranıyor...",
     "ProgressApplying": "{{channel}} kanalı için işleniyor...",
-    "ProgressDone": "{{total}} kanaldan {{success}} başarıyla {{action}}."
+    "ProgressDone": "{{total}} kanaldan {{success}} başarıyla {{action}}.",
+    "Unknown": "Bilinmiyor",
+    "ActionBanned": "yasaklandı",
+    "ActionUnbanned": "yasağı kaldırıldı",
+    "LogBanned": "<1>{{mod}}</1> tarafından yasaklandı.",
+    "LogUnbanned": "<1>{{mod}}</1> tarafından yasağı kaldırıldı.",
+    "LogUntimeout": "<1>{{mod}}</1> tarafından uzaklaştırması kaldırıldı."
   },
   "UserNoteCard": {
     "Title": "{{username}} Hakkında Notların",

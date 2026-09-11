@@ -316,11 +316,23 @@
     "DurationDays": "{{d}} days",
     "DurationHours": "{{h}} hours",
     "DurationMinutes": "{{m}} minutes",
+    "Unknown": "Unknown",
+    "DeletedType": "Deleted",
     "AuditLogText": {
       "Ban": "<1>{{mod}}</1> banned <3>{{target}}</3>",
       "Timeout": "<1>{{mod}}</1> timed out <3>{{target}}</3> for {{duration}}",
       "Unban": "<1>{{mod}}</1> unbanned <3>{{target}}</3>",
       "Untimeout": "<1>{{mod}}</1> removed timeout for <3>{{target}}</3>"
+    },
+    "Violations": {
+      "Gibberish": "[Gibberish or incomprehensible]",
+      "Spam": "[Sexual content]",
+      "Violence": "[Hate Speech]",
+      "Bullying": "[Violence]",
+      "SelfHarm": "[Bullying]",
+      "Drugs": "[Drugs]",
+      "Weapons": "[Weapons]",
+      "Hate": "[Hate Speech]"
     }
   },
   "RaidBlocker": {
@@ -393,7 +405,13 @@
     "Deleted": "Deleted",
     "ProgressScanning": "Scanning...",
     "ProgressApplying": "Processing channel {{channel}}...",
-    "ProgressDone": "{{success}} of {{total}} channels successfully {{action}}."
+    "ProgressDone": "{{success}} of {{total}} channels successfully {{action}}.",
+    "Unknown": "Unknown",
+    "ActionBanned": "banned",
+    "ActionUnbanned": "unbanned",
+    "LogBanned": "Banned by <1>{{mod}}</1>.",
+    "LogUnbanned": "Unbanned by <1>{{mod}}</1>.",
+    "LogUntimeout": "Timeout removed by <1>{{mod}}</1>."
   },
   "UserNoteCard": {
     "Title": "Notes about {{username}}",
