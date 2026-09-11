@@ -294,6 +294,11 @@
       "StreamerModeActive": "Streamer mode is active.",
       "StreamerModeBoth": "Streamer mode is active. Action will be applied both in this channel and your own channel.",
       "StreamerModeOnlyYours": "Streamer mode is active. Since you are not a moderator in this channel, action will be applied based on your own channel."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Could not retrieve channel info.",
+      "NoMessageHistory": "This user has no message history.",
+      "HistoryFetchError": "Could not fetch message history."
     }
   },
   "ModViewPanel": {
@@ -436,11 +441,6 @@
     "Placeholder": "Write your notes here",
     "Save": "Save Notes",
     "Delete": "Delete Note"
-  },
-  "Api": {
-    "ChannelInfoError": "Could not retrieve channel info.",
-    "NoMessageHistory": "This user has no message history.",
-    "HistoryFetchError": "Could not fetch message history."
   },
   "Background": {
     "MentionTitle": "You were mentioned on Kick!",

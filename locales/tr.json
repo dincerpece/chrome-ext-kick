@@ -294,6 +294,11 @@
       "StreamerModeActive": "Yayıncı modu aktif.",
       "StreamerModeBoth": "Yayıncı modu aktif. İşlem hem bu kanalda hem de kendi kanalınızda uygulanacaktır.",
       "StreamerModeOnlyYours": "Yayıncı modu aktif. Bu kanalda yetkili olmadığınız için işlem kendi kanalınız baz alınarak uygulanacaktır."
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Kanal bilgisi alınamadı.",
+      "NoMessageHistory": "Bu kullanıcının mesaj geçmişi yok.",
+      "HistoryFetchError": "Geçmiş çekilemedi."
     }
   },
   "ModViewPanel": {
@@ -436,11 +441,6 @@
     "Placeholder": "Notlarınızı Buraya Yazın",
     "Save": "Notları Kaydet",
     "Delete": "Notu Sil"
-  },
-  "Api": {
-    "ChannelInfoError": "Kanal bilgisi alınamadı.",
-    "NoMessageHistory": "Bu kullanıcının mesaj geçmişi yok.",
-    "HistoryFetchError": "Geçmiş çekilemedi."
   },
   "Background": {
     "MentionTitle": "Kick'te Etiketlendiniz!",
