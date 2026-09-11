@@ -12,8 +12,8 @@
     "Version": "versie:"
   },
   "ModulInfo": {
-    "Title": "Systeeminformatie",
-    "Desc": "Modulepopupinformatie",
+    "Title": "Systeem informatie",
+    "Desc": "Module informatie",
     "CountPrefix": "Momenteel zijn in totaal ",
     "CountSuffix": " modules actief.",
     "Reset": "Volgorde resetten",
@@ -22,7 +22,7 @@
   },
   "ModerationInfo": {
     "Title": "Moderatie",
-    "Item1": "Moderatortools werken op kanalen waar je moderator bent of op je eigen kanaal.",
+    "Item1": "Moderator tools werken op kanalen waar je moderator bent of op je eigen kanaal.",
     "Item2": "Hoewel de cross ban en timeout instellingen op andere kanalen zijn ingeschakeld, is alleen de cross ban instelling ingeschakeld op je eigen kanaal.",
     "Item3": "Je moet de kanalen volgen die je modereert wanneer je cross ban gebruikt.",
     "Item4": "Je kunt geen gebruikers verbannen (bannen) of een timeout geven die moderator zijn op je eigen kanaal, maar je kunt wel een cross ban toepassen op andere kanalen die je volgt en modereert als ze daar geen moderator zijn.",
@@ -82,7 +82,7 @@
     "Item3": "Na het wijzigen van de instelling, zal de huidige streampagina automatisch vernieuwen om de instelling volledig van kracht te laten worden of te deactiveren."
   },
   "StreamPreviewSettings": {
-    "Title": "Streamvoorbeeld",
+    "Title": "Stream voor beeld",
     "PreviewWindow": "Voorbeeldvenster",
     "PlayerSize": "Grootte speler",
     "Item1": "Kies uit 3 verschillende videospelergroottes voor het streamvoorbeeld.",
@@ -90,8 +90,8 @@
     "Item3": "Hiermee kun je een voorbeeld van de stream bekijken in een mini popupvenster wanneer je met de muis over kanalen gaat."
   },
   "KeywordDetectorSettings": {
-    "Title": "Woorddetector",
-    "Status": "Woorddetector status",
+    "Title": "Woord detector",
+    "Status": "Woord detector status",
     "SoundNotification": "Geluidsmelding",
     "VisualNotification": "Visuele melding",
     "HighlightColor": "Markeringskleur",
