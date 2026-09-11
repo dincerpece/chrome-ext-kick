@@ -411,7 +411,18 @@
     "ActionUnbanned": "unbanned",
     "LogBanned": "Banned by <1>{{mod}}</1>.",
     "LogUnbanned": "Unbanned by <1>{{mod}}</1>.",
-    "LogUntimeout": "Timeout removed by <1>{{mod}}</1>."
+    "LogUntimeout": "Timeout removed by <1>{{mod}}</1>.",
+    "DeletedType": "Deleted",
+    "Violations": {
+      "Gibberish": "[Gibberish or incomprehensible]",
+      "Spam": "[Sexual content]",
+      "Violence": "[Hate Speech]",
+      "Bullying": "[Violence]",
+      "SelfHarm": "[Bullying]",
+      "Drugs": "[Drugs]",
+      "Weapons": "[Weapons]",
+      "Hate": "[Hate Speech]"
+    }
   },
   "UserNoteCard": {
     "Title": "Notes about {{username}}",

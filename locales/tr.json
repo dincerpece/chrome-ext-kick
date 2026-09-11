@@ -406,12 +406,24 @@
     "ProgressScanning": "Taranıyor...",
     "ProgressApplying": "{{channel}} kanalı için işleniyor...",
     "ProgressDone": "{{total}} kanaldan {{success}} başarıyla {{action}}.",
-    "Unknown": "Bilinmiyor",
     "ActionBanned": "yasaklandı",
     "ActionUnbanned": "yasağı kaldırıldı",
     "LogBanned": "<1>{{mod}}</1> tarafından yasaklandı.",
     "LogUnbanned": "<1>{{mod}}</1> tarafından yasağı kaldırıldı.",
-    "LogUntimeout": "<1>{{mod}}</1> tarafından uzaklaştırması kaldırıldı."
+    "LogUntimeout": "<1>{{mod}}</1> tarafından uzaklaştırması kaldırıldı.",
+    "Unknown": "Bilinmiyor",
+    "DeletedType": "Silindi",
+    "Violations": {
+      "Gibberish": "[Anlamsız veya anlaşılmaz mesajlar]",
+      "Spam": "[Cinsel içerik]",
+      "Violence": "[Nefret Söylemi]",
+      "Bullying": "[Şiddet]",
+      "SelfHarm": "[Zorbalık]",
+      "Drugs": "[Uyuşturucu]",
+      "Weapons": "[Silah]",
+      "Hate": "[Nefret Söylemi]"
+    }
+
   },
   "UserNoteCard": {
     "Title": "{{username}} Hakkında Notların",
