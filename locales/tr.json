@@ -243,11 +243,11 @@
     "Publisher": "Yayıncı:"
   },
   "LiveViewerCountTracker": {
-    "Watching": "watching",
-    "Participation": "% Participation",
-    "ActiveChatters": "Active Chatters",
-    "TooltipLine1": "These values are calculated mathematically based on the live viewer count.",
-    "TooltipLine2": "Statistics are re-evaluated from that moment on every channel switch."
+    "Watching": "kişi izliyor",
+    "Participation": "% Katılım",
+    "ActiveChatters": "Ort. Sohbete Katılanlar",
+    "TooltipLine1": "Bu değerler, anlık izleyici sayısına göre matematiksel olarak hesaplanmaktadır.",
+    "TooltipLine2": "İstatistikler, her kanal geçişinde o andan itibaren yeniden değerlendirilir."
   },
   "ModPanel": {
     "Title": "KT with dp | Moderasyon",
