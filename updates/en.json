@@ -1,7 +1,18 @@
 {
-  "currentVersion": "1.0.17",
+  "currentVersion": "1.0.18",
   "forceUpdate": false,
   "history": [
+    {
+      "version": "1.0.18",
+      "message": [
+        "Our application is now available in 38 different languages! Your browser's language is used as the default. If you wish to change it, you can select your preferred language from the top right corner.",
+        "Ad Blocker is now active! This smart system seamlessly blocks live stream and VOD ads, and automatically refreshes the broadcast page to ensure your settings apply perfectly. It is enabled by default.",
+        "You can now backup or restore your extension settings. You can access these from the Settings section under System Information.",
+        "Update notes are now available in both Turkish and English. If your browser language is not Turkish, English is used as the default.",
+        "The unnecessary border in moderation logs has been removed.",
+        "Color stop points in some SVG icons have been rewritten for React."
+      ]
+    },
     {
       "version": "1.0.17",
       "message": [

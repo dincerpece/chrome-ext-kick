@@ -1,7 +1,18 @@
 {
-  "currentVersion": "1.0.17",
+  "currentVersion": "1.0.18",
   "forceUpdate": false,
   "history": [
+    {
+      "version": "1.0.18",
+      "message": [
+        "Artık uygulamamız 38 farklı dilde kullanıma sunulmuştur! Varsayılan dil olarak tarayıcınızın dili baz alınmıştır. Değiştirmek isterseniz sağ üst köşeden dilediğiniz dili seçebilirsiniz.",
+        "Reklam Engelleyici artık aktif! Canlı yayın ve VOD reklamlarını kesintisiz bir şekilde engelleyen bu akıllı sistem, ayar değişikliklerinin kusursuz bir şekilde geçerli olması için yayın sayfasını otomatik olarak yeniler. Ve varsayılan olarak aktifdir.",
+        "Uzantı ayarlarınızı artık yedekleyebilir veya geri yükleyebilirsiniz. Sistem bilgisi altındaki Ayarlar başlığından bunlara ulaşabilirsiniz.",
+        "Güncelleme notları artık hem Türkçe hem de İngilizce olarak sunulmaktadır. Tarayıcı diliniz Türkçe değilse varsayılan olarak İngilizce baz alınır.",
+        "Moderasyon günlüklerindeki gereksiz border kaldırıldı.",
+        "Bazı SVG ikonlarındaki renk durak noktaları (stopColor), react için yeniden yazıldı."
+      ]
+    },
     {
       "version": "1.0.17",
       "message": [
