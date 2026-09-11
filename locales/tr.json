@@ -287,6 +287,7 @@
     "YourChannel": "Kendi Kanalın",
     "SwitchToOriginal": "Orijinal Moderasyona Geç",
     "SwitchToAdvanced": "Gelişmiş Moderasyona Geç",
+    "Starting": "Başlatılıyor...",
     "Tooltips": {
       "TargetMod": "Hedef kullanıcı bu kanalda yetkili olduğu için işlem uygulanmayacaktır. Sadece çapraz ban kullanabilirsiniz.",
       "StreamerModeMod": "Yayıncı modu aktif. Hedef kullanıcı bu kanalda yetkili olduğu için bu kanalda işlem uygulanmayacaktır. İşlem sadece kendi kanalınızda (veya çapraz ban açıksa diğerlerinde) uygulanacaktır.",
@@ -413,6 +414,7 @@
     "LogUntimeout": "<1>{{mod}}</1> tarafından uzaklaştırması kaldırıldı.",
     "Unknown": "Bilinmiyor",
     "DeletedType": "Silindi",
+    "ProgressStarting": "Başlatılıyor...",
     "Violations": {
       "Gibberish": "[Anlamsız veya anlaşılmaz mesajlar]",
       "Spam": "[Cinsel içerik]",
@@ -422,8 +424,12 @@
       "Drugs": "[Uyuşturucu]",
       "Weapons": "[Silah]",
       "Hate": "[Nefret Söylemi]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Kanal bilgisi alınamadı.",
+      "NoMessageHistory": "Bu kullanıcının mesaj geçmişi yok.",
+      "HistoryFetchError": "Geçmiş çekilemedi."
     }
-
   },
   "UserNoteCard": {
     "Title": "{{username}} Hakkında Notların",
@@ -432,7 +438,6 @@
     "Delete": "Notu Sil"
   },
   "Api": {
-    "Starting": "başlatılıyor...",
     "ChannelInfoError": "Kanal bilgisi alınamadı.",
     "NoMessageHistory": "Bu kullanıcının mesaj geçmişi yok.",
     "HistoryFetchError": "Geçmiş çekilemedi."

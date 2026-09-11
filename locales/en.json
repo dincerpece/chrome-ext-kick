@@ -287,6 +287,7 @@
     "YourChannel": "Your Channel",
     "SwitchToOriginal": "Switch to Original Moderation",
     "SwitchToAdvanced": "Switch to Advanced Moderation",
+    "Starting": "Starting...",
     "Tooltips": {
       "TargetMod": "Target user is a moderator/broadcaster in this channel, so no action will be applied here. You can only use cross-ban.",
       "StreamerModeMod": "Streamer mode is active. Target user is a moderator in this channel, so no action will be applied here. Action will only be applied in your own channel (and others if cross-ban is enabled).",
@@ -413,6 +414,7 @@
     "LogUnbanned": "Unbanned by <1>{{mod}}</1>.",
     "LogUntimeout": "Timeout removed by <1>{{mod}}</1>.",
     "DeletedType": "Deleted",
+    "ProgressStarting": "Starting...",
     "Violations": {
       "Gibberish": "[Gibberish or incomprehensible]",
       "Spam": "[Sexual content]",
@@ -422,6 +424,11 @@
       "Drugs": "[Drugs]",
       "Weapons": "[Weapons]",
       "Hate": "[Hate Speech]"
+    },
+    "ApiErrors": {
+      "ChannelInfoError": "Could not retrieve channel info.",
+      "NoMessageHistory": "This user has no message history.",
+      "HistoryFetchError": "Could not fetch message history."
     }
   },
   "UserNoteCard": {
@@ -431,10 +438,9 @@
     "Delete": "Delete Note"
   },
   "Api": {
-    "Starting": "starting...",
     "ChannelInfoError": "Could not retrieve channel info.",
     "NoMessageHistory": "This user has no message history.",
-    "HistoryFetchError": "Could not fetch history."
+    "HistoryFetchError": "Could not fetch message history."
   },
   "Background": {
     "MentionTitle": "You were mentioned on Kick!",
