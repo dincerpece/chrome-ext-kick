@@ -32,7 +32,7 @@
     "Title": "Mode Streamer",
     "AdvancedMode": "Mode Moderasi Lanjutan",
     "Item1": "Jika mode streamer aktif, Anda dapat melihat pesan obrolan Anda sendiri atau melakukan tindakan di beberapa jendela untuk saluran Anda sendiri.",
-    "Item2": "Mode Moderasi Lanjutan mengaktifkan panel moderasi tingkat lanjut di profil pengguna alih-alih panel default Kick, menawarkan cross ban, waktu timeout khusus, dan riwayat obrolan terperinci."
+    "Item2": "Mode Moderasi Lanjutan mengaktifkan panel moderasi tingkat lanjut di profil pengguna alih alih panel default Kick, menawarkan cross ban, waktu timeout khusus, dan riwayat obrolan terperinci."
   },
   "LiveNotificationSettings": {
     "Title": "Pengaturan Notifikasi Siaran",
@@ -79,7 +79,7 @@
     "BlockAds": "Blokir Iklan",
     "Item1": "Otomatis memblokir iklan siaran langsung dan VOD di Kick.",
     "Item2": "Memberikan pengalaman menonton tanpa gangguan dengan melewati segmen iklan di tingkat jaringan tanpa merusak aliran video.",
-    "Item3": "Setelah mengubah pengaturan, halaman siaran saat ini akan secara otomatis di-refresh agar pengaturan berlaku penuh atau dinonaktifkan."
+    "Item3": "Setelah mengubah pengaturan, halaman siaran saat ini akan secara otomatis di refresh agar pengaturan berlaku penuh atau dinonaktifkan."
   },
   "StreamPreviewSettings": {
     "Title": "Pratinjau Siaran",
@@ -104,7 +104,7 @@
     "Item2": "Jika salah satu kata yang Anda tambahkan muncul dalam pesan di obrolan, pesan itu akan disorot dengan animasi khusus.",
     "Item3": "Anda dapat menyesuaikan warna sorotan kata sesuai keinginan dan menggunakan tombol tempat sampah untuk kembali ke warna default.",
     "Item4": "Pesan ditandai dengan bingkai berkedip untuk memudahkan Anda menyadarinya.",
-    "Item5": "Pencarian kata peka huruf besar-kecil. Ini akan cocok persis seperti Anda menambahkannya.",
+    "Item5": "Pencarian kata peka huruf besar kecil. Ini akan cocok persis seperti Anda menambahkannya.",
     "Item6": "Anda dapat mengaktifkan atau menonaktifkan pemberitahuan sistem (desktop) dan peringatan suara dari pengaturan yang relevan."
   },
   "ModLogsSettings": {
@@ -245,8 +245,8 @@
   "LiveViewerCountTracker": {
     "Watching": "orang menonton",
     "Participation": "% Partisipasi",
-    "ActiveChatters": "Rata-rata Aktif di Obrolan",
-    "TooltipLine1": "Nilai-nilai ini dihitung secara matematis berdasarkan jumlah penonton saat ini.",
+    "ActiveChatters": "Rata rata Aktif di Obrolan",
+    "TooltipLine1": "Nilai nilai ini dihitung secara matematis berdasarkan jumlah penonton saat ini.",
     "TooltipLine2": "Statistik dievaluasi ulang dari momen itu pada setiap pergantian saluran."
   },
   "ModPanel": {

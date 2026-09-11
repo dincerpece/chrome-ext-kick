@@ -1,7 +1,7 @@
 {
   "Header": {
-    "UpdateNotes": "Update-opmerkingen",
-    "UpdateHistory": "Update-geschiedenis",
+    "UpdateNotes": "Update opmerkingen",
+    "UpdateHistory": "Update geschiedenis",
     "CurrentVersion": "Huidige versie:"
   },
   "Main": {
@@ -13,41 +13,41 @@
   },
   "ModulInfo": {
     "Title": "Systeeminformatie",
-    "Desc": "Module-informatie",
+    "Desc": "Modulepopupinformatie",
     "CountPrefix": "Momenteel zijn in totaal ",
     "CountSuffix": " modules actief.",
     "Reset": "Volgorde resetten",
     "SettingsTitle": "Instellingen",
-    "SettingsDesc": "Back-up of herstel extensiegegevens op je computer."
+    "SettingsDesc": "Back up of herstel extensiegegevens op je computer."
   },
   "ModerationInfo": {
     "Title": "Moderatie",
     "Item1": "Moderatortools werken op kanalen waar je moderator bent of op je eigen kanaal.",
-    "Item2": "Hoewel de cross ban- en timeout-instellingen op andere kanalen zijn ingeschakeld, is alleen de cross ban-instelling ingeschakeld op je eigen kanaal.",
+    "Item2": "Hoewel de cross ban en timeout instellingen op andere kanalen zijn ingeschakeld, is alleen de cross ban instelling ingeschakeld op je eigen kanaal.",
     "Item3": "Je moet de kanalen volgen die je modereert wanneer je cross ban gebruikt.",
     "Item4": "Je kunt geen gebruikers verbannen (bannen) of een timeout geven die moderator zijn op je eigen kanaal, maar je kunt wel een cross ban toepassen op andere kanalen die je volgt en modereert als ze daar geen moderator zijn.",
     "Item5": "De duur van een timeout mag niet langer zijn dan 1 week."
   },
   "StreamerModeSettings": {
-    "Title": "Streamer-modus",
+    "Title": "Streamer modus",
     "AdvancedMode": "Geavanceerde moderatiemodus",
-    "Item1": "Als de streamer-modus actief is, kun je in sommige vensters je eigen chatberichten zien of acties uitvoeren voor je eigen kanaal.",
-    "Item2": "Geavanceerde moderatiemodus activeert een geavanceerd moderatiepaneel in gebruikersprofielen in plaats van het standaardpaneel van Kick, met cross bans, aangepaste timeout-tijden en een gedetailleerde chatgeschiedenis."
+    "Item1": "Als de streamer modus actief is, kun je in sommige vensters je eigen chatberichten zien of acties uitvoeren voor je eigen kanaal.",
+    "Item2": "Geavanceerde moderatiemodus activeert een geavanceerd moderatiepaneel in gebruikersprofielen in plaats van het standaardpaneel van Kick, met cross bans, aangepaste timeout tijden en een gedetailleerde chatgeschiedenis."
   },
   "LiveNotificationSettings": {
-    "Title": "Instellingen voor stream-meldingen",
+    "Title": "Instellingen voor stream meldingen",
     "SoundNotification": "Geluidsmelding",
     "VisualNotification": "Visuele melding",
-    "Item1": "Je ontvangt stream-meldingen voor de kanalen die je volgt.",
-    "Item2": "Je kunt ervoor kiezen om geluids- of visuele meldingen te ontvangen.",
+    "Item1": "Je ontvangt stream meldingen voor de kanalen die je volgt.",
+    "Item2": "Je kunt ervoor kiezen om geluids of visuele meldingen te ontvangen.",
     "Item3": "Je moet ingelogd zijn om deze functie te gebruiken."
   },
   "TagNotificationSettings": {
-    "Title": "Instellingen voor tag-meldingen",
+    "Title": "Instellingen voor tag meldingen",
     "SoundNotification": "Geluidsmelding",
     "VisualNotification": "Visuele melding",
     "Item1": "Je ontvangt meldingen van alle clients waar je bent getagd.",
-    "Item2": "Je kunt ervoor kiezen om geluids- of visuele meldingen te ontvangen.",
+    "Item2": "Je kunt ervoor kiezen om geluids of visuele meldingen te ontvangen.",
     "Item3": "Hoewel de inhoud van het bericht zichtbaar is in de visuele melding, kan het later gedeeltelijk worden gelezen (voor zover je besturingssysteem dit toelaat)."
   },
   "ReplyNotificationSettings": {
@@ -55,29 +55,29 @@
     "SoundNotification": "Geluidsmelding",
     "VisualNotification": "Visuele melding",
     "Item1": "Je ontvangt een melding wanneer iemand op je bericht antwoordt in de chat.",
-    "Item2": "Je kunt ervoor kiezen om geluids- of visuele meldingen te ontvangen.",
+    "Item2": "Je kunt ervoor kiezen om geluids of visuele meldingen te ontvangen.",
     "Item3": "Hoewel de inhoud van het bericht zichtbaar is in de visuele melding, kan het later gedeeltelijk worden gelezen (voor zover het besturingssysteem dit toestaat)."
   },
   "AutoStreamOpenerSettings": {
     "Title": "Automatisch streamtabblad",
-    "Opener": "Automatische stream-opener",
-    "Sound": "Stream-audio",
-    "Item1": "Als de instelling voor stream-audio is uitgeschakeld, wordt deze opnieuw toegepast bij elke tabbladfocus of het openen van een nieuw tabblad.",
-    "Item2": "Om onverwacht geluid op de achtergrond te voorkomen, starten streams gedempt. Je kunt het dempen rechtstreeks opheffen in de rechterbovenhoek van de Kick-speler.",
+    "Opener": "Automatische stream opener",
+    "Sound": "Stream audio",
+    "Item1": "Als de instelling voor stream audio is uitgeschakeld, wordt deze opnieuw toegepast bij elke tabbladfocus of het openen van een nieuw tabblad.",
+    "Item2": "Om onverwacht geluid op de achtergrond te voorkomen, starten streams gedempt. Je kunt het dempen rechtstreeks opheffen in de rechterbovenhoek van de Kick speler.",
     "Item3": "Meldingen van de streamer die je volgt moeten zijn ingeschakeld.",
     "Item4": "Als de stream al open is in een van je tabbladen, wordt deze gefocust, anders wordt hij geopend in een nieuw tabblad.",
-    "Item5": "Wanneer een streamer die je volgt een live-uitzending start, wordt de stream automatisch in een nieuw tabblad geopend."
+    "Item5": "Wanneer een streamer die je volgt een live uitzending start, wordt de stream automatisch in een nieuw tabblad geopend."
   },
   "SidebarChannelBackgroundSettings": {
     "Title": "Zijbalk kanaalachtergrond",
-    "Status": "Kanaalachtergrond-status",
+    "Status": "Kanaalachtergrond status",
     "Item1": "Voegt de profielfoto van de gevolgde of aanbevolen kanalen in het linkermenu toe als achtergrond.",
     "Item2": "Zorgt voor een esthetischer uiterlijk door een vervagingseffect (blur) toe te passen op de achtergrondafbeelding."
   },
   "AdBlockerSettings": {
     "Title": "Adblocker",
     "BlockAds": "Advertenties blokkeren",
-    "Item1": "Blokkeert automatisch live stream- en VOD-advertenties op Kick.",
+    "Item1": "Blokkeert automatisch live stream en VOD advertenties op Kick.",
     "Item2": "Zorgt voor een ononderbroken kijkervaring door advertentiesegmenten op netwerkniveau over te slaan zonder de videostream te verbreken.",
     "Item3": "Na het wijzigen van de instelling, zal de huidige streampagina automatisch vernieuwen om de instelling volledig van kracht te laten worden of te deactiveren."
   },
@@ -91,7 +91,7 @@
   },
   "KeywordDetectorSettings": {
     "Title": "Woorddetector",
-    "Status": "Woorddetector-status",
+    "Status": "Woorddetector status",
     "SoundNotification": "Geluidsmelding",
     "VisualNotification": "Visuele melding",
     "HighlightColor": "Markeringskleur",
@@ -100,12 +100,12 @@
     "InputPlaceholder": "Voeg een woord toe (bijv.: giveaway)",
     "AddButton": "Toevoegen",
     "EmptyList": "Geen trefwoorden in de lijst",
-    "Item1": "De woorddetector-status moet ingeschakeld zijn om alle functies te laten werken.",
+    "Item1": "De woorddetector status moet ingeschakeld zijn om alle functies te laten werken.",
     "Item2": "Als een van de door jou toegevoegde woorden in een bericht in de chat verschijnt, wordt dat bericht met een speciale animatie gemarkeerd.",
     "Item3": "Je kunt de kleur van de woordmarkering naar wens aanpassen en de prullenbakknop gebruiken om terug te keren naar de standaardkleur.",
     "Item4": "Berichten worden gemarkeerd met een knipperend kader, zodat ze makkelijker opvallen.",
     "Item5": "Woordzoekopdrachten zijn hoofdlettergevoelig. Het zal exact overeenkomen met hoe je het hebt toegevoegd.",
-    "Item6": "Je kunt systeemmeldingen (desktop) en geluidswaarschuwingen in- of uitschakelen via de relevante instellingen."
+    "Item6": "Je kunt systeemmeldingen (desktop) en geluidswaarschuwingen in of uitschakelen via de relevante instellingen."
   },
   "ModLogsSettings": {
     "Title": "Moderatielogboeken",
@@ -113,23 +113,23 @@
     "Item1": "Toont knoppen voor snelle toegang bovenaan de chat, zoals controlelogboek, berichtengeschiedenis, chat wissen en timeouts."
   },
   "RaidBlockerSettings": {
-    "Title": "Raid-annulering",
-    "Status": "Raid-annulering status",
+    "Title": "Raid annulering",
+    "Status": "Raid annulering status",
     "FollowOnly": "Niet naar kanalen gaan die ik niet volg",
     "BlacklistTitle": "Zwarte lijst (Kanalen om niet te bezoeken)",
     "InputPlaceholder": "Voeg kanaalnaam toe (bijv.: hype)",
     "AddButton": "Toevoegen",
     "EmptyList": "Geen kanalen op de zwarte lijst",
-    "Item1": "De raid-annulering status moet ingeschakeld zijn om alle functies effectief te laten zijn.",
+    "Item1": "De raid annulering status moet ingeschakeld zijn om alle functies effectief te laten zijn.",
     "Item2": "Voeg de kanalen toe waar je niet heen wilt als een kanaal een raid uitvoert.",
     "Item3": "Als je bent ingelogd, worden raids naar kanalen die je niet volgt, geannuleerd. Deze instelling is standaard ingeschakeld.",
     "Item4": "Het systeem annuleert raids automatisch binnen 3 seconden."
   },
   "EmbedPreviewSettings": {
     "Title": "Content Viewer",
-    "Status": "Content Viewer-status",
+    "Status": "Content Viewer status",
     "WindowSize": "Venstergrootte",
-    "Item1": "Bekijk X (twitter), youtube, kick en instagram-links die in de chat worden gedeeld direct op de pagina.",
+    "Item1": "Bekijk X (twitter), youtube, kick en instagram links die in de chat worden gedeeld direct op de pagina.",
     "Item2": "Wanneer op de knop wordt geklikt, wordt de inhoud weergegeven door in de linkerbovenhoek een onafhankelijk, versleepbaar venster te openen.",
     "Item3": "Kies uit 3 verschillende venstergroottes om de inhoud te bekijken.",
     "Item4": "De venstergrootte is standaard ingesteld op sm.",
@@ -138,20 +138,20 @@
   "RoleHighlightsSettings": {
     "Title": "Rolmarkeringen",
     "Status": "Status van rolmarkeringen",
-    "Item1": "Markeert berichten van moderators, vip- en og-gebruikers in de chat.",
-    "Item2": "Een lichtblauwe markering wordt toegepast voor moderators, turkoois voor og en geel voor vip-gebruikers.",
+    "Item1": "Markeert berichten van moderators, vip en og gebruikers in de chat.",
+    "Item2": "Een lichtblauwe markering wordt toegepast voor moderators, turkoois voor og en geel voor vip gebruikers.",
     "Item3": "Als een gebruiker meerdere rollen heeft, wordt de prioriteit ingesteld als: Moderator > og > vip."
   },
   "ChannelHiderSettings": {
     "Title": "Kanaalverberger",
-    "Status": "Kanaalverberg-status",
+    "Status": "Kanaalverberg status",
     "BlacklistTitle": "Zwarte lijst (Kanalen om te verbergen)",
     "InputPlaceholder": "Voeg kanaalnaam toe (bijv.: hype)",
     "AddButton": "Toevoegen",
     "EmptyList": "Geen kanalen op de zwarte lijst",
-    "Item1": "De kanaalverberg-status moet zijn ingeschakeld om alle functies te laten werken.",
+    "Item1": "De kanaalverberg status moet zijn ingeschakeld om alle functies te laten werken.",
     "Item2": "Om een kanaal te verbergen, klik je simpelweg op de knop ⊘ blocked bij aanbevolen kanalen of bij een spelende stream op de startpagina.",
-    "Item3": "Je kunt verborgen kanalen vinden en verwijderen via het Kanaalverberger-menu in het extensievenster.",
+    "Item3": "Je kunt verborgen kanalen vinden en verwijderen via het Kanaalverberger menu in het extensievenster.",
     "Item4": "Voeg kanalen die je niet wilt zien toe aan de lijst met aanbevolen kanalen links en de automatisch spelende aanbevolen kanalen op de startpagina.",
     "Item5": "De kanalen die je toevoegt, worden niet getoond in de sectie met aanbevolen streams op de startpagina."
   },
@@ -161,10 +161,10 @@
     "Item1": "Hiermee kun je het verborgen aantal kijkers van een uitzendend kanaal zien terwijl je kijkt."
   },
   "EmotePreviewSettings": {
-    "Title": "Emote-voorbeeld",
-    "PreviewWindow": "Emote-voorbeeldvenster",
+    "Title": "Emote voorbeeld",
+    "PreviewWindow": "Emote voorbeeldvenster",
     "WindowSize": "Venstergrootte",
-    "Item1": "Kies uit 3 verschillende venstergroottes voor het emote-voorbeeld.",
+    "Item1": "Kies uit 3 verschillende venstergroottes voor het emote voorbeeld.",
     "Item2": "De venstergrootte is standaard ingesteld op sm.",
     "Item3": "Hiermee kun je een vergrote versie en details van de emote in een mini popupvenster bekijken wanneer je de muis over emotes in de chat houdt."
   },
@@ -173,7 +173,7 @@
     "GlobalTheme": "Globaal thema toepassen",
     "ChannelPlaceholder": "Kanaalnaam (bijv.: hype)",
     "GlobalChannelLabel": "Alle kanalen (Globaal thema)",
-    "SuggestedThemesTitle": "Kant-en-klare achtergronden toepassen",
+    "SuggestedThemesTitle": "Kant en klare achtergronden toepassen",
     "Bg1": "Achtergrond 1",
     "Bg2": "Achtergrond 2",
     "Bg3": "Achtergrond 3",
@@ -194,7 +194,7 @@
     "Item2": "Met de kleurkiezer rechts van het palet kun je alle mogelijke tinten kiezen.",
     "Item3": "Hoewel de ingevoerde kanaalnamen automatisch worden opgehaald, kun je ook handmatig verschillende kanalen typen en toevoegen.",
     "Item4": "Je kunt het kanaal selecteren uit de sectie met opgeslagen thema's en het kleurenpalet wijzigen of verwijderen.",
-    "Item5": "Zolang de globale thema-instelling aanstaat, kun je een algemeen thema instellen, onafhankelijk van kanalen en pagina's, en dit toepassen op alle pagina's waar geen aangepast thema is ingesteld."
+    "Item5": "Zolang de globale thema instelling aanstaat, kun je een algemeen thema instellen, onafhankelijk van kanalen en pagina's, en dit toepassen op alle pagina's waar geen aangepast thema is ingesteld."
   },
   "ChannelHider": {
     "HideChannel": "Kanaal verbergen",
@@ -211,7 +211,7 @@
     "ShowInViewer": "Weergeven in Content Viewer"
   },
   "EmotePreview": {
-    "PreviewTitle": "KT with dp | Emote-voorbeeld"
+    "PreviewTitle": "KT with dp | Emote voorbeeld"
   },
   "FavoriteUser": {
     "Remove": "Verwijderen uit favorieten",
@@ -253,7 +253,7 @@
     "Title": "KT with dp | Moderatie",
     "Cross": "Cross",
     "ReasonPlaceholder": "Voer de reden voor de ban in. (Optioneel)",
-    "CrossReasonNote": "Cross ban-informatie wordt automatisch aan de reden toegevoegd.",
+    "CrossReasonNote": "Cross ban informatie wordt automatisch aan de reden toegevoegd.",
     "RemoveBan": "Ban opheffen",
     "Ban": "Verbannen (Ban)",
     "Timeout": "Timeout",
@@ -290,10 +290,10 @@
     "Starting": "Starten...",
     "Tooltips": {
       "TargetMod": "De doelgebruiker is een moderator op dit kanaal, dus de actie wordt niet toegepast. Je kunt alleen cross ban gebruiken.",
-      "StreamerModeMod": "De streamer-modus is actief. De doelgebruiker is een moderator op dit kanaal, dus de actie wordt hier niet toegepast. De actie wordt alleen toegepast op je eigen kanaal (of op andere als cross ban aanstaat).",
-      "StreamerModeActive": "De streamer-modus is actief.",
-      "StreamerModeBoth": "De streamer-modus is actief. De actie wordt zowel op dit kanaal als op je eigen kanaal toegepast.",
-      "StreamerModeOnlyYours": "De streamer-modus is actief. Omdat je geen moderator bent op dit kanaal, wordt de actie toegepast op basis van je eigen kanaal."
+      "StreamerModeMod": "De streamer modus is actief. De doelgebruiker is een moderator op dit kanaal, dus de actie wordt hier niet toegepast. De actie wordt alleen toegepast op je eigen kanaal (of op andere als cross ban aanstaat).",
+      "StreamerModeActive": "De streamer modus is actief.",
+      "StreamerModeBoth": "De streamer modus is actief. De actie wordt zowel op dit kanaal als op je eigen kanaal toegepast.",
+      "StreamerModeOnlyYours": "De streamer modus is actief. Omdat je geen moderator bent op dit kanaal, wordt de actie toegepast op basis van je eigen kanaal."
     },
     "ApiErrors": {
       "ChannelInfoError": "Kanaalinformatie kon niet worden opgehaald.",
@@ -303,7 +303,7 @@
   },
   "ModViewPanel": {
     "Title": "KT with dp | Moderatielogboeken",
-    "EmptyAudit": "Geen moderator-acties gevonden.",
+    "EmptyAudit": "Geen moderator acties gevonden.",
     "EmptyMessages": "Geen verwijderde berichten gevonden.",
     "EmptyClear": "Geen gewiste chats gevonden.",
     "EmptyTimeouts": "Geen actieve timeouts gevonden.",
@@ -342,7 +342,7 @@
     }
   },
   "RaidBlocker": {
-    "RaidCancelActive": "KT with dp | Raid-annulering actief"
+    "RaidCancelActive": "KT with dp | Raid annulering actief"
   },
   "SettingsTriggerButton": {
     "SettingsAriaLabel": "KT with dp Instellingen"
@@ -355,7 +355,7 @@
     "Export": "Exporteren"
   },
   "UpdateNotifier": {
-    "Title": "KT with dp Update-opmerkingen",
+    "Title": "KT with dp Update opmerkingen",
     "Version": "Versie: {{version}}",
     "GotIt": "Begrepen"
   },
@@ -380,14 +380,14 @@
     "AddToFavorites": "Toevoegen aan favorieten",
     "Unhighlight": "Markering verwijderen",
     "Highlight": "Berichten markeren",
-    "ChannelId": "Kanaal-ID",
-    "UserId": "Gebruikers-ID",
-    "ChatId": "Chat-ID",
+    "ChannelId": "Kanaal ID",
+    "UserId": "Gebruikers ID",
+    "ChatId": "Chat ID",
     "Replies": "Antwoorden",
     "NoReplies": "Geen antwoordgegevens.",
     "ModerationLogs": "Moderatielogboeken",
     "NoModerationData": "Geen moderatiegegevens.",
-    "ModerationActions": "Moderatie-acties",
+    "ModerationActions": "Moderatie acties",
     "Timeout": "Timeout",
     "MaxDuration": "Max. duur",
     "UnitMinute": "Minuut",
@@ -450,8 +450,8 @@
     "LiveTitle": "{{channel}} is Live!",
     "KeywordTitle": "Woorddetector match",
     "KeywordMessage": "{{sender}} in {{channel}}: {{content}}",
-    "BadgeTitle": "KT with dp | Stream-audio",
-    "BadgeSubtitle": "Stream-audio gedempt",
+    "BadgeTitle": "KT with dp | Stream audio",
+    "BadgeSubtitle": "Stream audio gedempt",
     "BadgeButton": "Dempen opheffen"
   }
 }

@@ -82,10 +82,10 @@
     "Item3": "Após alterar a configuração, a página da stream atual será automaticamente atualizada para que a configuração entre totalmente em vigor ou seja desativada."
   },
   "StreamPreviewSettings": {
-    "Title": "Pré-visualização da Stream",
-    "PreviewWindow": "Janela de Pré-visualização",
+    "Title": "Pré visualização da Stream",
+    "PreviewWindow": "Janela de Pré visualização",
     "PlayerSize": "Tamanho do Player",
-    "Item1": "Escolha entre 3 tamanhos diferentes de player de vídeo para a pré-visualização da stream.",
+    "Item1": "Escolha entre 3 tamanhos diferentes de player de vídeo para a pré visualização da stream.",
     "Item2": "O tamanho do player é definido como sm por padrão.",
     "Item3": "Permite que você visualize a stream em uma mini janela popup ao passar o cursor sobre os canais."
   },
@@ -96,10 +96,10 @@
     "VisualNotification": "Notificação Visual",
     "HighlightColor": "Cor de Destaque",
     "ResetColorTitle": "Reverter para a Cor Padrão",
-    "Keywords": "Palavras-chave",
+    "Keywords": "Palavras chave",
     "InputPlaceholder": "Adicionar uma palavra (ex: sorteio)",
     "AddButton": "Adicionar",
-    "EmptyList": "Nenhuma palavra-chave na lista",
+    "EmptyList": "Nenhuma palavra chave na lista",
     "Item1": "O status do detector de palavras deve estar ativado para que todos os recursos funcionem.",
     "Item2": "Se qualquer uma das palavras que você adicionou aparecer em uma mensagem no chat, essa mensagem será destacada com uma animação especial.",
     "Item3": "Você pode personalizar a cor de destaque da palavra como desejar e usar o botão de lixeira para retornar à cor padrão.",
@@ -161,10 +161,10 @@
     "Item1": "Permite que você veja a contagem oculta de espectadores de um canal de transmissão enquanto você assiste."
   },
   "EmotePreviewSettings": {
-    "Title": "Pré-visualização de Emote",
-    "PreviewWindow": "Janela de Pré-visualização de Emote",
+    "Title": "Pré visualização de Emote",
+    "PreviewWindow": "Janela de Pré visualização de Emote",
     "WindowSize": "Tamanho da Janela",
-    "Item1": "Escolha entre 3 tamanhos de janela diferentes para pré-visualização de emotes.",
+    "Item1": "Escolha entre 3 tamanhos de janela diferentes para pré visualização de emotes.",
     "Item2": "O tamanho da janela é definido como sm por padrão.",
     "Item3": "Permite que você veja uma versão ampliada e detalhes do emote em uma mini janela popup ao passar o cursor sobre os emotes no chat."
   },
@@ -193,15 +193,15 @@
     "Item1": "Altere os fundos ou cores do texto de qualquer canal. Esses seletores de cores serão ampliados.",
     "Item2": "Com o seletor de cores à direita da paleta, você pode escolher quaisquer tons de qualquer lugar.",
     "Item3": "Embora os nomes dos canais inseridos sejam buscados automaticamente, você também pode digitar e adicionar canais diferentes manualmente.",
-    "Item4": "Você pode selecionar o canal na seção de temas salvos e alterar a paleta de cores ou excluí-la.",
-    "Item5": "Enquanto a configuração de tema global estiver ativada, você pode definir um tema comum independente de canais e páginas e torná-lo válido em todas as páginas onde nenhum tema personalizado estiver configurado."
+    "Item4": "Você pode selecionar o canal na seção de temas salvos e alterar a paleta de cores ou excluí la.",
+    "Item5": "Enquanto a configuração de tema global estiver ativada, você pode definir um tema comum independente de canais e páginas e torná lo válido em todas as páginas onde nenhum tema personalizado estiver configurado."
   },
   "ChannelHider": {
     "HideChannel": "Ocultar Canal",
     "HiddenChannelPrefix": "Canal Oculto: "
   },
   "ChannelHoverPlayer": {
-    "PreviewTitle": "KT with dp | Pré-visualização da Stream"
+    "PreviewTitle": "KT with dp | Pré visualização da Stream"
   },
   "ChatMessageHighlighter": {
     "Unhighlight": "Remover Destaque",
@@ -211,7 +211,7 @@
     "ShowInViewer": "Mostrar no Visualizador de Conteúdo"
   },
   "EmotePreview": {
-    "PreviewTitle": "KT with dp | Pré-visualização de Emote"
+    "PreviewTitle": "KT with dp | Pré visualização de Emote"
   },
   "FavoriteUser": {
     "Remove": "Remover dos Favoritos",

@@ -139,7 +139,7 @@
     "Title": "Lomu izcēlumi",
     "Status": "Lomu izcēlumu statuss",
     "Item1": "Tērzēšanā izceļ moderatoru, vip un og lietotāju ziņojumus.",
-    "Item2": "Gaiši zils izcēlums tiek piemērots moderatoriem, tirkīza - og un dzeltens - vip lietotājiem.",
+    "Item2": "Gaiši zils izcēlums tiek piemērots moderatoriem, tirkīza og un dzeltens vip lietotājiem.",
     "Item3": "Ja lietotājam ir vairākas lomas, prioritāte tiek noteikta kā: Moderators > og > vip."
   },
   "ChannelHiderSettings": {

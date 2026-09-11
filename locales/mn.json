@@ -310,9 +310,9 @@
     "AuditLogTitle": "Аудит лог",
     "MessageLogTitle": "Зурвасын лог",
     "ClearLogTitle": "Чат цэвэрлэлтүүд",
-    "TimeoutsTitle": "Timeout-ууд",
+    "TimeoutsTitle": "Timeout ууд",
     "TooltipAudit": "Аудит лог",
-    "TooltipTimeouts": "Timeout-ууд",
+    "TooltipTimeouts": "Timeout ууд",
     "TooltipMessages": "Зурвасын лог",
     "TooltipClear": "Цэвэрлэх",
     "ChatCleared": "Чат цэвэрлэгдсэн.",
@@ -437,7 +437,7 @@
     }
   },
   "UserNoteCard": {
-    "Title": "{{username}}-ийн тухай таны тэмдэглэлүүд",
+    "Title": "{{username}} ийн тухай таны тэмдэглэлүүд",
     "Placeholder": "Энд тэмдэглэлээ бичнэ үү",
     "Save": "Тэмдэглэлүүдийг хадгалах",
     "Delete": "Тэмдэглэлийг устгах"

@@ -23,27 +23,27 @@
   "ModerationInfo": {
     "Title": "Moderering",
     "Item1": "Modereringsverktøy fungerer på kanaler der du er moderator, eller på din egen kanal.",
-    "Item2": "Mens cross ban- og timeout-innstillinger er slått på i andre kanaler, er kun cross ban-innstillingen slått på i din egen kanal.",
+    "Item2": "Mens cross ban og timeout innstillinger er slått på i andre kanaler, er kun cross ban innstillingen slått på i din egen kanal.",
     "Item3": "Du må følge kanalene du modererer når du bruker cross ban.",
     "Item4": "Du kan ikke utestenge eller gi timeout til brukere som er moderatorer på din egen kanal, men du kan bruke cross ban på andre kanaler du følger og modererer hvis de ikke er moderatorer der.",
     "Item5": "En timeout kan ikke overstige 1 uke."
   },
   "StreamerModeSettings": {
-    "Title": "Streamer-modus",
+    "Title": "Streamer modus",
     "AdvancedMode": "Avansert modereringsmodus",
-    "Item1": "Hvis streamer-modus er aktiv, kan du se dine egne chatmeldinger eller utføre handlinger i noen vinduer for din egen kanal.",
-    "Item2": "Avansert modereringsmodus aktiverer et avansert modereringspanel i brukerprofiler i stedet for Kicks standardpanel, og tilbyr cross bans, tilpassede timeout-tider og en detaljert chathistorikk."
+    "Item1": "Hvis streamer modus er aktiv, kan du se dine egne chatmeldinger eller utføre handlinger i noen vinduer for din egen kanal.",
+    "Item2": "Avansert modereringsmodus aktiverer et avansert modereringspanel i brukerprofiler i stedet for Kicks standardpanel, og tilbyr cross bans, tilpassede timeout tider og en detaljert chathistorikk."
   },
   "LiveNotificationSettings": {
-    "Title": "Innstillinger for stream-varsler",
+    "Title": "Innstillinger for stream varsler",
     "SoundNotification": "Lydvarsel",
     "VisualNotification": "Visuelt varsel",
-    "Item1": "Du vil motta stream-varsler for kanalene du følger.",
+    "Item1": "Du vil motta stream varsler for kanalene du følger.",
     "Item2": "Du kan velge å motta lydvarsler eller visuelle varsler.",
     "Item3": "Du må være logget inn for å bruke denne funksjonen."
   },
   "TagNotificationSettings": {
-    "Title": "Innstillinger for tag-varsler",
+    "Title": "Innstillinger for tag varsler",
     "SoundNotification": "Lydvarsel",
     "VisualNotification": "Visuelt varsel",
     "Item1": "Du vil motta varsler fra alle klienter der du er tagget.",
@@ -56,15 +56,15 @@
     "VisualNotification": "Visuelt varsel",
     "Item1": "Du vil motta et varsel når meldingen din blir besvart i chatten.",
     "Item2": "Du kan velge å motta lydvarsler eller visuelle varsler.",
-    "Item3": "Selv om meldingsinnholdet er synlig i det visuelle varselet, kan det delvis leses senere (så langt OS-et tillater det)."
+    "Item3": "Selv om meldingsinnholdet er synlig i det visuelle varselet, kan det delvis leses senere (så langt OS et tillater det)."
   },
   "AutoStreamOpenerSettings": {
-    "Title": "Automatisk stream-fane",
-    "Opener": "Automatisk stream-åpner",
-    "Sound": "Stream-lyd",
-    "Item1": "Hvis innstillingen for stream-lyd er slått av, brukes den på nytt ved hvert fanefokus eller når nye faner åpnes.",
-    "Item2": "For å forhindre plutselig lyd i bakgrunnen, starter streamer dempet. Du kan slå på lyden direkte fra øverste høyre hjørne av Kick-spilleren.",
-    "Item3": "Streamer-varsler for streameren du følger må være slått på.",
+    "Title": "Automatisk stream fane",
+    "Opener": "Automatisk stream åpner",
+    "Sound": "Stream lyd",
+    "Item1": "Hvis innstillingen for stream lyd er slått av, brukes den på nytt ved hvert fanefokus eller når nye faner åpnes.",
+    "Item2": "For å forhindre plutselig lyd i bakgrunnen, starter streamer dempet. Du kan slå på lyden direkte fra øverste høyre hjørne av Kick spilleren.",
+    "Item3": "Streamer varsler for streameren du følger må være slått på.",
     "Item4": "Hvis streamen allerede er åpen i en av fanene dine, vil den bli fokusert, ellers åpnes den i en ny fane.",
     "Item5": "Når en streamer du følger starter en direktesending, åpnes streamen automatisk i en ny fane."
   },
@@ -77,17 +77,17 @@
   "AdBlockerSettings": {
     "Title": "Annonseblokkering",
     "BlockAds": "Blokker annonser",
-    "Item1": "Blokkerer automatisk annonser i direktesendinger og VOD-er på Kick.",
+    "Item1": "Blokkerer automatisk annonser i direktesendinger og VOD er på Kick.",
     "Item2": "Gir en uavbrutt seeropplevelse ved å hoppe over annonsesegmenter på nettverksnivå uten å bryte videostrømmen.",
     "Item3": "Etter at du har endret innstillingen, vil den gjeldende streamsiden automatisk oppdateres for at innstillingen skal tre i kraft eller deaktiveres."
   },
   "StreamPreviewSettings": {
-    "Title": "Stream-forhåndsvisning",
+    "Title": "Stream forhåndsvisning",
     "PreviewWindow": "Forhåndsvisningsvindu",
     "PlayerSize": "Spillerstørrelse",
-    "Item1": "Velg mellom 3 forskjellige videospillerstørrelser for stream-forhåndsvisning.",
+    "Item1": "Velg mellom 3 forskjellige videospillerstørrelser for stream forhåndsvisning.",
     "Item2": "Spillerstørrelsen er satt til sm som standard.",
-    "Item3": "Lar deg forhåndsvise streamen i et lite popup-vindu når du holder musen over kanaler."
+    "Item3": "Lar deg forhåndsvise streamen i et lite popup vindu når du holder musen over kanaler."
   },
   "KeywordDetectorSettings": {
     "Title": "Orddetektor",
@@ -102,25 +102,25 @@
     "EmptyList": "Ingen nøkkelord i listen",
     "Item1": "Status for orddetektor må være slått på for at alle funksjoner skal fungere.",
     "Item2": "Hvis noen av ordene du la til vises i en melding i chatten, vil den meldingen bli fremhevet med en spesiell animasjon.",
-    "Item3": "Du kan tilpasse fremhevingsfargen for ord som du ønsker, og bruke søppelkasse-knappen for å gå tilbake til standardfargen.",
+    "Item3": "Du kan tilpasse fremhevingsfargen for ord som du ønsker, og bruke søppelkasse knappen for å gå tilbake til standardfargen.",
     "Item4": "Meldinger er markert med en blinkende ramme for å gjøre det lettere for deg å legge merke til dem.",
     "Item5": "Ordsøk skiller mellom store og små bokstaver. Det vil matche nøyaktig slik du la det til.",
     "Item6": "Du kan aktivere eller deaktivere systemvarsler (skrivebord) og lydvarsler fra de relevante innstillingene."
   },
   "ModLogsSettings": {
     "Title": "Modereringslogger",
-    "BarStatus": "Modereringslogg-linje",
+    "BarStatus": "Modereringslogg linje",
     "Item1": "Viser hurtigtilgangsknapper øverst i chatten, for eksempel revisjonslogg, meldingshistorikk, sletting av chat og timeouts."
   },
   "RaidBlockerSettings": {
-    "Title": "Raid-kansellering",
-    "Status": "Status for Raid-kansellering",
+    "Title": "Raid kansellering",
+    "Status": "Status for Raid kansellering",
     "FollowOnly": "Ikke gå til kanaler jeg ikke følger",
     "BlacklistTitle": "Svarteliste (Kanaler man ikke skal gå til)",
     "InputPlaceholder": "Legg til kanalnavn (f.eks.: hype)",
     "AddButton": "Legg til",
     "EmptyList": "Ingen kanaler på svartelisten",
-    "Item1": "Status for raid-kansellering må være slått på for at alle funksjoner skal være effektive.",
+    "Item1": "Status for raid kansellering må være slått på for at alle funksjoner skal være effektive.",
     "Item2": "Legg til kanalene du ikke vil gå til når en kanal gjør et raid.",
     "Item3": "Hvis du er logget inn, vil raids til kanaler du ikke følger bli kansellert. Denne innstillingen er slått på som standard.",
     "Item4": "Systemet kansellerer automatisk raids innen 3 sekunder."
@@ -129,7 +129,7 @@
     "Title": "Innholdsviser",
     "Status": "Status for innholdsviser",
     "WindowSize": "Vindustørrelse",
-    "Item1": "Se X (twitter), youtube, kick og instagram-lenker som deles i chatten direkte på siden.",
+    "Item1": "Se X (twitter), youtube, kick og instagram lenker som deles i chatten direkte på siden.",
     "Item2": "Når knappen klikkes, viser den innholdet ved å åpne et uavhengig, flyttbart vindu øverst i venstre hjørne.",
     "Item3": "Velg mellom 3 forskjellige vindusstørrelser for å forhåndsvise innholdet.",
     "Item4": "Vindusstørrelsen er satt til sm som standard.",
@@ -138,8 +138,8 @@
   "RoleHighlightsSettings": {
     "Title": "Rollefremhevinger",
     "Status": "Status for rollefremheving",
-    "Item1": "Fremhever meldingene fra moderatorer, vip og og-brukere i chatten.",
-    "Item2": "En lyseblå fremheving brukes for moderatorer, turkis for og, og gul for vip-brukere.",
+    "Item1": "Fremhever meldingene fra moderatorer, vip og og brukere i chatten.",
+    "Item2": "En lyseblå fremheving brukes for moderatorer, turkis for og, og gul for vip brukere.",
     "Item3": "Hvis en bruker har flere roller, settes prioriteten som: Moderator > og > vip."
   },
   "ChannelHiderSettings": {
@@ -150,8 +150,8 @@
     "AddButton": "Legg til",
     "EmptyList": "Ingen kanaler på svartelisten",
     "Item1": "Status for kanalskjuling må være slått på for at alle funksjoner skal fungere.",
-    "Item2": "For å skjule en kanal, klikk på ⊘ blocked-knappen i de anbefalte kanalene eller streamen som spilles av på hjemmesiden.",
-    "Item3": "Du kan finne og fjerne kanalene du har skjult fra Kanalskjuler-menyen i utvidelsesvinduet.",
+    "Item2": "For å skjule en kanal, klikk på ⊘ blocked knappen i de anbefalte kanalene eller streamen som spilles av på hjemmesiden.",
+    "Item3": "Du kan finne og fjerne kanalene du har skjult fra Kanalskjuler menyen i utvidelsesvinduet.",
     "Item4": "Legg til kanalene du ikke vil se i listen over anbefalte kanaler til venstre og de automatisk avspilte anbefalte kanalene på hjemmesiden.",
     "Item5": "Kanalene du legger til vil ikke vises i delen for anbefalte streams på hjemmesiden."
   },
@@ -161,12 +161,12 @@
     "Item1": "Lar deg se det skjulte seertallet til en kringkastingskanal mens du ser på."
   },
   "EmotePreviewSettings": {
-    "Title": "Emote-forhåndsvisning",
-    "PreviewWindow": "Emote-forhåndsvisningsvindu",
+    "Title": "Emote forhåndsvisning",
+    "PreviewWindow": "Emote forhåndsvisningsvindu",
     "WindowSize": "Vindustørrelse",
-    "Item1": "Velg mellom 3 forskjellige vindusstørrelser for emote-forhåndsvisning.",
+    "Item1": "Velg mellom 3 forskjellige vindusstørrelser for emote forhåndsvisning.",
     "Item2": "Vindusstørrelsen er satt til sm som standard.",
-    "Item3": "Lar deg se en forstørret versjon og detaljer om emoten i et lite popup-vindu når du holder musen over emotes i chatten."
+    "Item3": "Lar deg se en forstørret versjon og detaljer om emoten i et lite popup vindu når du holder musen over emotes i chatten."
   },
   "ChannelThemeSettings": {
     "Title": "Velg kanaltema",
@@ -201,7 +201,7 @@
     "HiddenChannelPrefix": "Skjult kanal: "
   },
   "ChannelHoverPlayer": {
-    "PreviewTitle": "KT with dp | Stream-forhåndsvisning"
+    "PreviewTitle": "KT with dp | Stream forhåndsvisning"
   },
   "ChatMessageHighlighter": {
     "Unhighlight": "Fjern fremheving",
@@ -211,7 +211,7 @@
     "ShowInViewer": "Vis i Innholdsviser"
   },
   "EmotePreview": {
-    "PreviewTitle": "KT with dp | Emote-forhåndsvisning"
+    "PreviewTitle": "KT with dp | Emote forhåndsvisning"
   },
   "FavoriteUser": {
     "Remove": "Fjern fra favoritter",
@@ -239,7 +239,7 @@
   },
   "KickVodPlayer": {
     "VideoLoadError": "Videoen kunne ikke lastes inn",
-    "DefaultTitle": "Stream-opptak",
+    "DefaultTitle": "Stream opptak",
     "Publisher": "Utgiver:"
   },
   "LiveViewerCountTracker": {
@@ -290,10 +290,10 @@
     "Starting": "Starter...",
     "Tooltips": {
       "TargetMod": "Målbrukeren er en moderator i denne kanalen, så handlingen vil ikke bli brukt. Du kan bare bruke cross ban.",
-      "StreamerModeMod": "Streamer-modus er aktiv. Målbrukeren er en moderator i denne kanalen, så handlingen vil ikke bli brukt her. Handlingen vil bare bli brukt i din egen kanal (eller andre hvis cross ban er på).",
-      "StreamerModeActive": "Streamer-modus er aktiv.",
-      "StreamerModeBoth": "Streamer-modus er aktiv. Handlingen vil bli brukt i både denne kanalen og din egen kanal.",
-      "StreamerModeOnlyYours": "Streamer-modus er aktiv. Fordi du ikke er en moderator i denne kanalen, vil handlingen bli brukt basert på din egen kanal."
+      "StreamerModeMod": "Streamer modus er aktiv. Målbrukeren er en moderator i denne kanalen, så handlingen vil ikke bli brukt her. Handlingen vil bare bli brukt i din egen kanal (eller andre hvis cross ban er på).",
+      "StreamerModeActive": "Streamer modus er aktiv.",
+      "StreamerModeBoth": "Streamer modus er aktiv. Handlingen vil bli brukt i både denne kanalen og din egen kanal.",
+      "StreamerModeOnlyYours": "Streamer modus er aktiv. Fordi du ikke er en moderator i denne kanalen, vil handlingen bli brukt basert på din egen kanal."
     },
     "ApiErrors": {
       "ChannelInfoError": "Kanalinformasjon kunne ikke hentes.",
@@ -342,7 +342,7 @@
     }
   },
   "RaidBlocker": {
-    "RaidCancelActive": "KT with dp | Raid-kansellering aktiv"
+    "RaidCancelActive": "KT with dp | Raid kansellering aktiv"
   },
   "SettingsTriggerButton": {
     "SettingsAriaLabel": "KT with dp Innstillinger"
@@ -372,7 +372,7 @@
     "NoSocials": "Ingen sosiale medier.",
     "ToggleBio": "Vis/skjul bio",
     "Following": "Følger",
-    "Joined": "Ble med-dato",
+    "Joined": "Ble med dato",
     "Streak": "Streak",
     "Unfollow": "Slutt å følge",
     "Follow": "Følg",
@@ -380,9 +380,9 @@
     "AddToFavorites": "Legg til i favoritter",
     "Unhighlight": "Fjern fremheving",
     "Highlight": "Fremhev meldinger",
-    "ChannelId": "Kanal-ID",
-    "UserId": "Bruker-ID",
-    "ChatId": "Chat-ID",
+    "ChannelId": "Kanal ID",
+    "UserId": "Bruker ID",
+    "ChatId": "Chat ID",
     "Replies": "Svar",
     "NoReplies": "Ingen svardata.",
     "ModerationLogs": "Modereringslogger",
@@ -450,8 +450,8 @@
     "LiveTitle": "{{channel}} er Live!",
     "KeywordTitle": "Treff for orddetektor",
     "KeywordMessage": "{{sender}} i {{channel}}: {{content}}",
-    "BadgeTitle": "KT with dp | Stream-lyd",
-    "BadgeSubtitle": "Stream-lyd dempet",
+    "BadgeTitle": "KT with dp | Stream lyd",
+    "BadgeSubtitle": "Stream lyd dempet",
     "BadgeButton": "Slå på lyd"
   }
 }

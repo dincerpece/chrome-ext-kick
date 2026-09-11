@@ -23,16 +23,16 @@
   "ModerationInfo": {
     "Title": "Moderation",
     "Item1": "Moderation tools work in channels where you are a moderator or in your own channel.",
-    "Item2": "While ban, timeout, and cross-ban settings are active in other channels, only the cross-ban setting is active in your own channel.",
-    "Item3": "You must follow the channels where you are a moderator when applying a cross-ban.",
-    "Item4": "While you cannot ban or timeout users who are moderators in your own channel, you can apply a cross-ban in other channels you follow and moderate, provided the user is not a moderator there.",
+    "Item2": "While ban, timeout, and cross ban settings are active in other channels, only the cross ban setting is active in your own channel.",
+    "Item3": "You must follow the channels where you are a moderator when applying a cross ban.",
+    "Item4": "While you cannot ban or timeout users who are moderators in your own channel, you can apply a cross ban in other channels you follow and moderate, provided the user is not a moderator there.",
     "Item5": "The timeout duration cannot exceed 1 week."
   },
   "StreamerModeSettings": {
     "Title": "Streamer Mode",
     "AdvancedMode": "Advanced Moderation Mode",
     "Item1": "If streamer mode is active, you can view your own chat messages or take actions in certain windows for your own channel.",
-    "Item2": "Advanced Moderation Mode activates the advanced moderation panel, which offers cross-bans, custom timeout durations, and detailed chat history, replacing Kick's default panel on user profiles."
+    "Item2": "Advanced Moderation Mode activates the advanced moderation panel, which offers cross bans, custom timeout durations, and detailed chat history, replacing Kick's default panel on user profiles."
   },
   "LiveNotificationSettings": {
     "Title": "Live Notification Settings",
@@ -62,7 +62,7 @@
     "Title": "Auto Stream Tab",
     "Opener": "Auto Stream Opener",
     "Sound": "Stream Audio",
-    "Item1": "If the stream audio setting is disabled, it is reapplied upon every tab focus or re-opening of tabs.",
+    "Item1": "If the stream audio setting is disabled, it is reapplied upon every tab focus or re opening of tabs.",
     "Item2": "With the stream audio setting, streams are started muted to prevent sudden audio playback in the background. You can unmute directly from the top right corner of the Kick player.",
     "Item3": "Notifications for the streamer you follow must be enabled.",
     "Item4": "If the stream is already open in any of your tabs, it focuses on that tab; otherwise, it opens in a new tab.",
@@ -77,7 +77,7 @@
   "AdBlockerSettings": {
     "Title": "Ad Blocker",
     "BlockAds": "Block Ads",
-    "Item1": "Automatically blocks live stream and video-on-demand (VOD) ads on Kick.",
+    "Item1": "Automatically blocks live stream and video on demand (VOD) ads on Kick.",
     "Item2": "Provides an uninterrupted viewing experience by skipping ad segments at the network level without interrupting the video stream.",
     "Item3": "After changing the setting, the current stream page will automatically reload for the setting to fully take effect or disable."
   },
@@ -104,7 +104,7 @@
     "Item2": "If any of the words you added appear in a chat message, that message is highlighted with a special animation.",
     "Item3": "You can customize the keyword highlight color as you wish and use the trash button to revert to the default color.",
     "Item4": "Messages are marked with a flashing border so you can easily spot them.",
-    "Item5": "Keyword searches are case-sensitive. It matches the exact way you added the word.",
+    "Item5": "Keyword searches are case sensitive. It matches the exact way you added the word.",
     "Item6": "You can enable or disable system (desktop) notifications and audio alerts from their respective settings."
   },
   "ModLogsSettings": {
@@ -130,10 +130,10 @@
     "Status": "Embed Viewer Status",
     "WindowSize": "Window Size",
     "Item1": "View X (Twitter), YouTube, Kick, and Instagram links shared in chat directly within the page.",
-    "Item2": "When clicking the button, it opens a draggable independent window in the top-left corner to display the content.",
+    "Item2": "When clicking the button, it opens a draggable independent window in the top left corner to display the content.",
     "Item3": "Choose from 3 different window sizes for content preview.",
     "Item4": "The window size is set to sm by default.",
-    "Item5": "You can resize the opened window from the bottom-right corner up to 80% of the page width."
+    "Item5": "You can resize the opened window from the bottom right corner up to 80% of the page width."
   },
   "RoleHighlightsSettings": {
     "Title": "Role Highlights",
@@ -152,7 +152,7 @@
     "Item1": "The channel hider status must be enabled for all functions to work.",
     "Item2": "To hide a channel, simply click the ⊘ blocked button located on the recommended channels or the stream playing on the home page.",
     "Item3": "You can find and remove channels you have hidden under the Channel Hider menu in the extension window.",
-    "Item4": "Add channels you don't want to see in the left sidebar recommended channels list and the auto-playing recommended streams on the home page.",
+    "Item4": "Add channels you don't want to see in the left sidebar recommended channels list and the auto playing recommended streams on the home page.",
     "Item5": "Channels you add will not be shown in the recommended streams section on the home page."
   },
   "ViewerCountSettings": {
@@ -247,7 +247,7 @@
     "Participation": "% Participation",
     "ActiveChatters": "Active Chatters",
     "TooltipLine1": "These values are calculated mathematically based on the live viewer count.",
-    "TooltipLine2": "Statistics are re-evaluated from that moment on every channel switch."
+    "TooltipLine2": "Statistics are re evaluated from that moment on every channel switch."
   },
   "ModPanel": {
     "Title": "KT with dp | Moderation",
@@ -289,8 +289,8 @@
     "SwitchToAdvanced": "Switch to Advanced Moderation",
     "Starting": "Starting...",
     "Tooltips": {
-      "TargetMod": "Target user is a moderator/broadcaster in this channel, so no action will be applied here. You can only use cross-ban.",
-      "StreamerModeMod": "Streamer mode is active. Target user is a moderator in this channel, so no action will be applied here. Action will only be applied in your own channel (and others if cross-ban is enabled).",
+      "TargetMod": "Target user is a moderator/broadcaster in this channel, so no action will be applied here. You can only use cross ban.",
+      "StreamerModeMod": "Streamer mode is active. Target user is a moderator in this channel, so no action will be applied here. Action will only be applied in your own channel (and others if cross ban is enabled).",
       "StreamerModeActive": "Streamer mode is active.",
       "StreamerModeBoth": "Streamer mode is active. Action will be applied both in this channel and your own channel.",
       "StreamerModeOnlyYours": "Streamer mode is active. Since you are not a moderator in this channel, action will be applied based on your own channel."
