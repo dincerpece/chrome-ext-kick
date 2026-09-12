@@ -11,6 +11,8 @@
         "Güncelleme notları artık hem Türkçe hem de İngilizce olarak sunulmaktadır. Tarayıcı diliniz Türkçe değilse varsayılan olarak İngilizce baz alınır.",
         "Güncelleme dosyaları okunabilirlik açısından md formatından json formatına dönüştürüldü.",
         "Moderasyon günlüklerindeki gereksiz border kaldırıldı.",
+        "Moderasyon ihlal etiketlerine 'Platform Kara Listesi' desteği eklendi.",
+        "Ayarlar menü renkleri daha koyu hale getirildi.",
         "Bazı svg ikonlarındaki renk durak noktaları (stopColor), react için yeniden yazıldı."
       ]
     },

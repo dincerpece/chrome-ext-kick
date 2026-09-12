@@ -11,6 +11,8 @@
         "Update notes are now available in both Turkish and English. If your browser language is not Turkish, English is used as the default.",
         "Update files have been converted from md format to json format.",
         "The unnecessary border in moderation logs has been removed.",
+        "Platform Blacklist support has been added to moderation violation tags.",
+        "Settings menu colors were made darker.",
         "Color stop points in some svg icons have been rewritten for react."
       ]
     },
