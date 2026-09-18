@@ -6,14 +6,26 @@
       "version": "1.0.18",
       "message": [
         "Artık uygulamamız 38 farklı dilde kullanıma sunulmuştur! Varsayılan dil olarak tarayıcınızın dili baz alınmıştır. Değiştirmek isterseniz sağ üst köşeden dilediğiniz dili seçebilirsiniz.",
+        "Chrome web mağazası yapılandırması, başta İngilizce ve Türkçe olmak üzere toplam 38 dili kapsayacak şekilde yerelleştirildi ve küresel varsayılan dil İngilizce olarak ayarlandı.",
         "Reklam Engelleyici artık aktif! Canlı yayın ve vod reklamlarını kesintisiz bir şekilde engelleyen bu akıllı sistem, ayar değişikliklerinin kusursuz bir şekilde geçerli olması için yayın sayfasını otomatik olarak yeniler. Ve varsayılan olarak aktifdir.",
         "Uzantı ayarlarınızı artık yedekleyebilir veya geri yükleyebilirsiniz. Sistem bilgisi altındaki Ayarlar başlığından bunlara ulaşabilirsiniz.",
         "Güncelleme notları artık hem Türkçe hem de İngilizce olarak sunulmaktadır. Tarayıcı diliniz Türkçe değilse varsayılan olarak İngilizce baz alınır.",
         "Güncelleme dosyaları okunabilirlik açısından md formatından json formatına dönüştürüldü.",
+        "Kullanıcı detay kartına Kick tier seviyesine özel banner, arka plan ve hareketli profil animasyonları eklendi. Banner için herhangi bir seviye sınırı bulunmazken; arka plan minimum 10. seviyeye, hareketli profil animasyonları ise yalnızca 40. seviye ve üzerine ulaşmış kullanıcılarda görünür olmaktadır.",
         "Moderasyon günlüklerindeki gereksiz border kaldırıldı.",
         "Moderasyon ihlal etiketlerine 'Platform Kara Listesi' desteği eklendi.",
         "Ayarlar menü renkleri daha koyu hale getirildi.",
-        "Bazı svg ikonlarındaki renk durak noktaları (stopColor), react için yeniden yazıldı."
+        "Bazı svg ikonlarındaki renk durak noktaları (stopColor), react için yeniden yazıldı.",
+        "İçerik görüntüleyicideki açılan pencerenin aksiyon butonlarının kaybolmasına neden olan bir sorun giderildi.",
+        "Kullanıcı detay kartında sürükleme imleci düzeltildi, uzaklaştırma/yasaklama durumlarındaki senkronizasyon hataları giderildi, çoklu sekme açılışlarında tıklanan kartın öne gelmesi sağlandı ve nota tıklandığında not penceresinin kart ile birlikte hareket etmesi sağlandı.",
+        "Moderasyon araçlarının stabilitesi sağlanıp bulundukları yer değiştirildi ve çapraz işlem ikonu güncellendi.",
+        "Ayar yedekleme formatı daha güvenli bir yapıya geçirildi. Yedekler artık tarih ve saat damgalı olarak dışa aktarılıyor.",
+        "Geçmiş sürümler, arayüzü daha sade hale getirmek için açılır kapanır (dropdown) bir yapıya taşındı.",
+        "Kick'in sınıf değişiklikleri doğrultusunda raid iptalinde yaşanan hatalar nedeniyle, DOM seçicilerine bağımlılığı ortadan kaldırmak ve kararlılığı artırmak adına veri tabanlı bir mimariye geçildi.",
+        "Moderasyon altındaki açıklamalardan biri kaldırıldı.",
+        "Raid iptalleri için masaüstü bildirimleri eklendi. Varsayılan olarak kapalı olan bu özelliği ayarlardan açarak; hangi kanaldan, hangi kanala ve kaç kişmeyle raid atılırken iptal edildiği bilgisini alabilirsiniz.",
+        "Açılan ayar menüsündeki klavye olaylarının ana sayfaya sızarak site kısayollarını tetiklemesi engellendi.",
+        "TypeScript için tip güvenliği adına güncellemeler yapıldı."
       ]
     },
     {

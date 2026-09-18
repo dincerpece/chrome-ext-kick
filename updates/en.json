@@ -6,14 +6,26 @@
       "version": "1.0.18",
       "message": [
         "Our application is now available in 38 different languages! Your browser's language is used as the default. If you wish to change it, you can select your preferred language from the top right corner.",
+        "The chrome web store configuration has been localized for a total of 38 languages, starting with English and Turkish, with English set as the global default language.",
         "Ad Blocker is now active! This smart system seamlessly blocks live stream and vod ads, and automatically refreshes the broadcast page to ensure your settings apply perfectly. It is enabled by default.",
         "You can now backup or restore your extension settings. You can access these from the Settings section under System Information.",
         "Update notes are now available in both Turkish and English. If your browser language is not Turkish, English is used as the default.",
         "Update files have been converted from md format to json format.",
+        "Added Kick tier-specific banners, backgrounds, and animated profile effects to the user detail card. While there are no level restrictions for banners, backgrounds are only visible for users who have reached at least level 10, and animated profile effects are exclusive to users at level 40 and above.",
         "The unnecessary border in moderation logs has been removed.",
         "Platform Blacklist support has been added to moderation violation tags.",
         "Settings menu colors were made darker.",
-        "Color stop points in some svg icons have been rewritten for react."
+        "Color stop points in some svg icons have been rewritten for react.",
+        "Fixed an issue causing action buttons to disappear in the content viewer's pop-up window.",
+        "Fixed the drag cursor on the user detail card, resolved synchronization issues in timeout/ban states, ensured the clicked card comes to the front when multiple cards are open, and made the note window move together with the card.",
+        "Optimized moderation tools stability, repositioned them, and updated the cross action icon.",
+        "The settings backup format has been updated to a more secure structure. Backups are now exported with a timestamp.",
+        "Past versions have been moved to a collapsible accordion structure to keep the interface clean and organized.",
+        "Due to errors caused by Kick's class changes regarding raid cancellations, a data-driven architecture was adopted to eliminate dependency on DOM selectors and increase stability.",
+        "One of the descriptions under Moderation was removed.",
+        "Desktop notifications for raid cancellations have been added. By enabling this feature, which is off by default, in the settings, you will receive information on which channel attempted a raid, to which channel, and with how many viewers it was canceled.",
+        "Keyboard events inside the settings menu leaking to the main page and triggering site shortcuts have been resolved.",
+        "Made updates to improve type safety in TypeScript."
       ]
     },
     {
