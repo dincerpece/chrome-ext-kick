@@ -1,16 +1,7 @@
 {
-  "currentVersion": "1.0.19",
+  "currentVersion": "1.0.18",
   "forceUpdate": false,
   "history": [
-    {
-      "version": "1.0.19",
-      "message": [
-        "Dashboard sayfasına ayarlar butonu ve moderasyon günlükleri artık eklendi.",
-        "Tüm modül ayarları ve tercihler için anlık dinleyici desteği eklendi; değişiklikler pencereler arası eşzamanlı olarak yansıtılıyor.",
-        "Favori kullanıcılar ve öne çıkarılan mesajlar için anlık senkronizasyon eklendi, değişiklikler tüm pencerelerde eşzamanlı yansıyacak.",
-        "Tooltip'ler belirlenen maksimum genişliğe ulaşana kadar tek satırda kalacak ve sonrasında alt satıra kayacak şekilde optimize edildi."
-      ]
-    },
     {
       "version": "1.0.18",
       "message": [
