@@ -1,7 +1,16 @@
 {
-  "currentVersion": "1.0.18",
+  "currentVersion": "1.0.19",
   "forceUpdate": false,
   "history": [
+    {
+      "version": "1.0.19",
+      "message": [
+        "The settings button and moderation logs have now been added to the dashboard page.",
+        "Added real-time listener support for all module settings and preferences, allowing changes to sync instantly across windows.",
+        "Real-time synchronization has been added for favorite users and highlighted messages; changes will now reflect simultaneously across all windows.",
+        "Tooltips were optimized to stay in a single line until reaching the specified maximum width and then wrap to the next line."
+      ]
+    },
     {
       "version": "1.0.18",
       "message": [

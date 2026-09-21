@@ -1,7 +1,16 @@
 {
-  "currentVersion": "1.0.18",
+  "currentVersion": "1.0.19",
   "forceUpdate": false,
   "history": [
+    {
+      "version": "1.0.19",
+      "message": [
+        "Dashboard sayfasına ayarlar butonu ve moderasyon günlükleri artık eklendi.",
+        "Tüm modül ayarları ve tercihler için anlık dinleyici desteği eklendi; değişiklikler pencereler arası eşzamanlı olarak yansıtılıyor.",
+        "Favori kullanıcılar ve öne çıkarılan mesajlar için anlık senkronizasyon eklendi, değişiklikler tüm pencerelerde eşzamanlı yansıyacak.",
+        "Tooltip'ler belirlenen maksimum genişliğe ulaşana kadar tek satırda kalacak ve sonrasında alt satıra kayacak şekilde optimize edildi."
+      ]
+    },
     {
       "version": "1.0.18",
       "message": [
@@ -23,7 +32,7 @@
         "Geçmiş sürümler, arayüzü daha sade hale getirmek için açılır kapanır (dropdown) bir yapıya taşındı.",
         "Kick'in sınıf değişiklikleri doğrultusunda raid iptalinde yaşanan hatalar nedeniyle, DOM seçicilerine bağımlılığı ortadan kaldırmak ve kararlılığı artırmak adına veri tabanlı bir mimariye geçildi.",
         "Moderasyon altındaki açıklamalardan biri kaldırıldı.",
-        "Raid iptalleri için masaüstü bildirimleri eklendi. Varsayılan olarak kapalı olan bu özelliği ayarlardan açarak; hangi kanaldan, hangi kanala ve kaç kişmeyle raid atılırken iptal edildiği bilgisini alabilirsiniz.",
+        "Raid iptalleri için masaüstü bildirimleri eklendi. Varsayılan olarak kapalı olan bu özelliği ayarlardan açarak; hangi kanaldan, hangi kanala ve kaç kişiyle raid atılırken iptal edildiği bilgisini alabilirsiniz.",
         "Açılan ayar menüsündeki klavye olaylarının ana sayfaya sızarak site kısayollarını tetiklemesi engellendi.",
         "TypeScript için tip güvenliği adına güncellemeler yapıldı."
       ]
