@@ -7,7 +7,7 @@
       "message": [
         "Öngörü paneli artık aktif! Canlı tahminleri, kilitlenme durumlarını ve kazanan seçenekleri anlık olarak takip edebilirsiniz. Oy dağılımlarını, katlama oranlarını ve en çok puan yatıran izleyicileri tek bir ekrandan kolayca görüntüleyebilirsiniz.",
         "Dashboard sayfasına ayarlar butonu ve moderasyon günlükleri artık eklendi.",
-        "Reklam engelleyiciye eklenen 'Diğer Reklam Servislerini Engelle' özelliği ile Kick dışındaki 3. taraf reklam ağlarını (Google Ads, DoubleClick vb.) ve izleyicileri arka planda sessizce engeller. Sayfayı yenilemenize gerek kalmadan anında devreye girerek daha hızlı ve gizli bir izleme deneyimi sunar. Ve varsayılan olarak açıktır.",
+        "Reklam engelleyiciye eklenen yeni 'Diğer Reklam Servislerini Engelle' özelliği, Kick dışındaki üçüncü taraf reklam ağlarını arka planda sessizce engeller. Sayfayı yenilemenize gerek kalmadan anında devreye girerek daha hızlı ve gizli bir izleme deneyimi sunar. Ve varsayılan olarak açıktır.",
         "Tüm modül ayarları ve tercihler için anlık dinleyici desteği eklendi; değişiklikler pencereler arası eşzamanlı olarak yansıtılıyor.",
         "Favori kullanıcılar ve öne çıkarılan mesajlar için anlık senkronizasyon eklendi, değişiklikler tüm pencerelerde eşzamanlı yansıyacak.",
         "Tooltip'ler belirlenen maksimum genişliğe ulaşana kadar tek satırda kalacak ve sonrasında alt satıra kayacak şekilde optimize edildi.",
