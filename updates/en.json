@@ -1,7 +1,19 @@
 {
-  "currentVersion": "1.0.18",
+  "currentVersion": "1.0.19",
   "forceUpdate": false,
   "history": [
+    {
+      "version": "1.0.19",
+      "message": [
+        "The Prediction Panel is now live! Track live predictions, lock statuses, and winning outcomes in real time. Easily view vote distributions, multiplier odds, and top contributors all in one place.",
+        "The settings button and moderation logs have now been added to the dashboard page.",
+        "The new 'Block Other Ad Services' feature in the ad blocker silently blocks third-party ad networks (Google Ads, DoubleClick, etc.) and trackers in the background. It takes effect instantly without the need to refresh the page, providing a faster and more private viewing experience. This feature is enabled by default.",
+        "Added real-time listener support for all module settings and preferences, allowing changes to sync instantly across windows.",
+        "Real-time synchronization has been added for favorite users and highlighted messages; changes will now reflect simultaneously across all windows.",
+        "Tooltips were optimized to stay in a single line until reaching the specified maximum width and then wrap to the next line.",
+        "Card overflow outside the screen was prevented, the concurrent card limit was reduced to 2, clicking an open card now brings it to the front without refreshing/re-rendering, and the close button was made more visible."
+      ]
+    },
     {
       "version": "1.0.18",
       "message": [
